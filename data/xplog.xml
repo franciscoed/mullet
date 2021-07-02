@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>XP Log Fundo de Investimento Imobiliário</NomeFundo>
+		<CNPJFundo>26502794000185</CNPJFundo>
+		<DataFuncionamento>2016-10-18</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRXPLGCTF002</CodigoISIN>
+		<QtdCotasEmitidas>27101061.0002068</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Híbrido</Mandato>
+			<SegmentoAtuacao>Outros</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>31/12</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA</NomeAdministrador>
+		<CNPJAdministrador>26502794000185</CNPJAdministrador>
+		<Logradouro>Rua Gilberto Sabino</Logradouro>
+		<Numero>215</Numero>
+		<Complemento>4º Andar</Complemento>
+		<Bairro>Pinheiros</Bairro>
+		<Cidade>São Paulo</Cidade>
+		<Estado>SP</Estado>
+		<CEP>05425-020</CEP>
+		<Telefone1>11 3030-7300</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.vortx.com.br</Site>
+		<Email>admfundos@vortxbr.com</Email>
+		<Competencia>1/2021</Competencia>
+		<DataEncerTrimestre>2021-03-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+							<Imovel>
+								<Nome>CACHOEIRINHA - CD Via Varejo</Nome>
+								<Endereco>Rua Lennie Queiroz, 333  - Cachoeirinha - RS</Endereco>
+								<Area>38410</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Matrícula 31483</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.074677</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Setor1</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.074677</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> comércio varejistaSetor2</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Setor3</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>SetorN</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>CD RENNER - CD Renner </Nome>
+								<Endereco>Avenida Osvaldo José do Amaral, SN - Areias  São José - SC</Endereco>
+								<Area>47912.9</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Matrículas  68.019 a 68.026 e 111.421</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.1024</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Setor1</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.1024</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> comércio varejistaSetor2</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Setor3</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>SetorN</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>DIA AMERICA - CD Dia% Americana</Nome>
+								<Endereco>Rua Joao de Padula, 245 - Americana - SP</Endereco>
+								<Area>30345.13</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Matrícula 58407</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.041145</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Setor1</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.041145</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> Comércio e distr. alimentosSetor2</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Setor3</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>SetorN</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>DIA RIBEIR - CD Dia% Ribeirão</Nome>
+								<Endereco>Via Jose Luiz Galvão, 1905 - Ribeirão Preto - SP</Endereco>
+								<Area>21135.52</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Matrícula 177959</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.035446</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Setor1</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.035446</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> Comércio e distr. alimentosSetor2</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Setor3</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>SetorN</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>IMO ITAPEVA - CD Panasonic </Nome>
+								<Endereco>Estrada Municipal do Mandu, 2550 - Itapeva - MG</Endereco>
+								<Area>23453.67</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Matrícula 13627</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.043264</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Setor1</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.043264</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> EletrônicosSetor2</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Setor3</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>SetorN</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>SBP - Santana Business Park</Nome>
+								<Endereco>Estrada Tenente Marques, 1818 - Santana de Parnaiba - SP</Endereco>
+								<Area>31220.65</Area>
+								<NumUnidades>23</NumUnidades>
+								<OutrasCaractRelevantes>Matrícula 201542 a 201564</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.050358</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Setor1</SetorAtuacao><PercentReceitaImovel>0.0567</PercentReceitaImovel><PercentReceitasFII>0.050358</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> comércio varejistaSetor2</SetorAtuacao><PercentReceitaImovel>0.3064</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> logísticoSetor3</SetorAtuacao><PercentReceitaImovel>0.0958</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> saúdeSetorN</SetorAtuacao><PercentReceitaImovel>0.5412</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> suprimentos e papel</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>WTTP2 - WTTP II </Nome>
+								<Endereco>Avenida Ceci, 1649 - Barueri - SP</Endereco>
+								<Area>24654</Area>
+								<NumUnidades>13</NumUnidades>
+								<OutrasCaractRelevantes>Matrícula 102805</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.031992</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Setor1</SetorAtuacao><PercentReceitaImovel>0.007</PercentReceitaImovel><PercentReceitasFII>0.0319992</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> alimentosSetor2</SetorAtuacao><PercentReceitaImovel>0.993</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> logísticaSetor3</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>SetorN</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Condomínio DDC RJ - Syslog RJ</Nome>
+								<Endereco>Avenida OL-1 -Duque de Caxias, RJ</Endereco>
+								<Area>57033.53</Area>
+								<NumUnidades>16</NumUnidades>
+								<OutrasCaractRelevantes>N/A</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.090108</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Setor1</SetorAtuacao><PercentReceitaImovel>0.7549</PercentReceitaImovel><PercentReceitasFII>0.090108</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> empresarialSetor2</SetorAtuacao><PercentReceitaImovel>0.1362</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> comércio varejistaSetor3</SetorAtuacao><PercentReceitaImovel>0.0606</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> ernegiaSetorN</SetorAtuacao><PercentReceitaImovel>0.0482</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> farmaceutico</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Cone Multimodal (MM1, MM2 e PP2), exceto CD Unilever</Nome>
+								<Endereco>ROD BR101, Sul Nº 2.220 - Cabo de Santo Agostinho, PE</Endereco>
+								<Area>203074</Area>
+								<NumUnidades>62</NumUnidades>
+								<OutrasCaractRelevantes>Investimentos via NE Logistic FII</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.360932</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Setor1</SetorAtuacao><PercentReceitaImovel>0.3657</PercentReceitaImovel><PercentReceitasFII>0.360932</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> alimentosSetor2</SetorAtuacao><PercentReceitaImovel>0.0841</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> automotivoSetor3</SetorAtuacao><PercentReceitaImovel>0.377</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> comércio varejistaSetor4</SetorAtuacao><PercentReceitaImovel>0.1732</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> transportes </SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>CD Unilever (MM1)</Nome>
+								<Endereco>ROD BR101, Sul Km 96,4, 5.225 - Cabo de Santo Agostinho, PE</Endereco>
+								<Area>23024.71</Area>
+								<NumUnidades>4</NumUnidades>
+								<OutrasCaractRelevantes>Investimentos via NE Logistic FII</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.038414</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Setor1</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.038414</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao> comércio varejistaSetor2</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Setor3</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>SetorN</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+
+								<Nome>CD Leroy Cajamar</Nome>
+								<Endereco>Rod. dos Bandeirantes, km 34</Endereco>
+								<Area>110208.57</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Matrículas 56.549, 56.551</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.133110</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Material de Construção</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.133110</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses/>
+							<TresAteSeisMeses/>
+							<SeisAteNoveMeses/>
+							<NoveAteDozeMeses percentReceitaImovel="0.08" percentReceitasFII="0.08"/>
+							<DozeAteQuinzeMeses/>
+							<QuinzeAteDezoitoMeses/>
+							<DezoitoAteVinteUmMeses/>
+							<VinteUmAteVinteQuatroMeses percentReceitaImovel="0.22" percentReceitasFII="0.22"/>
+							<VinteQuatroAteVinteSeteMeses/>
+							<VinteSeteAteTrintaMeses/>
+							<TrintaAteTrintaTresMeses/>
+							<TrintaTresAteTrintaSeisMeses/>
+							<AcimaTrintaSeisMeses percentReceitaImovel="0.7" percentReceitasFII="0.7"/>
+							<PrazoIndeterminado/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM percentReceitaImovel="0.43" percentReceitasFII="0.43"/>
+							<INPC/>
+							<IPCA percentReceitaImovel="0.54" percentReceitasFII="0.54"/>
+							<INCC/>
+							<OutrosIndicadores>
+								<Indicador nome="IPC/Fipe" percentReceitaImovel="0.03" percentReceitasFII="0.03"/>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns>As carácterísticas básicas estão refletidas nas tabelas acima. O fundo conta com contratos de locação tanto atípicos quanto típicos. Para mais detalhes, os relatórios gerenciais podem ser visualizados mensalmente na CVM.</CaractContratuaisComuns>
+						<CaractContratuaisIndividual>
+							<Imovel>
+								<NomeOuEndereco>CACHOEIRINHA - CD Via Varejo</NomeOuEndereco>
+								<CaractContratuais>Atípico</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>CD RENNER - CD Renner </NomeOuEndereco>
+								<CaractContratuais>Atípico</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>DIA AMERICA - CD Dia% Americana</NomeOuEndereco>
+								<CaractContratuais>Típico</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>DIA RIBEIR - CD Dia% Ribeirão</NomeOuEndereco>
+								<CaractContratuais>Típico</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>IMO ITAPEVA - CD Panasonic </NomeOuEndereco>
+								<CaractContratuais>Atípico</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>SBP - Santana Business Park</NomeOuEndereco>
+								<CaractContratuais>Típico; Atípico</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>WTTP2 - WTTP II </NomeOuEndereco>
+								<CaractContratuais>Típico</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Cone Multimodal (MM1, MM2 e PP2), exceto CD Unilever</NomeOuEndereco>
+								<CaractContratuais>Típico; Atípico</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>CD Unilever (MM1)</NomeOuEndereco>
+								<CaractContratuais>Atípico</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Condomínio DDC RJ - Syslog RJ</NomeOuEndereco>
+								<CaractContratuais>Típico</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>CD Leroy Cajamar</NomeOuEndereco>
+								<CaractContratuais>Atípico</CaractContratuais>
+							</Imovel>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro>O time de gestão da XP Vista Asset Management conta com um programa de Manutenção Preventiva (PMP), no intuito de monitorar e tomar ações com vistas à preservação dos imóveis. Para os imóveis com contrato Atípico, e/ou de monusuário, o fundo monitora a renovação anual dos seguros providenciados pelas locatárias. Para os imóveis com contratos típicos e multiusuários o fundo contrato anulamente apólice de seguro diretamente ou via condomínio.</PoliticaContratacaoSeguro>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+							<Imovel>
+								<Nome>Syslog SP</Nome>
+								<Endereco>Km 26 + 175,35m e o km 25 + 759,35m da Rodovia Anhanguera</Endereco>
+								<Area>66377.59</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>As obras do Syslog São Paulo, com área construída de 79.973,00 m² (a participação do Fundo é de 83%), permanecem em conformidade com o cronograma. A previsão é que o término e o aceite das obras ocorram ao longo do 3º trimestre de 2021. Diante dos impactos da pandemia do COVID-19, este cronograma poderá ser alterado; entretanto, tal modificação não impactará o fluxo de prêmios de locação vinculados ao negócio. As principais atividades em andamento são: piso de concreto, cobertura metálica, instalações e serviços na área externa.</OutrasCaractRelevantes>
+								<PercentLocado>1</PercentLocado>
+								<PercentConclusaoObras realizado="0" previsto="0"/>
+								<CustoConstrucao realizado="0" previsto="0"/>
+							</Imovel>
+							<Imovel>
+								<Nome>Especulativo Cajamar</Nome>
+								<Endereco>Rod. dos Bandeirantes, km 34 - Cajamar, SP</Endereco>
+								<Area>125717</Area>
+								<NumUnidades>4</NumUnidades>
+								<OutrasCaractRelevantes>As obras do Centro Logístico Especulativo, com área construída de 125.717,0 m², permanecem em conformidade com o cronograma previsto de entrega. Diante dos impactos da pandemia do COVID-19, este cronograma poderá ser alterado; entretanto, tal modificação não impactará o fluxo de prêmios de locação vinculados ao negócio. A principal atividade em andamento é a execução de acabamentos e de serviços na área externa. Todos os galpões tiveram Habite-se e AVCB emitidos e as vistorias para recebimento do empreendimento estão em andamento.</OutrasCaractRelevantes>
+								<PercentLocado>1</PercentLocado>
+								<PercentConclusaoObras realizado="0" previsto="0"/>
+								<CustoConstrucao realizado="0" previsto="0"/>
+							</Imovel>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+							<Imovel>
+								<NomeOuEndereco>Syslog SP </NomeOuEndereco>
+								<JustEvolucaoInferior>Não aplicável</JustEvolucaoInferior>
+								<JustCustoSuperior>Não aplicável</JustCustoSuperior>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Especulativo Cajamar</NomeOuEndereco>
+								<JustEvolucaoInferior>Não aplicável</JustEvolucaoInferior>
+								<JustCustoSuperior>Não aplicável</JustCustoSuperior>
+							</Imovel>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro>O time de gestão da XP Vista Asset Management conta com um programa de Manutenção Preventiva (PMP), no intuito de monitorar e tomar ações com vistas à preservação dos imóveis. Para os imóveis com contrato Atípico, e/ou de monusuário, o fundo monitora a renovação anual dos seguros providenciados pelas locatárias. Para os imóveis com contratos típicos e multiusuários o fundo contrato anulamente apólice de seguro diretamente ou via condomínio</PoliticaContratacaoSeguro>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+					<Emissor>
+						<Fundo>FII NE LOGI</Fundo>
+						<CNPJ>30495165000142</CNPJ>
+						<Quantidade>428700</Quantidade>
+						<Valor>620054532</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FDO INV IMOB - VBI LOGÍSTICO - LVBI11</Fundo>
+						<CNPJ>30629603000118</CNPJ>
+						<Quantidade>18721</Quantidade>
+						<Valor>2134194</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FDO INV IMOB SDI RIO BRAVO RENDA LOG - FII - SDIL11</Fundo>
+						<CNPJ>16671412000193</CNPJ>
+						<Quantidade>111607</Quantidade>
+						<Valor>11149539.3</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>VINCI LOGÍSTICA FDO INV IMOB - FII - VILG11</Fundo>
+						<CNPJ>24853044000122</CNPJ>
+						<Quantidade>122897</Quantidade>
+						<Valor>14500617.03</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>VINCI LOGÍSTICA FDO INV IMOB - FII - VILG15</Fundo>
+						<CNPJ>24853044000122</CNPJ>
+						<Quantidade>40320</Quantidade>
+						<Valor>4790016</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>VINCI LOGÍSTICA FDO INV IMOB - FII - VILG15</Fundo>
+						<CNPJ>24853044000122</CNPJ>
+						<Quantidade>37126</Quantidade>
+						<Valor>4677133.48</Valor>
+					</Emissor>
+				</FII>
+				<CRI>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+					<Emissor>
+						<Sociedade>AFAC MERCUR_</Sociedade>
+						<CNPJ/>
+						<Quantidade>5533</Quantidade>
+						<Valor>5533</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>SYSLOG RJ_ REC LOG DUQUE DE CAXIAS EMPREENDIMENTOS S.A.</Sociedade>
+						<CNPJ>3622631000130</CNPJ>
+						<Quantidade>136857088</Quantidade>
+						<Valor>136857088</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>SYSLOG SP_ </Sociedade>
+						<CNPJ/>
+						<Quantidade>10584062</Quantidade>
+						<Valor>10584062</Valor>
+					</Emissor>
+				</AcoesSocFII>
+				<CotasSocFII>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+					<Emissor>
+						<Fundo>BRADESCO EMPRESAS FICFI RF REF DI PLUS - BRAD EM PLUS</Fundo>
+						<CNPJ>5629893000152</CNPJ>
+						<Quantidade>49282090.3658705</Quantidade>
+						<Valor>280028328.34</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>Bradesco FIC RF Ref DI PLATINUM - BRAD PLATIN</Fundo>
+						<CNPJ>4237583000120</CNPJ>
+						<Quantidade>977831.40896966</Quantidade>
+						<Valor>7753962.23</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>BRADESCO FIC FI RF REF DI SUPREMO - BRAD SUPREMO</Fundo>
+						<CNPJ>28849736000158</CNPJ>
+						<Quantidade>35326587.0376895</Quantidade>
+						<Valor>39914786.5</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>BRADESCO FICFI REF AGATA - BRADES AGATA</Fundo>
+						<CNPJ>306278000191</CNPJ>
+						<Quantidade>82336.03848222</Quantidade>
+						<Valor>1572580.36</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FI EMPRESAS FIC - EMP FIC LOG</Fundo>
+						<CNPJ>5629904000102</CNPJ>
+						<Quantidade>727852.6378</Quantidade>
+						<Valor>4157852.98</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>BRADESCO FI REF DI FE - EXTRA XP LOG</Fundo>
+						<CNPJ>3256793000100</CNPJ>
+						<Quantidade>12025027.6623055</Quantidade>
+						<Valor>145883412.57</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>Bradesco Simples RF - RFSIMPLES LO</Fundo>
+						<CNPJ>34081049000138</CNPJ>
+						<Quantidade>2049795.8681</Quantidade>
+						<Valor>2117598.86</Valor>
+					</Emissor>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>612448.61</Disponibilidades>
+				<TitulosPublicos>134999637.72</TitulosPublicos>
+				<TitulosPrivados xsi:nil="true"/>
+				<FundosRendaFixa>607483379.57</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda/>
+					<CustoImovEstoque/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis contabil="25336940.52" financeiro="46417550"/>
+					<DespManutencaoConservacao/>
+					<ReceitasVenda/>
+					<CustoPropriedadesVendidas/>
+					<AjusteValor/>
+					<OutrasRecOuDesp contabil="-1310037.53" financeiro="-1071736.77"/>
+					<ResultadoLiquido contabil="24026902.99" financeiro="45345813.23"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros/>
+					<AjusteValor/>
+					<ResultadoVenda/>
+					<OutrasRecOuDesp contabil="-1471341.97" financeiro="2487214"/>
+					<ResultadoLiquido contabil="-1471341.97" financeiro="2487214"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="22555561.02" financeiro="47833027.23"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="6743020.63"/>
+				<AjusteValorAplicacoes/>
+				<ResultadoVendaAplicacoes contabil="46475.07" financeiro="467941.48"/>
+				<OutrasRecOuDespAplicacoes contabil="1659059" financeiro="1659059"/>
+				<ResultadoLiquido contabil="8448554.70" financeiro="2127000.48"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-553955.05" financeiro="-553955"/>
+				<TaxaDesempenho/>
+				<ConsultoriaEspecializada contabil="-4381370" financeiro="-4381370"/>
+				<EmpresaEspecializada financeiro="-246714.93"/>
+				<FormadorMercado/>
+				<CustodiaTitulosValores/>
+				<AuditoriaIndependente contabil="-940806.49"/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="-685849.13" financeiro="-545293.97"/>
+				<ComissoesEmolumentos contabil="-412897.43" financeiro="-112"/>
+				<HonorariosDespesasDefesas contabil="-97170.38" financeiro="-17972.33"/>
+				<GastosContratosSeguros/>
+				<DespesasAvaliacoes/>
+				<TaxasIngressoSaidaFundos/>
+				<DespesasRegistroCartorio contabil="-20311.74" financeiro="-54460.72"/>
+				<OutrasRecOuDesp contabil="5323119.49" financeiro="-1012397.58"/>
+				<Total contabil="-1769240.73" financeiro="-6812276.53"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="29234874.99" financeiro="43147751.18"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>43147751.18</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>40990363.621</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte xsi:nil="true"/>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil xsi:nil="true"/>
+			<ResultadoFinanceiroExcedeMinimo xsi:nil="true"/>
+			<RendimentosDeclarados>40990363.621</RendimentosDeclarados>
+			<RendimentosPagosAntec>-43747562</RendimentosPagosAntec>
+			<RendimentoPagar>-2757198.379</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>0.95</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

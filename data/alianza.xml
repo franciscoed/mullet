@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>ALIANZA TRUST RENDA IMOBILIARIA - FII</NomeFundo>
+		<CNPJFundo>28737771000185</CNPJFundo>
+		<DataFuncionamento>2017-12-27</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRALZRCTF006</CodigoISIN>
+		<QtdCotasEmitidas>4479484</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Renda</Mandato>
+			<SegmentoAtuacao>Híbrido</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>Junho</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>BTG Pactual Serviços Financeiros S.A. – DTVM</NomeAdministrador>
+		<CNPJAdministrador>28737771000185</CNPJAdministrador>
+		<Logradouro>Praia de Botafogo</Logradouro>
+		<Numero>501</Numero>
+		<Complemento>6º Andar</Complemento>
+		<Bairro>Botafogo</Bairro>
+		<Cidade>Rio de Janeiro</Cidade>
+		<Estado>RJ</Estado>
+		<CEP>22250-040</CEP>
+		<Telefone1>(11) 3383-3102</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.btgpactual.com</Site>
+		<Email>ri.fundoslistados@btgpactual.com</Email>
+		<Competencia>1/2021</Competencia>
+		<DataEncerTrimestre>2021-03-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+							<Imovel>
+								<Nome>Galpão Air Liquide</Nome>
+								<Endereco>Av. Presidente Wilson s/n.º 6000, São Paulo, SP, 03107-002</Endereco>
+								<Area>5008</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.110875</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Industrial</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.110875</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Imóvel Clariant</Nome>
+								<Endereco>Avenida das Nações Unidas 18001, São Paulo, SP, 04753-100</Endereco>
+								<Area>28504</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.153702</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Farmacêutico</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.153702</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Imóvel Decathlon</Nome>
+								<Endereco>Avenida Duquesa de Goiás 381, São Paulo, SP, 05686-001</Endereco>
+								<Area>8750</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.077787</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Varejo</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.077787</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Imóvel Dasa Sumaré</Nome>
+								<Endereco>Av. Sumaré 1500, São Paulo, SP, 01252-120</Endereco>
+								<Area>5227</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.051364</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Diagnósticos</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.051364</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Imóvel Dasa Ascendino Reis</Nome>
+								<Endereco>Av. Professor Ascendino Reis 545, São Paulo, SP, 04074-010</Endereco>
+								<Area>2539</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.019169</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Diagnósticos</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.019169</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Imóvel Globo</Nome>
+								<Endereco>Rua Pacheco Leão 70, Rio de Janeiro, RJ, 22460-030</Endereco>
+								<Area>3815.52</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.052887</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Telecomunicações</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.052887</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Empreendimento Atento Del Castilho</Nome>
+								<Endereco>Avenida Dom Hélder Câmara 3.203 e 3.229,  Rio de Janeiro, RJ, 20973-011</Endereco>
+								<Area>8178</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.135811</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Comercial</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.135811</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Empreendimento Momentum</Nome>
+								<Endereco>Rua Arapore 655, São Paulo, SP, 05608-001</Endereco>
+								<Area>4517</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.043235</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Comercial</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.043235</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Empreendimento Ed. Moderna</Nome>
+								<Endereco>Rua Padre Adelino 758, São Paulo, SP, 03303-000</Endereco>
+								<Area>9260</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.107977</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Comercial</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.107977</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Galpão GRU</Nome>
+								<Endereco>Rua Barão de Penedo 248, P1, P13 e P14, Guarulhos, SP, 07222-015</Endereco>
+								<Area>3763.42</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.033394</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Alimentício</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.033394</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Galpão BRU</Nome>
+								<Endereco>Avenida Nações Unidas 51-15, Bauru, SP, 17033-260</Endereco>
+								<Area>3627.49</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.037457</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Alimentício</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.037457</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Galpão Aptiv</Nome>
+								<Endereco>Rua Jose Monfardini 3845, Lote A, Espírito Santo do Pinhal, SP, 13990-000</Endereco>
+								<Area>18590.77</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de Propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.085281</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Industrial</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.085281</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses/>
+							<TresAteSeisMeses/>
+							<SeisAteNoveMeses/>
+							<NoveAteDozeMeses/>
+							<DozeAteQuinzeMeses/>
+							<QuinzeAteDezoitoMeses/>
+							<DezoitoAteVinteUmMeses/>
+							<VinteUmAteVinteQuatroMeses/>
+							<VinteQuatroAteVinteSeteMeses/>
+							<VinteSeteAteTrintaMeses/>
+							<TrintaAteTrintaTresMeses/>
+							<TrintaTresAteTrintaSeisMeses/>
+							<AcimaTrintaSeisMeses percentReceitaImovel="1" percentReceitasFII="0.908939"/>
+							<PrazoIndeterminado/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM/>
+							<INPC/>
+							<IPCA percentReceitaImovel="1" percentReceitasFII="0.908939"/>
+							<INCC/>
+							<OutrosIndicadores>
+								<Indicador nome="Outros"/>
+								<Indicador nome="IGP-DI"/>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns>Os contratos de locação possuem algumas características comuns as quais esta administradora considera relevantes para as locações dos fundos que administra:
+a) Cláusulas de Benfeitorias
+b) Cláusulas de revisão de aluguel – seguindo a legislação vigente
+c) Tipo de indexador – normalmente indicamos IGPM-FGV como indexador para reajuste de locação
+d) Garantia exigida – as garantias aceitas são garantia bancária (fiança ou seguro fiança) ou deposito caução
+
+Vale ressaltar que cada contrato é negociado, cláusula a cláusula com o locatário, logo podem haver contratos firmados que não seguem os itens descritos acima a rigor, mas a maioria dos contratos são firmados com considerando os pontos descritos acima.</CaractContratuaisComuns>
+						<CaractContratuaisIndividual>
+							<Imovel>
+								<NomeOuEndereco>Galpão Air Liquide</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Imóvel Clariant</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Imóvel Decathlon</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Imóvel Dasa Sumaré</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Imóvel Dasa Ascendino Reis</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Imóvel Globo</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Empreendimento Atento Del Castilho</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Empreendimento Momentum</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Empreendimento Ed. Moderna</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Galpão GRU</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Galpão BRU</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Galpão Aptiv</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro>Para a contratação de seguros, seguimos a política de, após identificar a necessidade de contratação, por meio de controles de prazos de vencimento, providenciar a especificação técnica dos seguros a serem contratados e, na sequência, a solicitação de no mínimo 3 (três) cotações.
+
+Com base nos detalhes técnicos, buscamos no mercado empresas que atendam a demanda para a realização das cotações.
+
+As propostas devem conter, no mínimo: (a) preço; (b) descrição do serviço ou especificação do produto; (c) condições de pagamento e (d) prazo de entrega. É aconselhável solicitar ao proponente que a minuta do contrato a ser celebrado seja encaminhada juntamente com a proposta.</PoliticaContratacaoSeguro>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+					<Emissor>
+						<Fundo>ALIANZA DIGITAL REALTY FUNDO DE INVESTIMENTO IMOBILIÁRIO</Fundo>
+						<CNPJ>38293862000122</CNPJ>
+						<Quantidade>520000</Quantidade>
+						<Valor>52000000</Valor>
+					</Emissor>
+				</FII>
+				<CRI>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+				</AcoesSocFII>
+				<CotasSocFII>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+					<Emissor>
+						<Fundo>ITAU REFERENCIADO DI VIP FICFI</Fundo>
+						<CNPJ>5073650000180</CNPJ>
+						<Quantidade>3652567.77277</Quantidade>
+						<Valor>23170447.29</Valor>
+					</Emissor>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>149.29</Disponibilidades>
+				<TitulosPublicos>0</TitulosPublicos>
+				<TitulosPrivados>0</TitulosPrivados>
+				<FundosRendaFixa>23170447.29</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+					<Imovel>
+						<Nome>Imóvel Clariant</Nome>
+						<Endereco>Avenida das Nações Unidas 18001, São Paulo, SP, 04753-100</Endereco>
+						<Area>28504</Area>
+						<NumUnidades>1</NumUnidades>
+						<OutrasCaractRelevantes>Direito de propriedade</OutrasCaractRelevantes>
+						<PercentTotalInvestido>1</PercentTotalInvestido>
+						<Categoria>Renda</Categoria>
+					</Imovel>
+					<Imovel>
+						<Nome>Imóvel Globo</Nome>
+						<Endereco>Rua Pacheco Leão 70, Rio de Janeiro, RJ, 22460-030</Endereco>
+						<Area>3815.52</Area>
+						<NumUnidades>1</NumUnidades>
+						<OutrasCaractRelevantes>Direito de propriedade</OutrasCaractRelevantes>
+						<PercentTotalInvestido>1</PercentTotalInvestido>
+						<Categoria>Renda</Categoria>
+					</Imovel>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda/>
+					<CustoImovEstoque/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis contabil="9009097.46" financeiro="9009097.46"/>
+					<DespManutencaoConservacao/>
+					<ReceitasVenda/>
+					<CustoPropriedadesVendidas/>
+					<AjusteValor/>
+					<OutrasRecOuDesp contabil="-870819.45" financeiro="-679148.88"/>
+					<ResultadoLiquido contabil="8138278.01" financeiro="8329948.58"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros contabil="666061.53" financeiro="666061.53"/>
+					<AjusteValor/>
+					<ResultadoVenda/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="666061.53" financeiro="666061.53"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="8804339.54" financeiro="8996010.11"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="235149.73" financeiro="235149.73"/>
+				<AjusteValorAplicacoes/>
+				<ResultadoVendaAplicacoes/>
+				<OutrasRecOuDespAplicacoes contabil="-84801.45" financeiro="-84801.45"/>
+				<ResultadoLiquido contabil="150348.28" financeiro="150348.28"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-1355200.47" financeiro="-1355200.47"/>
+				<TaxaDesempenho/>
+				<ConsultoriaEspecializada contabil="-936.26" financeiro="-936.26"/>
+				<EmpresaEspecializada/>
+				<FormadorMercado/>
+				<CustodiaTitulosValores/>
+				<AuditoriaIndependente contabil="-14500" financeiro="0"/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="-12029.55" financeiro="-12029.55"/>
+				<ComissoesEmolumentos/>
+				<HonorariosDespesasDefesas contabil="-9285" financeiro="-9285"/>
+				<GastosContratosSeguros contabil="-3683.05" financeiro="-3683.05"/>
+				<DespesasAvaliacoes contabil="-8000" financeiro="-12000"/>
+				<TaxasIngressoSaidaFundos/>
+				<DespesasRegistroCartorio/>
+				<OutrasRecOuDesp contabil="-160922.68" financeiro="-160922.68"/>
+				<Total contabil="-1564557.01" financeiro="-1554057.01"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="7390130.81" financeiro="7592301.38"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>7592301.38</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>7212686.311</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte xsi:nil="true"/>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil xsi:nil="true"/>
+			<ResultadoFinanceiroExcedeMinimo>379615.07</ResultadoFinanceiroExcedeMinimo>
+			<RendimentosDeclarados>7592301.381</RendimentosDeclarados>
+			<RendimentosPagosAntec>-4866072.45</RendimentosPagosAntec>
+			<RendimentoPagar>2726228.931</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>1</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

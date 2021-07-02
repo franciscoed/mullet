@@ -1,11 +1,23 @@
 import xml.etree.ElementTree as ET
 import streamlit as st
 import pandas as pd
+import os
 
-tree = ET.parse('tri.xml')
+# Pasta com os arquivox XML
+folder_name = 'data/'
 
+# Lista a pasta
+file_list = os.listdir(folder_name)
+
+# Cria a barra lateral com a opcao para escolher o arquivo
+equity = st.sidebar.selectbox('Qual fundo?', file_list)
+
+# Abre o arquivo XML escolhido
+tree = ET.parse(folder_name + equity)
+# parse do arquivo
 root = tree.getroot()
 
+# Cria as variaveis que serao usadas ao longo do codigo
 tmp_dict = {}
 tmp_list = []
 # Titulo
@@ -81,9 +93,10 @@ df_af = pd.DataFrame(data=tmp_list)
 df_af = df_af.fillna("")
 # Dependendo do tipo do ativo ele pode ser de um Fundo ou de uma Sociedade
 # Entao vamos juntar as duas informacoes em uma coluna e dropar as anteriores
-df_af["Fundo/Sociedade"] = df_af["Fundo"] + df_af["Sociedade"]
-del df_af["Fundo"]
-del df_af["Sociedade"]
+if "Fundo" in df_af and "Sociedade" in df_af:
+    df_af["Fundo/Sociedade"] = df_af["Fundo"] + df_af["Sociedade"]
+    del df_af["Fundo"]
+    del df_af["Sociedade"]
 # Plot
 st.table(df_af)
 
