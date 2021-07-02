@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>HECTARE CE - FUNDO DE INVESTIMENTO IMOBILIÁRIO</NomeFundo>
+		<CNPJFundo>30248180000196</CNPJFundo>
+		<DataFuncionamento>2018-09-19</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRHCTRCTF003</CodigoISIN>
+		<QtdCotasEmitidas>7157942.9039997</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<EnquadraNotaSeis>true</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Títulos e Valores Mobiliários</Mandato>
+			<SegmentoAtuacao>Títulos e Val. Mob.</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>31/12</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.</NomeAdministrador>
+		<CNPJAdministrador>30248180000196</CNPJAdministrador>
+		<Logradouro>Rua Gilberto Sabino</Logradouro>
+		<Numero>215</Numero>
+		<Complemento>4o Andar</Complemento>
+		<Bairro>Pinheiros</Bairro>
+		<Cidade>São Paulo</Cidade>
+		<Estado>SP</Estado>
+		<CEP>5425020</CEP>
+		<Telefone1>11 3030-7300</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.vortx.com.br</Site>
+		<Email>admfundos@vortxbr.com</Email>
+		<Competencia>1/2021</Competencia>
+		<DataEncerTrimestre>2021-03-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses/>
+							<TresAteSeisMeses/>
+							<SeisAteNoveMeses/>
+							<NoveAteDozeMeses/>
+							<DozeAteQuinzeMeses/>
+							<QuinzeAteDezoitoMeses/>
+							<DezoitoAteVinteUmMeses/>
+							<VinteUmAteVinteQuatroMeses/>
+							<VinteQuatroAteVinteSeteMeses/>
+							<VinteSeteAteTrintaMeses/>
+							<TrintaAteTrintaTresMeses/>
+							<TrintaTresAteTrintaSeisMeses/>
+							<AcimaTrintaSeisMeses/>
+							<PrazoIndeterminado/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM/>
+							<INPC/>
+							<IPCA/>
+							<INCC/>
+							<OutrosIndicadores>
+								<Indicador nome="AAA"/>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns xsi:nil="true"/>
+						<CaractContratuaisIndividual>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+					<Emissor>
+						<Fundo>FII HECTARE RECEBÍVEIS HIGH GRADE</Fundo>
+						<CNPJ>34508959000154</CNPJ>
+						<Quantidade>75000</Quantidade>
+						<Valor>7386336.65</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>HECTARE RECEBÍVEIS HIGH GRADE FII -HCHG11</Fundo>
+						<CNPJ>34508959000154</CNPJ>
+						<Quantidade>150000</Quantidade>
+						<Valor>15000000</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>RIO BRAVO CRED IMO HIGH YIELD FII CF -RBHY11</Fundo>
+						<CNPJ>37899479000150</CNPJ>
+						<Quantidade>200000</Quantidade>
+						<Valor>20166000</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII HECTARE STUDENT HOUSING</Fundo>
+						<CNPJ>31152015000107</CNPJ>
+						<Quantidade>120000</Quantidade>
+						<Valor>12890396</Valor>
+					</Emissor>
+				</FII>
+				<CRI>
+					<Emissor>
+						<Companhia>TRUE  SECURITIZADORA S/A</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>56</Serie>
+						<Quantidade>169</Quantidade>
+						<Valor>22513448.77</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>274</Serie>
+						<Quantidade>10500</Quantidade>
+						<Valor>8436658.79</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>323</Serie>
+						<Quantidade>9350</Quantidade>
+						<Valor>8509033.78</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>326</Serie>
+						<Quantidade>750</Quantidade>
+						<Valor>689412.29</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>329</Serie>
+						<Quantidade>2303</Quantidade>
+						<Valor>2210328.51</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>330</Serie>
+						<Quantidade>1473</Quantidade>
+						<Valor>1417822.48</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>327</Serie>
+						<Quantidade>1474</Quantidade>
+						<Valor>1302395.59</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>438</Serie>
+						<Quantidade>2000</Quantidade>
+						<Valor>2157475.95</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>438</Serie>
+						<Quantidade>15000</Quantidade>
+						<Valor>16181069.61</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>438</Serie>
+						<Quantidade>11381</Quantidade>
+						<Valor>12277116.88</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>438</Serie>
+						<Quantidade>2000</Quantidade>
+						<Valor>2157475.95</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>438</Serie>
+						<Quantidade>5000</Quantidade>
+						<Valor>5393689.87</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>443</Serie>
+						<Quantidade>5593</Quantidade>
+						<Valor>5509912.25</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>413</Serie>
+						<Quantidade>14400</Quantidade>
+						<Valor>14257527.85</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>485</Serie>
+						<Quantidade>35000</Quantidade>
+						<Valor>34149411.1</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>486</Serie>
+						<Quantidade>15000</Quantidade>
+						<Valor>14827648.4</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>479</Serie>
+						<Quantidade>2400</Quantidade>
+						<Valor>2354723.49</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>480</Serie>
+						<Quantidade>1600</Quantidade>
+						<Valor>1590612.84</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>493</Serie>
+						<Quantidade>35000</Quantidade>
+						<Valor>34670974.03</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>494</Serie>
+						<Quantidade>25000</Quantidade>
+						<Valor>24215410.45</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>503</Serie>
+						<Quantidade>7455</Quantidade>
+						<Valor>7387870.71</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>504</Serie>
+						<Quantidade>3195</Quantidade>
+						<Valor>3250757.03</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>507</Serie>
+						<Quantidade>21000</Quantidade>
+						<Valor>20973352.3</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>508</Serie>
+						<Quantidade>9000</Quantidade>
+						<Valor>9006435.01</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>519</Serie>
+						<Quantidade>4180</Quantidade>
+						<Valor>4158629.17</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>515</Serie>
+						<Quantidade>3640</Quantidade>
+						<Valor>3648419.04</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>345</Serie>
+						<Quantidade>140</Quantidade>
+						<Valor>165110.47</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>443</Serie>
+						<Quantidade>11000</Quantidade>
+						<Valor>10836587.65</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>451</Serie>
+						<Quantidade>14525</Quantidade>
+						<Valor>14608710.44</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>441</Serie>
+						<Quantidade>15903</Quantidade>
+						<Valor>16458471.04</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>342</Serie>
+						<Quantidade>3500</Quantidade>
+						<Valor>3677986.45</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>369</Serie>
+						<Quantidade>3100</Quantidade>
+						<Valor>3460096.64</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>452</Serie>
+						<Quantidade>14525</Quantidade>
+						<Valor>14582389.87</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>368</Serie>
+						<Quantidade>11100</Quantidade>
+						<Valor>12385847.93</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>341</Serie>
+						<Quantidade>6500</Quantidade>
+						<Valor>6789050.46</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>281</Serie>
+						<Quantidade>5592</Quantidade>
+						<Valor>6285874.98</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>492</Serie>
+						<Quantidade>35000</Quantidade>
+						<Valor>34630599.47</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>491</Serie>
+						<Quantidade>35000</Quantidade>
+						<Valor>35043873.52</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>492</Serie>
+						<Quantidade>30000</Quantidade>
+						<Valor>29683370.97</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>439</Serie>
+						<Quantidade>500</Quantidade>
+						<Valor>536211.73</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>292</Serie>
+						<Quantidade>1344</Quantidade>
+						<Valor>1360068.73</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>314</Serie>
+						<Quantidade>17000</Quantidade>
+						<Valor>13699241.41</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>478</Serie>
+						<Quantidade>4400</Quantidade>
+						<Valor>4228112.33</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>311</Serie>
+						<Quantidade>6000</Quantidade>
+						<Valor>5422176.81</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>477</Serie>
+						<Quantidade>6600</Quantidade>
+						<Valor>6674304.37</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>106</Serie>
+						<Quantidade>766</Quantidade>
+						<Valor>112478.02</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>140</Serie>
+						<Quantidade>2200</Quantidade>
+						<Valor>2132718.39</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>141</Serie>
+						<Quantidade>1128</Quantidade>
+						<Valor>1140845.74</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>141</Serie>
+						<Quantidade>904</Quantidade>
+						<Valor>914294.81</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>142</Serie>
+						<Quantidade>1505</Quantidade>
+						<Valor>1601602.06</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>197</Serie>
+						<Quantidade>2150</Quantidade>
+						<Valor>506304.34</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>197</Serie>
+						<Quantidade>2000</Quantidade>
+						<Valor>470980.78</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>198</Serie>
+						<Quantidade>850</Quantidade>
+						<Valor>226632.43</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>199</Serie>
+						<Quantidade>1590</Quantidade>
+						<Valor>379194.37</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>200</Serie>
+						<Quantidade>182</Quantidade>
+						<Valor>38980.35</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>202</Serie>
+						<Quantidade>6500</Quantidade>
+						<Valor>2777603.82</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>203</Serie>
+						<Quantidade>2375</Quantidade>
+						<Valor>744714.98</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>204</Serie>
+						<Quantidade>2375</Quantidade>
+						<Valor>993631.93</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>219</Serie>
+						<Quantidade>1200</Quantidade>
+						<Valor>1192089.47</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>231</Serie>
+						<Quantidade>950</Quantidade>
+						<Valor>744359.54</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>232</Serie>
+						<Quantidade>1800</Quantidade>
+						<Valor>1402235.2</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>233</Serie>
+						<Quantidade>1800</Quantidade>
+						<Valor>1404787.3</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>241</Serie>
+						<Quantidade>3000</Quantidade>
+						<Valor>3498805.53</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>242</Serie>
+						<Quantidade>3150</Quantidade>
+						<Valor>3682259.94</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>242</Serie>
+						<Quantidade>1239</Quantidade>
+						<Valor>1448355.57</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>254</Serie>
+						<Quantidade>3350</Quantidade>
+						<Valor>2468606.59</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>287</Serie>
+						<Quantidade>3000</Quantidade>
+						<Valor>3550638.6</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>287</Serie>
+						<Quantidade>3000</Quantidade>
+						<Valor>3550638.6</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>287</Serie>
+						<Quantidade>2000</Quantidade>
+						<Valor>2367092.4</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>289</Serie>
+						<Quantidade>10000</Quantidade>
+						<Valor>10593580.35</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>293</Serie>
+						<Quantidade>7800</Quantidade>
+						<Valor>7788648.78</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>294</Serie>
+						<Quantidade>700</Quantidade>
+						<Valor>701971.61</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>284</Serie>
+						<Quantidade>3400</Quantidade>
+						<Valor>2919634.87</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>301</Serie>
+						<Quantidade>3000</Quantidade>
+						<Valor>3665973.73</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>301</Serie>
+						<Quantidade>11000</Quantidade>
+						<Valor>13441903.68</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>312</Serie>
+						<Quantidade>3000</Quantidade>
+						<Valor>2625744.53</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>324</Serie>
+						<Quantidade>1847</Quantidade>
+						<Valor>1592974.39</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>321</Serie>
+						<Quantidade>2800</Quantidade>
+						<Valor>2386593.6</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>318</Serie>
+						<Quantidade>553</Quantidade>
+						<Valor>470702.93</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>313</Serie>
+						<Quantidade>2000</Quantidade>
+						<Valor>1788219.51</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>313</Serie>
+						<Quantidade>2688</Quantidade>
+						<Valor>2403367.03</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>328</Serie>
+						<Quantidade>5150</Quantidade>
+						<Valor>4460357.69</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>337</Serie>
+						<Quantidade>18000</Quantidade>
+						<Valor>18336682.75</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>339</Serie>
+						<Quantidade>4000</Quantidade>
+						<Valor>4177108.3</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>341</Serie>
+						<Quantidade>6800</Quantidade>
+						<Valor>7102391.25</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>340</Serie>
+						<Quantidade>4000</Quantidade>
+						<Valor>4198975.08</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>342</Serie>
+						<Quantidade>700</Quantidade>
+						<Valor>735597.29</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>280</Serie>
+						<Quantidade>1057</Quantidade>
+						<Valor>1150599.77</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>280</Serie>
+						<Quantidade>1000</Quantidade>
+						<Valor>1088552.29</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>280</Serie>
+						<Quantidade>8000</Quantidade>
+						<Valor>8708418.3</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>281</Serie>
+						<Quantidade>8574</Quantidade>
+						<Valor>9637892</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>281</Serie>
+						<Quantidade>440</Quantidade>
+						<Valor>494596.74</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>345</Serie>
+						<Quantidade>7640</Quantidade>
+						<Valor>9010314.11</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>345</Serie>
+						<Quantidade>2860</Quantidade>
+						<Valor>3372970.99</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>353</Serie>
+						<Quantidade>100</Quantidade>
+						<Valor>93022.19</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>353</Serie>
+						<Quantidade>8000</Quantidade>
+						<Valor>7441774.86</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>355</Serie>
+						<Quantidade>4350</Quantidade>
+						<Valor>4055389.19</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>362</Serie>
+						<Quantidade>9375</Quantidade>
+						<Valor>9734028.07</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>363</Serie>
+						<Quantidade>3100</Quantidade>
+						<Valor>3132305.34</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>363</Serie>
+						<Quantidade>625</Quantidade>
+						<Valor>631513.17</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>361</Serie>
+						<Quantidade>5000</Quantidade>
+						<Valor>4576350.93</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>366</Serie>
+						<Quantidade>7850</Quantidade>
+						<Valor>8386550.45</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>377</Serie>
+						<Quantidade>9400</Quantidade>
+						<Valor>8549229.27</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>383</Serie>
+						<Quantidade>1050</Quantidade>
+						<Valor>1109059.09</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>395</Serie>
+						<Quantidade>10000</Quantidade>
+						<Valor>8795780.84</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>395</Serie>
+						<Quantidade>15482</Quantidade>
+						<Valor>13617627.9</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>398</Serie>
+						<Quantidade>5000</Quantidade>
+						<Valor>4657021.93</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>399</Serie>
+						<Quantidade>3995</Quantidade>
+						<Valor>3729307.77</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>399</Serie>
+						<Quantidade>1500</Quantidade>
+						<Valor>1400240.72</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>396</Serie>
+						<Quantidade>1005</Quantidade>
+						<Valor>944560.21</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>400</Serie>
+						<Quantidade>1500</Quantidade>
+						<Valor>1463421.82</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>407</Serie>
+						<Quantidade>2750</Quantidade>
+						<Valor>2945107.25</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>409</Serie>
+						<Quantidade>2000</Quantidade>
+						<Valor>2165887.72</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>417</Serie>
+						<Quantidade>1968</Quantidade>
+						<Valor>1874077</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>418</Serie>
+						<Quantidade>1312</Quantidade>
+						<Valor>1267055.45</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>422</Serie>
+						<Quantidade>2600</Quantidade>
+						<Valor>3165378.71</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>425</Serie>
+						<Quantidade>3400</Quantidade>
+						<Valor>4007751.67</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>428</Serie>
+						<Quantidade>5650</Quantidade>
+						<Valor>5554343.17</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>429</Serie>
+						<Quantidade>2850</Quantidade>
+						<Valor>2800881.44</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>457</Serie>
+						<Quantidade>17500</Quantidade>
+						<Valor>15801796.29</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>458</Serie>
+						<Quantidade>8550</Quantidade>
+						<Valor>7837253.16</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>461</Serie>
+						<Quantidade>550</Quantidade>
+						<Valor>494074.1</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>459</Serie>
+						<Quantidade>8542</Quantidade>
+						<Valor>8018624.63</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>439</Serie>
+						<Quantidade>3619</Quantidade>
+						<Valor>3881100.5</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>449</Serie>
+						<Quantidade>24775</Quantidade>
+						<Valor>24897155.89</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>450</Serie>
+						<Quantidade>19775</Quantidade>
+						<Valor>20129538.2</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>471</Serie>
+						<Quantidade>20000</Quantidade>
+						<Valor>18985404.12</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>472</Serie>
+						<Quantidade>15000</Quantidade>
+						<Valor>14265164.81</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>432</Serie>
+						<Quantidade>1750</Quantidade>
+						<Valor>1717413.96</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>491</Serie>
+						<Quantidade>15000</Quantidade>
+						<Valor>15018802.94</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>433</Serie>
+						<Quantidade>750</Quantidade>
+						<Valor>738917.21</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>445</Serie>
+						<Quantidade>31433</Quantidade>
+						<Valor>30373919.35</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>366</Serie>
+						<Quantidade>19000</Quantidade>
+						<Valor>20298657.14</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>454</Serie>
+						<Quantidade>3500</Quantidade>
+						<Valor>3462010.52</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>453</Serie>
+						<Quantidade>3500</Quantidade>
+						<Valor>3465201.55</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>434</Serie>
+						<Quantidade>350</Quantidade>
+						<Valor>340295.73</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>520</Serie>
+						<Quantidade>2140</Quantidade>
+						<Valor>2131618.78</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>341</Serie>
+						<Quantidade>19500</Quantidade>
+						<Valor>20367151.39</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>342</Serie>
+						<Quantidade>10500</Quantidade>
+						<Valor>11033959.35</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>347</Serie>
+						<Quantidade>4860</Quantidade>
+						<Valor>5380039.74</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>365</Serie>
+						<Quantidade>3000</Quantidade>
+						<Valor>2328322.64</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>364</Serie>
+						<Quantidade>1000</Quantidade>
+						<Valor>766586.69</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>516</Serie>
+						<Quantidade>1560</Quantidade>
+						<Valor>1564714.16</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE  SECURITIZADORA S/A</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>1</Emissao>
+						<Serie>289</Serie>
+						<Quantidade>11701</Quantidade>
+						<Valor>12065960.05</Valor>
+					</Emissor>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+				</AcoesSocFII>
+				<CotasSocFII>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+					<Emissor>
+						<Fundo>Bradesco Empresas FIC Referenciado DI</Fundo>
+						<CNPJ>5629904000102</CNPJ>
+						<Quantidade>24573502.3732</Quantidade>
+						<Valor>140866360.06</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>Devant Solidus Cash FIRF CP</Fundo>
+						<CNPJ>22003346000186</CNPJ>
+						<Quantidade>504383.5088</Quantidade>
+						<Valor>680198.34</Valor>
+					</Emissor>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>0</Disponibilidades>
+				<TitulosPublicos>0</TitulosPublicos>
+				<TitulosPrivados>0</TitulosPrivados>
+				<FundosRendaFixa>141546558.4</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda/>
+					<CustoImovEstoque/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis/>
+					<DespManutencaoConservacao/>
+					<ReceitasVenda/>
+					<CustoPropriedadesVendidas/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros contabil="31140646.63" financeiro="20170312.47"/>
+					<AjusteValor/>
+					<ResultadoVenda/>
+					<OutrasRecOuDesp contabil="1188036.69" financeiro="33303863.31"/>
+					<ResultadoLiquido contabil="32328683.32" financeiro="53474175.78"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="32328683.32" financeiro="53474175.78"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="302266.92" financeiro="199658.36"/>
+				<AjusteValorAplicacoes/>
+				<ResultadoVendaAplicacoes/>
+				<OutrasRecOuDespAplicacoes/>
+				<ResultadoLiquido contabil="302266.92" financeiro="199658.36"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-136283.2" financeiro="-70149.75"/>
+				<TaxaDesempenho contabil="-2306412.81" financeiro="-3422565.4"/>
+				<ConsultoriaEspecializada contabil="-2222112.17" financeiro="-1781798.38"/>
+				<EmpresaEspecializada/>
+				<FormadorMercado/>
+				<CustodiaTitulosValores/>
+				<AuditoriaIndependente contabil="-7563.85" financeiro="-12000"/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="-52750.77" financeiro="-52439"/>
+				<ComissoesEmolumentos/>
+				<HonorariosDespesasDefesas/>
+				<GastosContratosSeguros/>
+				<DespesasAvaliacoes/>
+				<TaxasIngressoSaidaFundos/>
+				<DespesasRegistroCartorio/>
+				<OutrasRecOuDesp contabil="-356178.84" financeiro="2455148.46"/>
+				<Total contabil="-5081301.64" financeiro="-2883804.07"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="27549648.6" financeiro="50790030.07"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>50790030.07</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>48250528.5665</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte xsi:nil="true"/>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil xsi:nil="true"/>
+			<ResultadoFinanceiroExcedeMinimo xsi:nil="true"/>
+			<RendimentosDeclarados>48250528.5665</RendimentosDeclarados>
+			<RendimentosPagosAntec>-49235407.61</RendimentosPagosAntec>
+			<RendimentoPagar>-984879.0435</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>0.95</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

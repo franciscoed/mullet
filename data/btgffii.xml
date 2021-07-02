@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>BTG PACTUAL FUNDO DE FUNDOS FII</NomeFundo>
+		<CNPJFundo>11026627000138</CNPJFundo>
+		<DataFuncionamento>2010-01-07</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRBCFFCTF000</CodigoISIN>
+		<QtdCotasEmitidas>20562973</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Títulos e Valores Mobiliários</Mandato>
+			<SegmentoAtuacao>Títulos e Val. Mob.</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>31/12</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>BTG pactual Serviços Financeiros S.A. – DTVM</NomeAdministrador>
+		<CNPJAdministrador>11026627000138</CNPJAdministrador>
+		<Logradouro>Praia de Botafogo</Logradouro>
+		<Numero>501</Numero>
+		<Complemento>6º Andar</Complemento>
+		<Bairro>Botafogo</Bairro>
+		<Cidade>Rio de Janeiro</Cidade>
+		<Estado>RJ</Estado>
+		<CEP>22250-040</CEP>
+		<Telefone1>(11) 3383-3102</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.btgpactual.com</Site>
+		<Email>ri.fundoslistados@btgpactual.com</Email>
+		<Competencia>1/2021</Competencia>
+		<DataEncerTrimestre>2021-03-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses/>
+							<TresAteSeisMeses/>
+							<SeisAteNoveMeses/>
+							<NoveAteDozeMeses/>
+							<DozeAteQuinzeMeses/>
+							<QuinzeAteDezoitoMeses/>
+							<DezoitoAteVinteUmMeses/>
+							<VinteUmAteVinteQuatroMeses/>
+							<VinteQuatroAteVinteSeteMeses/>
+							<VinteSeteAteTrintaMeses/>
+							<TrintaAteTrintaTresMeses/>
+							<TrintaTresAteTrintaSeisMeses/>
+							<AcimaTrintaSeisMeses/>
+							<PrazoIndeterminado/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM/>
+							<INPC/>
+							<IPCA/>
+							<INCC/>
+							<OutrosIndicadores>
+								<Indicador nome="Outros"/>
+								<Indicador nome="IGP-DI"/>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns xsi:nil="true"/>
+						<CaractContratuaisIndividual>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+					<Emissor>
+						<Fundo>BANESTES RECEBÍVEIS IMOBILIÁRIOS FII</Fundo>
+						<CNPJ>22219335000138</CNPJ>
+						<Quantidade>188167</Quantidade>
+						<Valor>21498079.75</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>BTG Pactual Crédito Imobiliário FII</Fundo>
+						<CNPJ>29787928000140</CNPJ>
+						<Quantidade>1386565</Quantidade>
+						<Valor>128118606</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>BTG PACTUAL LOGÍSTICA</Fundo>
+						<CNPJ>11839593000109</CNPJ>
+						<Quantidade>1180047</Quantidade>
+						<Valor>135363191.37</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>BTG Pactual Malls</Fundo>
+						<CNPJ>12324242000110</CNPJ>
+						<Quantidade>883296</Quantidade>
+						<Valor>78472016.64</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>BTG Pactual R E Prime Opportunities - FII</Fundo>
+						<CNPJ>36642311000100</CNPJ>
+						<Quantidade>1350501</Quantidade>
+						<Valor>135711845.49</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>CAPITANIA SECURITIES II - FII</Fundo>
+						<CNPJ>18979895000113</CNPJ>
+						<Quantidade>536806</Quantidade>
+						<Valor>54485809</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>CORE METROPOLIS</Fundo>
+						<CNPJ>38293921000162</CNPJ>
+						<Quantidade>57146</Quantidade>
+						<Valor>5714600</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>CSHG BRASIL SHOPPING - FII</Fundo>
+						<CNPJ>8431747000106</CNPJ>
+						<Quantidade>23747</Quantidade>
+						<Valor>4820641</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>CSHG RECEBÍVEIS IMOBILIÁRIOS FII</Fundo>
+						<CNPJ>11160521000122</CNPJ>
+						<Quantidade>39357</Quantidade>
+						<Valor>4272989.49</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>CSHG RENDA URBANA-FII</Fundo>
+						<CNPJ>29641226000153</CNPJ>
+						<Quantidade>541037</Quantidade>
+						<Valor>67029073.93</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>DEVANT RECEBÍVEIS IMOBILIÁRIOS FII</Fundo>
+						<CNPJ>37087810000137</CNPJ>
+						<Quantidade>1696</Quantidade>
+						<Valor>201400</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FATOR VERITA FDO INV IMOB - FII</Fundo>
+						<CNPJ>11664201000100</CNPJ>
+						<Quantidade>2</Quantidade>
+						<Valor>230</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII BTG PACTUAL CORP. OFFICE FUND</Fundo>
+						<CNPJ>8924783000101</CNPJ>
+						<Quantidade>885080</Quantidade>
+						<Valor>72576560</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII UBS (BR) RECEB IMOB</Fundo>
+						<CNPJ>28152272000126</CNPJ>
+						<Quantidade>12009</Quantidade>
+						<Valor>1267309.77</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII BM BRASCAN LAJES CORPORATIVAS</Fundo>
+						<CNPJ>14376247000111</CNPJ>
+						<Quantidade>155261</Quantidade>
+						<Valor>14521561.33</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII RIO BRAVO RENDA CORPORATIVA</Fundo>
+						<CNPJ>3683056000186</CNPJ>
+						<Quantidade>156499</Quantidade>
+						<Valor>25052359.92</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII PLURAL RECEBIVEIS</Fundo>
+						<CNPJ>35527683000126</CNPJ>
+						<Quantidade>607</Quantidade>
+						<Valor>58259.86</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII VBI CRI</Fundo>
+						<CNPJ>28729197000113</CNPJ>
+						<Quantidade>337621</Quantidade>
+						<Valor>35787826</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII MOGNO CRI HIGH GRADE</Fundo>
+						<CNPJ>35652204000191</CNPJ>
+						<Quantidade>906736</Quantidade>
+						<Valor>26257772.64</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII CSHG REAL ESTATE</Fundo>
+						<CNPJ>9072017000129</CNPJ>
+						<Quantidade>1190</Quantidade>
+						<Valor>163982</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII JS REAL ESTATE MULTIGESTÃO</Fundo>
+						<CNPJ>13371132000171</CNPJ>
+						<Quantidade>14942</Quantidade>
+						<Valor>1412915.52</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII KINEA RENDIMENTOS IMOBILIÁRIOS</Fundo>
+						<CNPJ>16706958000132</CNPJ>
+						<Quantidade>116073</Quantidade>
+						<Valor>10855146.96</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII MALLS BRASIL PLURAL</Fundo>
+						<CNPJ>26499833000132</CNPJ>
+						<Quantidade>25392</Quantidade>
+						<Valor>2416810.56</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII MAUÁ CAPITAL RECEBÍVEIS IMOBILIÁRIOS</Fundo>
+						<CNPJ>23648935000184</CNPJ>
+						<Quantidade>399674</Quantidade>
+						<Valor>41554105.78</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII MAXI RENDA</Fundo>
+						<CNPJ>97521225000125</CNPJ>
+						<Quantidade>3080791</Quantidade>
+						<Valor>32040226.4</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII MOGNO HOTEIS</Fundo>
+						<CNPJ>34197776000165</CNPJ>
+						<Quantidade>100000</Quantidade>
+						<Valor>9750000</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII PROJETO AGUA BRANCA</Fundo>
+						<CNPJ>3251720000118</CNPJ>
+						<Quantidade>85035</Quantidade>
+						<Valor>22959450</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII RBR RENDIMENTO HIGH GRADE</Fundo>
+						<CNPJ>29467977000103</CNPJ>
+						<Quantidade>67268</Quantidade>
+						<Valor>6707292.28</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII V2 PROPERTIES</Fundo>
+						<CNPJ>33045581000137</CNPJ>
+						<Quantidade>212187</Quantidade>
+						<Valor>21409668.3</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII VINCI SHOPPING CENTERS</Fundo>
+						<CNPJ>17554274000125</CNPJ>
+						<Quantidade>7345</Quantidade>
+						<Valor>810373.85</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII XP MALLS</Fundo>
+						<CNPJ>28757546000100</CNPJ>
+						<Quantidade>9660</Quantidade>
+						<Valor>1021062</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>Floripa Shopping FII</Fundo>
+						<CNPJ>10375382000191</CNPJ>
+						<Quantidade>4450</Quantidade>
+						<Valor>5710551.5</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FUNDO BB RENDA DE PAPÉIS II</Fundo>
+						<CNPJ>23120027000113</CNPJ>
+						<Quantidade>7269</Quantidade>
+						<Valor>613140.15</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII ANHANGUERA EDUCACION</Fundo>
+						<CNPJ>11179118000145</CNPJ>
+						<Quantidade>62039</Quantidade>
+						<Valor>11092573.2</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII BTG PACTUAL FUNDO DE CRI</Fundo>
+						<CNPJ>9552812000114</CNPJ>
+						<Quantidade>838238</Quantidade>
+						<Valor>79632610</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII CAMPUS FARIA LIMA</Fundo>
+						<CNPJ>11602654000101</CNPJ>
+						<Quantidade>36300</Quantidade>
+						<Valor>3993000</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII CENESP</Fundo>
+						<CNPJ>13551286000145</CNPJ>
+						<Quantidade>181475</Quantidade>
+						<Valor>7964937.75</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII EDIFÍCIO GALERIA</Fundo>
+						<CNPJ>15333306000137</CNPJ>
+						<Quantidade>402396</Quantidade>
+						<Valor>10896883.68</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII HOSPITAL NOSSA SENHO</Fundo>
+						<CNPJ>8014513000163</CNPJ>
+						<Quantidade>60808</Quantidade>
+						<Valor>15933520.24</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII HOTEL MAXINVEST</Fundo>
+						<CNPJ>8706065000169</CNPJ>
+						<Quantidade>150574</Quantidade>
+						<Valor>16112923.74</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII SHOPPING JARDIM SUL</Fundo>
+						<CNPJ>14879856000193</CNPJ>
+						<Quantidade>320839</Quantidade>
+						<Valor>22137891</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII TB OFFICE</Fundo>
+						<CNPJ>17365105000147</CNPJ>
+						<Quantidade>146113</Quantidade>
+						<Valor>29222.6</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>GENERAL SHOPPING ATIVO E RENDA - FII</Fundo>
+						<CNPJ>17590518000125</CNPJ>
+						<Quantidade>124761</Quantidade>
+						<Valor>7389594.03</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>BTG PACTUAL PRIME OFFICES I - FII</Fundo>
+						<CNPJ>18312285000161</CNPJ>
+						<Quantidade>76508996.08</Quantidade>
+						<Valor>166024521.4936</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII CEO CYRELA COMMERCIAL PROP</Fundo>
+						<CNPJ>15799397000109</CNPJ>
+						<Quantidade>231698</Quantidade>
+						<Valor>16659086.2</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII RIO BRAVO RENDA EDUCACIONAL</Fundo>
+						<CNPJ>13873457000152</CNPJ>
+						<Quantidade>85073</Quantidade>
+						<Valor>12331331.35</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII Via Parque Shopping</Fundo>
+						<CNPJ>332266000131</CNPJ>
+						<Quantidade>58865</Quantidade>
+						<Valor>8300553.65</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>GALAPAGOS RECEBÍVEIS IMOBILIÁRIOS FII</Fundo>
+						<CNPJ>38293897000161</CNPJ>
+						<Quantidade>110000</Quantidade>
+						<Valor>11000000</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>HSI MALL FUNDO DE INVESTIMENTO</Fundo>
+						<CNPJ>32892018000131</CNPJ>
+						<Quantidade>73594</Quantidade>
+						<Valor>6461553.2</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>IRÍDIUM RECEBÍVEIS IMOBILIÁRIOS</Fundo>
+						<CNPJ>28830325000110</CNPJ>
+						<Quantidade>343045</Quantidade>
+						<Valor>46009195.4</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>KINEA HIGH YIELD CRI - FII</Fundo>
+						<CNPJ>30130708000128</CNPJ>
+						<Quantidade>223866</Quantidade>
+						<Valor>25684146.18</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>KINEA ÍNDICES DE PREÇOS  - FII</Fundo>
+						<CNPJ>24960430000113</CNPJ>
+						<Quantidade>239771</Quantidade>
+						<Valor>27801447.45</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>MULTI SHOPPINGS  - FII</Fundo>
+						<CNPJ>22459737000100</CNPJ>
+						<Quantidade>140557</Quantidade>
+						<Valor>9509819.5617</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>RB CAPITAL LOGÍSTICO  - FII</Fundo>
+						<CNPJ>35652227000104</CNPJ>
+						<Quantidade>285899</Quantidade>
+						<Valor>32157919.52</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>RBR LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO</Fundo>
+						<CNPJ>35705463000133</CNPJ>
+						<Quantidade>3</Quantidade>
+						<Valor>321.39</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>RBR Private Crédito Imobiliário</Fundo>
+						<CNPJ>30166700000111</CNPJ>
+						<Quantidade>102526</Quantidade>
+						<Valor>10815467.74</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>RBR Properties FII</Fundo>
+						<CNPJ>21408063000151</CNPJ>
+						<Quantidade>6186</Quantidade>
+						<Valor>568864.56</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>REC RENDA IMOBILIÁRIA</Fundo>
+						<CNPJ>32274163000159</CNPJ>
+						<Quantidade>22</Quantidade>
+						<Valor>1914</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII RIZA AKIN</Fundo>
+						<CNPJ>36642169000192</CNPJ>
+						<Quantidade>30633</Quantidade>
+						<Valor>2956697.16</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>SANTANDER PAPEIS IMOB CDI FII</Fundo>
+						<CNPJ>32903521000145</CNPJ>
+						<Quantidade>112</Quantidade>
+						<Valor>9149.28</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>SANTANDER RENDA DE ALUGUÉIS FII </Fundo>
+						<CNPJ>32903702000171</CNPJ>
+						<Quantidade>113209</Quantidade>
+						<Valor>11026556.6</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>SDI LOGÍSTICA RIO - FII</Fundo>
+						<CNPJ>16671412000193</CNPJ>
+						<Quantidade>12130</Quantidade>
+						<Valor>1211787</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>SUCCESPAR VAREJO</Fundo>
+						<CNPJ>27538422000171</CNPJ>
+						<Quantidade>93227</Quantidade>
+						<Valor>9453217.8</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>TELLUS PROPERTIES -FII</Fundo>
+						<CNPJ>26681370000125</CNPJ>
+						<Quantidade>73869</Quantidade>
+						<Valor>6345347.1</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>VALORA CRI ÍNDICE DE PREÇO FII</Fundo>
+						<CNPJ>34197811000146</CNPJ>
+						<Quantidade>112372</Quantidade>
+						<Valor>8819421.48</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>VALORA RE I FII</Fundo>
+						<CNPJ>28090655000117</CNPJ>
+						<Quantidade>162653</Quantidade>
+						<Valor>15647218.6</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>VINCI OFFICES FII</Fundo>
+						<CNPJ>12516185000170</CNPJ>
+						<Quantidade>78855</Quantidade>
+						<Valor>4872450.45</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>VOTORANTIM LOGÍSTICA</Fundo>
+						<CNPJ>27368600000163</CNPJ>
+						<Quantidade>182128</Quantidade>
+						<Valor>20507612.8</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>XP CREDITO IMOBILIÁRIO - FII</Fundo>
+						<CNPJ>28516301000191</CNPJ>
+						<Quantidade>62965</Quantidade>
+						<Valor>6057233</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>XP LOG  - FII</Fundo>
+						<CNPJ>26502794000185</CNPJ>
+						<Quantidade>166617</Quantidade>
+						<Valor>19357563.06</Valor>
+					</Emissor>
+				</FII>
+				<CRI>
+					<Emissor>
+						<Companhia>BRAZILIAN SECURITIES CIA DE SECURITIZACAO</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/11/2011</Emissao>
+						<Serie>269</Serie>
+						<Quantidade>9</Quantidade>
+						<Valor>438065.85</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZILIAN SECURITIES CIA DE SECURITIZACAO</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>13/04/2010</Emissao>
+						<Serie>156</Serie>
+						<Quantidade>22</Quantidade>
+						<Valor>1053237.34</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZILIAN SECURITIES CIA DE SECURITIZACAO</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/01/2011</Emissao>
+						<Serie>201</Serie>
+						<Quantidade>40</Quantidade>
+						<Valor>328799.2</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZILIAN SECURITIES CIA DE SECURITIZACAO</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>13/04/2010</Emissao>
+						<Serie>157</Serie>
+						<Quantidade>16</Quantidade>
+						<Valor>3148406.53</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZILIAN SECURITIES CIA DE SECURITIZACAO</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/06/2011</Emissao>
+						<Serie>247</Serie>
+						<Quantidade>11</Quantidade>
+						<Valor>437070.47</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZILIAN SECURITIES CIA DE SECURITIZACAO</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/08/2011</Emissao>
+						<Serie>253</Serie>
+						<Quantidade>4</Quantidade>
+						<Valor>172209.46</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZILIAN SECURITIES CIA DE SECURITIZACAO</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>13/06/2011</Emissao>
+						<Serie>236</Serie>
+						<Quantidade>7</Quantidade>
+						<Valor>567316.47</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZILIAN SECURITIES CIA DE SECURITIZACAO</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/08/2011</Emissao>
+						<Serie>255</Serie>
+						<Quantidade>21</Quantidade>
+						<Valor>588508.48</Valor>
+					</Emissor>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+				</AcoesSocFII>
+				<CotasSocFII>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+					<Ativo>
+						<Emissor>Banco BTG Pactual S.A.</Emissor>
+						<CNPJ>59.281.253/0001-23</CNPJ>
+						<NomeAtivo>Operações Compromissadas - Lastro: LTN </NomeAtivo>
+						<Quantidade>91.96</Quantidade>
+						<Valor>83365182.05</Valor>
+					</Ativo>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>198.5</Disponibilidades>
+				<TitulosPublicos>83365182.05</TitulosPublicos>
+				<TitulosPrivados>0</TitulosPrivados>
+				<FundosRendaFixa>0</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda/>
+					<CustoImovEstoque/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis financeiro="0"/>
+					<DespManutencaoConservacao/>
+					<ReceitasVenda/>
+					<CustoPropriedadesVendidas/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros contabil="27527900.54" financeiro="27144294.97"/>
+					<AjusteValor contabil="-41560914.23"/>
+					<ResultadoVenda contabil="17019776.2" financeiro="17019776.2"/>
+					<OutrasRecOuDesp contabil="-3104358.22" financeiro="-3104358.22"/>
+					<ResultadoLiquido contabil="-117595.71" financeiro="41059712.95"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="-117595.71" financeiro="41059712.95"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="474946.39" financeiro="474946.39"/>
+				<AjusteValorAplicacoes/>
+				<ResultadoVendaAplicacoes/>
+				<OutrasRecOuDespAplicacoes contabil="-105968.08" financeiro="-105968.08"/>
+				<ResultadoLiquido contabil="368978.31" financeiro="368978.31"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-1132982.32" financeiro="-1132982.32"/>
+				<TaxaDesempenho/>
+				<ConsultoriaEspecializada contabil="-4798052.93" financeiro="-4798052.93"/>
+				<EmpresaEspecializada/>
+				<FormadorMercado/>
+				<CustodiaTitulosValores contabil="-7686.56" financeiro="-7686.56"/>
+				<AuditoriaIndependente contabil="-8529.69" financeiro="-12372.92"/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="-16916.56" financeiro="-16916.56"/>
+				<ComissoesEmolumentos/>
+				<HonorariosDespesasDefesas/>
+				<GastosContratosSeguros/>
+				<DespesasAvaliacoes/>
+				<TaxasIngressoSaidaFundos/>
+				<DespesasRegistroCartorio/>
+				<OutrasRecOuDesp contabil="-409967.57" financeiro="-409967.57"/>
+				<Total contabil="-6374135.63" financeiro="-6377978.86"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="-6122753.03" financeiro="35050712.4"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>35050712.4</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>33298176.78</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte xsi:nil="true"/>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil>0</LucroContabil>
+			<ResultadoFinanceiroExcedeMinimo>1260472.84</ResultadoFinanceiroExcedeMinimo>
+			<RendimentosDeclarados>34558649.62</RendimentosDeclarados>
+			<RendimentosPagosAntec>-23030529.76</RendimentosPagosAntec>
+			<RendimentoPagar>11528119.86</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>0.985961</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

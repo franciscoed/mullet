@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>MAXI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII</NomeFundo>
+		<CNPJFundo>97521225000125</CNPJFundo>
+		<DataFuncionamento>2012-04-13</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRMXRFCTF008</CodigoISIN>
+		<QtdCotasEmitidas>182487980</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Híbrido</Mandato>
+			<SegmentoAtuacao>Híbrido</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>31/12</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>BTG Pactual Serviços Financeiros S.A. – DTVM</NomeAdministrador>
+		<CNPJAdministrador>97521225000125</CNPJAdministrador>
+		<Logradouro>Praia de Botafogo</Logradouro>
+		<Numero>501</Numero>
+		<Complemento>6º Andar</Complemento>
+		<Bairro>Botafogo</Bairro>
+		<Cidade>Rio de Janeiro</Cidade>
+		<Estado>RJ</Estado>
+		<CEP>22250-040</CEP>
+		<Telefone1>(11) 3383-3102</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.btgpactual.com</Site>
+		<Email>ri.fundoslistados@btgpactual.com</Email>
+		<Competencia>4/2020</Competencia>
+		<DataEncerTrimestre>2020-12-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+							<Imovel>
+								<Nome>Edifício Centro Executivo do Paço</Nome>
+								<Endereco>Avenida José Caballero, 283, 1 unidade e 2 boxes e garagem, Vila Bastos, Santo André, SP.</Endereco>
+								<Area>303.61</Area>
+								<NumUnidades>3</NumUnidades>
+								<OutrasCaractRelevantes>Direito de propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>1</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Não possui</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Condomínio Edifício St. Louis</Nome>
+								<Endereco>Rua Franz Schubert, 184, unidades 23 e 81, Jardim Europa, São Paulo, SP.</Endereco>
+								<Area>317.38</Area>
+								<NumUnidades>2</NumUnidades>
+								<OutrasCaractRelevantes>Direito de propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>1</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Não possui</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses/>
+							<TresAteSeisMeses/>
+							<SeisAteNoveMeses/>
+							<NoveAteDozeMeses/>
+							<DozeAteQuinzeMeses/>
+							<QuinzeAteDezoitoMeses/>
+							<DezoitoAteVinteUmMeses/>
+							<VinteUmAteVinteQuatroMeses/>
+							<VinteQuatroAteVinteSeteMeses/>
+							<VinteSeteAteTrintaMeses/>
+							<TrintaAteTrintaTresMeses/>
+							<TrintaTresAteTrintaSeisMeses/>
+							<AcimaTrintaSeisMeses/>
+							<PrazoIndeterminado/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM/>
+							<INPC/>
+							<IPCA/>
+							<INCC/>
+							<OutrosIndicadores>
+								<Indicador nome="Outros"/>
+								<Indicador nome="IGP-DI"/>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns>Os contratos de locação possuem algumas características comuns as quais esta administradora considera relevantes para as locações dos fundos que administra:
+a) Cláusulas de Benfeitorias
+b) Cláusulas de revisão de aluguel – seguindo a legislação vigente
+c) Tipo de indexador – normalmente indicamos IGPM-FGV como indexador para reajuste de locação
+d) Garantia exigida – as garantias aceitas são garantia bancária (fiança ou seguro fiança) ou deposito caução
+
+Vale ressaltar que cada contrato é negociado, cláusula a cláusula com o locatário, logo podem haver contratos firmados que não seguem os itens descritos acima a rigor, mas a maioria dos contratos são firmados com considerando os pontos descritos acima.</CaractContratuaisComuns>
+						<CaractContratuaisIndividual>
+							<Imovel>
+								<NomeOuEndereco>Edifício Centro Executivo do Paço</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Condomínio Edifício St. Louis</NomeOuEndereco>
+								<CaractContratuais>Não possui caracteristicas que destoem dos demais</CaractContratuais>
+							</Imovel>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro>Para a contratação de seguros, seguimos a política de, após identificar a necessidade de contratação, por meio de controles de prazos de vencimento, providenciar a especificação técnica dos seguros a serem contratados e, na sequência, a solicitação de no mínimo 3 (três) cotações.
+
+Com base nos detalhes técnicos, buscamos no mercado empresas que atendam a demanda para a realização das cotações.
+
+As propostas devem conter, no mínimo: (a) preço; (b) descrição do serviço ou especificação do produto; (c) condições de pagamento e (d) prazo de entrega. É aconselhável solicitar ao proponente que a minuta do contrato a ser celebrado seja encaminhada juntamente com a proposta.</PoliticaContratacaoSeguro>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+					<Emissor>
+						<Fundo>FDO INV IMOB - FII BTG PACTUAL CORP. OFFICE FUND</Fundo>
+						<CNPJ>8924783000101</CNPJ>
+						<Quantidade>14944</Quantidade>
+						<Valor>1326130.56</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>KINEA RENDIMENTOS IMOBILIÁRIOS FDO INV IMOB - FII</Fundo>
+						<CNPJ>16706958000132</CNPJ>
+						<Quantidade>86869</Quantidade>
+						<Valor>7561946.45</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>MAC FUNDO DE INVESTIMENTO IMOBILIÁRIO </Fundo>
+						<CNPJ>30579348000146</CNPJ>
+						<Quantidade>603</Quantidade>
+						<Valor>96383.52</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>XP CREDITO IMOBILIÁRIO - FDO INV IMOB</Fundo>
+						<CNPJ>28516301000191</CNPJ>
+						<Quantidade>417694</Quantidade>
+						<Valor>38661756.64</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FUNDO DE INVESTIMENTO IMOBILIÁRIO MULTI RENDA URBANA</Fundo>
+						<CNPJ>30871698000181</CNPJ>
+						<Quantidade>223889</Quantidade>
+						<Valor>22610550.11</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>RBR LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO</Fundo>
+						<CNPJ>35705463000133</CNPJ>
+						<Quantidade>3</Quantidade>
+						<Valor>327</Valor>
+					</Emissor>
+				</FII>
+				<CRI>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZACAO</Companhia>
+						<CNPJ>2773542000122</CNPJ>
+						<Emissao>12/12/2020</Emissao>
+						<Serie>305</Serie>
+						<Quantidade>40000</Quantidade>
+						<Valor>40021957.32</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZIL REALTY - CIA SECURITIZADORA DE CI</Companhia>
+						<CNPJ>7119838000148</CNPJ>
+						<Emissao>14/06/2011</Emissao>
+						<Serie>1</Serie>
+						<Quantidade>1</Quantidade>
+						<Valor>300503.89</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA AGRO SECURITIZADORA SA</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>11/06/2011</Emissao>
+						<Serie>30</Serie>
+						<Quantidade>11</Quantidade>
+						<Valor>744465.78</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>08903116/000142</CNPJ>
+						<Emissao>15/07/2017</Emissao>
+						<Serie>95</Serie>
+						<Quantidade>22531</Quantidade>
+						<Valor>6796150.67</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>NOVA SECURITIZACAO SA</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>10/04/2018</Emissao>
+						<Serie>27</Serie>
+						<Quantidade>665</Quantidade>
+						<Valor>4464260.8</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A. 1</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>28/02/2012</Emissao>
+						<Serie>13</Serie>
+						<Quantidade>10</Quantidade>
+						<Valor>367251.35</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A. 1</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>28/02/2012</Emissao>
+						<Serie>14</Serie>
+						<Quantidade>10</Quantidade>
+						<Valor>350862.55</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A. 1</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>28/02/2012</Emissao>
+						<Serie>16</Serie>
+						<Quantidade>10</Quantidade>
+						<Valor>266238.02</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A. 1</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>28/02/2012</Emissao>
+						<Serie>17</Serie>
+						<Quantidade>10</Quantidade>
+						<Valor>296373.94</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A. 1</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>28/02/2012</Emissao>
+						<Serie>18</Serie>
+						<Quantidade>10</Quantidade>
+						<Valor>191554.65</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A. 1</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>05/11/2012</Emissao>
+						<Serie>29</Serie>
+						<Quantidade>9</Quantidade>
+						<Valor>181342.11</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA AGRO SECURITIZADORA SA</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>31/05/2012</Emissao>
+						<Serie>29</Serie>
+						<Quantidade>31</Quantidade>
+						<Valor>1369378.63</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC SECURITIZADORA SA</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>07/02/2013</Emissao>
+						<Serie>1</Serie>
+						<Quantidade>110</Quantidade>
+						<Valor>10929541.76</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>2773542000122</CNPJ>
+						<Emissao>09/10/2017</Emissao>
+						<Serie>107</Serie>
+						<Quantidade>1969</Quantidade>
+						<Valor>660949.54</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>22/02/2013</Emissao>
+						<Serie>21</Serie>
+						<Quantidade>39</Quantidade>
+						<Valor>70160.81</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZACAO</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>18/03/2014</Emissao>
+						<Serie>98</Serie>
+						<Quantidade>2</Quantidade>
+						<Valor>633400.09</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>28/05/2012</Emissao>
+						<Serie>9</Serie>
+						<Quantidade>27</Quantidade>
+						<Valor>4822279.08</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC SECURITIZADORA SA</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>27/08/2015</Emissao>
+						<Serie>16</Serie>
+						<Quantidade>7</Quantidade>
+						<Valor>0.01</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A. 1</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>28/02/2012</Emissao>
+						<Serie>5</Serie>
+						<Quantidade>10</Quantidade>
+						<Valor>127952.86</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC SECURITIZADORA SA</Companhia>
+						<CNPJ>2773542000122</CNPJ>
+						<Emissao>21/12/2018</Emissao>
+						<Serie>31</Serie>
+						<Quantidade>41324</Quantidade>
+						<Valor>41373490.49</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>NOVA SECURITIZACAO SA</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>15/02/2019</Emissao>
+						<Serie>31</Serie>
+						<Quantidade>14000</Quantidade>
+						<Valor>11595570.36</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZACAO</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>15/01/2019</Emissao>
+						<Serie>185</Serie>
+						<Quantidade>397</Quantidade>
+						<Valor>411832.03</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>21/12/2018</Emissao>
+						<Serie>66</Serie>
+						<Quantidade>6693</Quantidade>
+						<Valor>5479696.29</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC SECURITIZADORA SA</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>31/05/2019</Emissao>
+						<Serie>190</Serie>
+						<Quantidade>32531</Quantidade>
+						<Valor>0</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>24/05/2019</Emissao>
+						<Serie>190</Serie>
+						<Quantidade>32500</Quantidade>
+						<Valor>34102251.04</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>19/06/2019</Emissao>
+						<Serie>153</Serie>
+						<Quantidade>32000</Quantidade>
+						<Valor>32043033.38</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA SA</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>24/07/2019</Emissao>
+						<Serie>240</Serie>
+						<Quantidade>2900</Quantidade>
+						<Valor>3312049.8</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>03/07/2019</Emissao>
+						<Serie>193</Serie>
+						<Quantidade>17361</Quantidade>
+						<Valor>17387096.9</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>25005683000109</CNPJ>
+						<Emissao>21/06/2019</Emissao>
+						<Serie>146</Serie>
+						<Quantidade>40000</Quantidade>
+						<Valor>16920843.04</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>17/07/2019</Emissao>
+						<Serie>148</Serie>
+						<Quantidade>27250</Quantidade>
+						<Valor>25573820.24</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>24/09/2019</Emissao>
+						<Serie>1</Serie>
+						<Quantidade>13000</Quantidade>
+						<Valor>13025528.93</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>2773542000122</CNPJ>
+						<Emissao>23/09/2019</Emissao>
+						<Serie>164</Serie>
+						<Quantidade>20694</Quantidade>
+						<Valor>20658694.28</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>2773542000122</CNPJ>
+						<Emissao>23/09/2019</Emissao>
+						<Serie>163</Serie>
+						<Quantidade>41473</Quantidade>
+						<Valor>38513394.32</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZACAO</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>19/06/2019</Emissao>
+						<Serie>216</Serie>
+						<Quantidade>10000</Quantidade>
+						<Valor>10047652.13</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZACAO</Companhia>
+						<CNPJ>2773542000122</CNPJ>
+						<Emissao>19/03/2012</Emissao>
+						<Serie>98</Serie>
+						<Quantidade>323</Quantidade>
+						<Valor>246832.1</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA SA</Companhia>
+						<CNPJ>25005683000109</CNPJ>
+						<Emissao>03/12/2019</Emissao>
+						<Serie>280</Serie>
+						<Quantidade>8898</Quantidade>
+						<Valor>9461789.74</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZACAO</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>05/12/2019</Emissao>
+						<Serie>237</Serie>
+						<Quantidade>5330</Quantidade>
+						<Valor>5848960.99</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>24/09/2019</Emissao>
+						<Serie>2</Serie>
+						<Quantidade>5000</Quantidade>
+						<Valor>5016144.82</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>29/11/2019</Emissao>
+						<Serie>235</Serie>
+						<Quantidade>23500</Quantidade>
+						<Valor>17658509</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC SECURITIZADORA SA</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>18/12/2019</Emissao>
+						<Serie>63</Serie>
+						<Quantidade>45471</Quantidade>
+						<Valor>42844570.39</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA SA</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>24/07/2019</Emissao>
+						<Serie>241</Serie>
+						<Quantidade>2005</Quantidade>
+						<Valor>2326744.78</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC SECURITIZADORA SA</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>05/11/2014</Emissao>
+						<Serie>3</Serie>
+						<Quantidade>45</Quantidade>
+						<Valor>0</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC SECURITIZADORA SA</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>12/12/2019</Emissao>
+						<Serie>57</Serie>
+						<Quantidade>33160</Quantidade>
+						<Valor>34701399.62</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>15/12/2019</Emissao>
+						<Serie>246</Serie>
+						<Quantidade>41250</Quantidade>
+						<Valor>40687262.88</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>15/12/2019</Emissao>
+						<Serie>247</Serie>
+						<Quantidade>40000</Quantidade>
+						<Valor>38277517.64</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>17/12/2019</Emissao>
+						<Serie>174</Serie>
+						<Quantidade>80033</Quantidade>
+						<Valor>50923304.56</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>23/12/2019</Emissao>
+						<Serie>180</Serie>
+						<Quantidade>41445</Quantidade>
+						<Valor>40522409.89</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>15/01/2020</Emissao>
+						<Serie>248</Serie>
+						<Quantidade>47250</Quantidade>
+						<Valor>45965681.73</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A. NOVO</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>10/02/2020</Emissao>
+						<Serie>136</Serie>
+						<Quantidade>62956</Quantidade>
+						<Valor>64637010.51</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>17/02/2020</Emissao>
+						<Serie>212</Serie>
+						<Quantidade>28000</Quantidade>
+						<Valor>27237628.33</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>23/07/2019</Emissao>
+						<Serie>186</Serie>
+						<Quantidade>45737</Quantidade>
+						<Valor>46264630.17</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A. NOVO</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>12/03/2020</Emissao>
+						<Serie>135</Serie>
+						<Quantidade>57568906</Quantidade>
+						<Valor>57648293.52</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>23/10/2019</Emissao>
+						<Serie>191</Serie>
+						<Quantidade>29826</Quantidade>
+						<Valor>17000554.67</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA SA</Companhia>
+						<CNPJ>10608405000160</CNPJ>
+						<Emissao>24/07/2019</Emissao>
+						<Serie>242</Serie>
+						<Quantidade>4210</Quantidade>
+						<Valor>5249584.41</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>27/04/2020</Emissao>
+						<Serie>303</Serie>
+						<Quantidade>60000</Quantidade>
+						<Valor>60179430.06</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BARIGUI SECURITIZADORA S.A.</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>29/06/2020</Emissao>
+						<Serie>82</Serie>
+						<Quantidade>19243</Quantidade>
+						<Valor>19536910.9</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A. NOVO</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>26/06/2020</Emissao>
+						<Serie>149</Serie>
+						<Quantidade>25330</Quantidade>
+						<Valor>26224766.9</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC SECURITIZADORA SA</Companhia>
+						<CNPJ>10608405000160</CNPJ>
+						<Emissao>25/06/2020</Emissao>
+						<Serie>100</Serie>
+						<Quantidade>20231</Quantidade>
+						<Valor>19687752.53</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA SA</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>03/12/2019</Emissao>
+						<Serie>281</Serie>
+						<Quantidade>9643</Quantidade>
+						<Valor>10714969.93</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BARIGUI SECURITIZADORA S.A.</Companhia>
+						<CNPJ>2773542000122</CNPJ>
+						<Emissao>28/08/2020</Emissao>
+						<Serie>85</Serie>
+						<Quantidade>3051</Quantidade>
+						<Valor>3134515.86</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>27/08/2020</Emissao>
+						<Serie>309</Serie>
+						<Quantidade>15800</Quantidade>
+						<Valor>15803639.53</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZACAO</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>25/06/2020</Emissao>
+						<Serie>280</Serie>
+						<Quantidade>36391</Quantidade>
+						<Valor>34681568.33</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>17/09/2020</Emissao>
+						<Serie>190</Serie>
+						<Quantidade>35567</Quantidade>
+						<Valor>34088682.29</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>17/09/2020</Emissao>
+						<Serie>191</Serie>
+						<Quantidade>11171</Quantidade>
+						<Valor>10754661.01</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC SECURITIZADORA SA</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>28/09/2020</Emissao>
+						<Serie>113</Serie>
+						<Quantidade>20055</Quantidade>
+						<Valor>20298092.67</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORTE SECURITIZADORA SA</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>24/07/2019</Emissao>
+						<Serie>243</Serie>
+						<Quantidade>3843</Quantidade>
+						<Valor>3338369.03</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>24/06/2020</Emissao>
+						<Serie>198</Serie>
+						<Quantidade>17180</Quantidade>
+						<Valor>16980059.28</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC SECURITIZADORA SA</Companhia>
+						<CNPJ>25005683000109</CNPJ>
+						<Emissao>15/10/2020</Emissao>
+						<Serie>103</Serie>
+						<Quantidade>23536</Quantidade>
+						<Valor>23584838.97</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>16/10/2020</Emissao>
+						<Serie>261</Serie>
+						<Quantidade>15000</Quantidade>
+						<Valor>14972989.85</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>22/10/2020</Emissao>
+						<Serie>2</Serie>
+						<Quantidade>13702</Quantidade>
+						<Valor>14023706.83</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC SECURITIZADORA SA</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>27/10/2020</Emissao>
+						<Serie>136</Serie>
+						<Quantidade>43250</Quantidade>
+						<Valor>43419932.58</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>22/12/2020</Emissao>
+						<Serie>323</Serie>
+						<Quantidade>31250</Quantidade>
+						<Valor>40165064.25</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>23/12/2020</Emissao>
+						<Serie>346</Serie>
+						<Quantidade>13000000</Quantidade>
+						<Valor>13051383.38</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>23/12/2020</Emissao>
+						<Serie>345</Serie>
+						<Quantidade>62000000</Quantidade>
+						<Valor>62241545.74</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A. NOVO</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>18/12/2020</Emissao>
+						<Serie>169</Serie>
+						<Quantidade>71464</Quantidade>
+						<Valor>71630352.93</Valor>
+					</Emissor>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+					<Emissor>
+						<Sociedade>Alameda Lorena Empreendimentos Imobiliarios Ltda</Sociedade>
+						<CNPJ>28812606000140</CNPJ>
+						<Quantidade>5200000</Quantidade>
+						<Valor>5200000</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>Colmeia Absoluto Maria Monteiro Emp. Imob Spe LTDA</Sociedade>
+						<CNPJ>21446237000170</CNPJ>
+						<Quantidade>1800000</Quantidade>
+						<Valor>1800000</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>Mitre Vila Mariana Empreendimentos Spe Ltda</Sociedade>
+						<CNPJ>28757570000140</CNPJ>
+						<Quantidade>5871300</Quantidade>
+						<Valor>5871300</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>Mitre Raizes Vila Prudente Emp. e Part. Spe Ltda</Sociedade>
+						<CNPJ>28633232000287</CNPJ>
+						<Quantidade>5000000</Quantidade>
+						<Valor>5000000</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>Vitacon 18 Desenvolvimento Imobiliário Ltda</Sociedade>
+						<CNPJ>12810205000111</CNPJ>
+						<Quantidade>1477360</Quantidade>
+						<Valor>1477360</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>Vitacon Paulista Desenvolvimento Imobiliário</Sociedade>
+						<CNPJ>12354520000181</CNPJ>
+						<Quantidade>5300000</Quantidade>
+						<Valor>5300000</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>Mitre Ministro Godoi SPE Limitada</Sociedade>
+						<CNPJ>30441997000186</CNPJ>
+						<Quantidade>13115598</Quantidade>
+						<Valor>13115598</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>RT 033 Empreendimentos e Participações Ltda.</Sociedade>
+						<CNPJ>30830720000145</CNPJ>
+						<Quantidade>5188891.64</Quantidade>
+						<Valor>5188891.64</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>Ministro Gabriel SPE Limitada</Sociedade>
+						<CNPJ>34941312000111</CNPJ>
+						<Quantidade>15015955.77</Quantidade>
+						<Valor>15015955.77</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>Calendula Participações Ltda</Sociedade>
+						<CNPJ>34930737000125</CNPJ>
+						<Quantidade>11145123.21</Quantidade>
+						<Valor>11145123.21</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>PD4 EMPREENDIMENTOS</Sociedade>
+						<CNPJ/>
+						<Quantidade>7095649.87</Quantidade>
+						<Valor>7095649.87</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>PG4 Empreendimentos</Sociedade>
+						<CNPJ/>
+						<Quantidade>18300000</Quantidade>
+						<Valor>18300000</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>Murzim SP Empreendimento Imobiliário S.A.</Sociedade>
+						<CNPJ>17849483000104</CNPJ>
+						<Quantidade>32949883</Quantidade>
+						<Valor>32949883</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>SEI Novo Negócio 51 Empreendimento Imobiliário Ltda.</Sociedade>
+						<CNPJ>28596091000199</CNPJ>
+						<Quantidade>8961582</Quantidade>
+						<Valor>8961582</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>Projeto Imobiliário 26 Ltda</Sociedade>
+						<CNPJ>37594156000158</CNPJ>
+						<Quantidade>30800000</Quantidade>
+						<Valor>30800000</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>Permuta Vibra Campo Belo I e II</Sociedade>
+						<CNPJ/>
+						<Quantidade>23823050.69</Quantidade>
+						<Valor>23823050.69</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>28 de setembro SPE Limitada</Sociedade>
+						<CNPJ>29177684000183</CNPJ>
+						<Quantidade>22132894</Quantidade>
+						<Valor>22132894</Valor>
+					</Emissor>
+				</AcoesSocFII>
+				<CotasSocFII>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+					<Emissor>
+						<Fundo>ITAU SOBERANO RF SIMPLES FICFI </Fundo>
+						<CNPJ>6175696000173</CNPJ>
+						<Quantidade>1692413.96</Quantidade>
+						<Valor>82608804.5</Valor>
+					</Emissor>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>200</Disponibilidades>
+				<TitulosPublicos>0</TitulosPublicos>
+				<TitulosPrivados>0</TitulosPrivados>
+				<FundosRendaFixa>82608804.5</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda/>
+					<CustoImovEstoque/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis/>
+					<DespManutencaoConservacao/>
+					<ReceitasVenda/>
+					<CustoPropriedadesVendidas/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros contabil="-1213635.54" financeiro="22195352.41"/>
+					<AjusteValor contabil="26725399.36" financeiro="0"/>
+					<ResultadoVenda contabil="10217683.93" financeiro="10217683.93"/>
+					<OutrasRecOuDesp contabil="6720730.87" financeiro="6720730.87"/>
+					<ResultadoLiquido contabil="42450178.62" financeiro="39133767.21"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="42450178.62" financeiro="39133767.21"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="317007.48" financeiro="317007.48"/>
+				<AjusteValorAplicacoes/>
+				<ResultadoVendaAplicacoes/>
+				<OutrasRecOuDespAplicacoes contabil="-130840.73" financeiro="-130840.73"/>
+				<ResultadoLiquido contabil="186166.75" financeiro="186166.75"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-4249384.87" financeiro="-4249384.87"/>
+				<TaxaDesempenho contabil="0" financeiro="0"/>
+				<ConsultoriaEspecializada contabil="113.88" financeiro="113.88"/>
+				<EmpresaEspecializada/>
+				<FormadorMercado/>
+				<CustodiaTitulosValores contabil="-784.01" financeiro="-784.01"/>
+				<AuditoriaIndependente contabil="-48902.4" financeiro="-27000"/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="-16916.56" financeiro="-16916.56"/>
+				<ComissoesEmolumentos/>
+				<HonorariosDespesasDefesas contabil="-46816.67" financeiro="-46816.67"/>
+				<GastosContratosSeguros/>
+				<DespesasAvaliacoes contabil="-54428.82" financeiro="-54428.82"/>
+				<TaxasIngressoSaidaFundos/>
+				<DespesasRegistroCartorio contabil="0" financeiro="0"/>
+				<OutrasRecOuDesp contabil="-359499.49" financeiro="-446084.54"/>
+				<Total contabil="-4776618.94" financeiro="-4841301.59"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="37859726.43" financeiro="34478632.37"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>61199359.88</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>58139391.886</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte xsi:nil="true"/>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil xsi:nil="true"/>
+			<ResultadoFinanceiroExcedeMinimo>3454119.53</ResultadoFinanceiroExcedeMinimo>
+			<RendimentosDeclarados>61593511.416</RendimentosDeclarados>
+			<RendimentosPagosAntec>-48819352.82</RendimentosPagosAntec>
+			<RendimentoPagar>12774158.596</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>1.00644</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>FUNDO DE INVEST IMOB - FII UBS (BR) RECEBÍVEIS IMOBILIÁRIOS</NomeFundo>
+		<CNPJFundo>28152272000126</CNPJFundo>
+		<DataFuncionamento>2017-10-16</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRUBSRCTF000</CodigoISIN>
+		<QtdCotasEmitidas>6856389</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Títulos e Valores Mobiliários</Mandato>
+			<SegmentoAtuacao>Títulos e Val. Mob.</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>31/12</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>BRL TRUST DTVM S.A.</NomeAdministrador>
+		<CNPJAdministrador>28152272000126</CNPJAdministrador>
+		<Logradouro>Rua Iguatemi</Logradouro>
+		<Numero>151</Numero>
+		<Complemento>19º andar</Complemento>
+		<Bairro>Itaim Bibi</Bairro>
+		<Cidade>São Paulo</Cidade>
+		<Estado>SP</Estado>
+		<CEP>01451-011</CEP>
+		<Telefone1>(11)31330350</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.brltrust.com.br</Site>
+		<Email>fii@brltrust.com.br</Email>
+		<Competencia>2/2020</Competencia>
+		<DataEncerTrimestre>2020-06-30</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses/>
+							<TresAteSeisMeses/>
+							<SeisAteNoveMeses/>
+							<NoveAteDozeMeses/>
+							<DozeAteQuinzeMeses/>
+							<QuinzeAteDezoitoMeses/>
+							<DezoitoAteVinteUmMeses/>
+							<VinteUmAteVinteQuatroMeses/>
+							<VinteQuatroAteVinteSeteMeses/>
+							<VinteSeteAteTrintaMeses/>
+							<TrintaAteTrintaTresMeses/>
+							<TrintaTresAteTrintaSeisMeses/>
+							<AcimaTrintaSeisMeses/>
+							<PrazoIndeterminado/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM/>
+							<INPC/>
+							<IPCA/>
+							<INCC/>
+							<OutrosIndicadores>
+								<Indicador nome="AAA"/>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns xsi:nil="true"/>
+						<CaractContratuaisIndividual>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+				</FII>
+				<CRI>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>25/06/2018</Emissao>
+						<Serie>HABITASEC SE 113</Serie>
+						<Quantidade>538</Quantidade>
+						<Valor>280572.63</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>25/06/2018</Emissao>
+						<Serie>HABITASEC SE 113</Serie>
+						<Quantidade>19840</Quantidade>
+						<Valor>10346767.96</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>18/07/2018</Emissao>
+						<Serie>HABITASEC SE 111</Serie>
+						<Quantidade>6900</Quantidade>
+						<Valor>1954062</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>04/10/2018</Emissao>
+						<Serie>DITOLVO 1E 119S</Serie>
+						<Quantidade>2000</Quantidade>
+						<Valor>1321044.36</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>04/10/2018</Emissao>
+						<Serie>DITOLVO 1E 119S</Serie>
+						<Quantidade>605</Quantidade>
+						<Valor>399867.81</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAR</Companhia>
+						<CNPJ>7119838000148</CNPJ>
+						<Emissao>07/10/2019</Emissao>
+						<Serie>19I0331635</Serie>
+						<Quantidade>9000</Quantidade>
+						<Valor>8346436.93</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAR</Companhia>
+						<CNPJ>7119838000148</CNPJ>
+						<Emissao>07/10/2019</Emissao>
+						<Serie>19I0331635</Serie>
+						<Quantidade>8000</Quantidade>
+						<Valor>7421386.66</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABI</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>31/10/2019</Emissao>
+						<Serie>HABITASEC TEGRA</Serie>
+						<Quantidade>17135</Quantidade>
+						<Valor>9359036.98</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABI</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>31/10/2019</Emissao>
+						<Serie>HABITASEC TEGRA</Serie>
+						<Quantidade>5365</Quantidade>
+						<Valor>2930396.56</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>26/04/2019</Emissao>
+						<Serie>HABIT S138 CHB</Serie>
+						<Quantidade>15000</Quantidade>
+						<Valor>11888853.42</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>14/06/2019</Emissao>
+						<Serie>SETIN II</Serie>
+						<Quantidade>20000</Quantidade>
+						<Valor>8590541.67</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>APIC</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>28/08/2019</Emissao>
+						<Serie>TRUE SEC 219ºSER</Serie>
+						<Quantidade>5000</Quantidade>
+						<Valor>4578595.56</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>APIC</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>28/08/2019</Emissao>
+						<Serie>TRUE SEC 219ºSER</Serie>
+						<Quantidade>10000</Quantidade>
+						<Valor>9204876.32</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>APIC</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>28/08/2019</Emissao>
+						<Serie>TRUE SEC 219ºSER</Serie>
+						<Quantidade>10000</Quantidade>
+						<Valor>9204876.32</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRSE</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>08/11/2019</Emissao>
+						<Serie>THINK</Serie>
+						<Quantidade>15500</Quantidade>
+						<Valor>15225664.48</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABI</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>30/12/2019</Emissao>
+						<Serie>HELBOR</Serie>
+						<Quantidade>50403</Quantidade>
+						<Valor>41919751.39</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>APIC</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>10/04/2019</Emissao>
+						<Serie>ILHAS II</Serie>
+						<Quantidade>11000</Quantidade>
+						<Valor>10040735.04</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>APIC</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>25/06/2018</Emissao>
+						<Serie>APICE S147</Serie>
+						<Quantidade>6000</Quantidade>
+						<Valor>4980984.1</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>REIT</Companhia>
+						<CNPJ>13349677000181</CNPJ>
+						<Emissao>15/05/2019</Emissao>
+						<Serie>SOCICAM</Serie>
+						<Quantidade>9899</Quantidade>
+						<Valor>9973680.82</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORT</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>17/04/2019</Emissao>
+						<Serie>GRAMADO 208</Serie>
+						<Quantidade>25000</Quantidade>
+						<Valor>18095665.85</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>FORT</Companhia>
+						<CNPJ>12979898000170</CNPJ>
+						<Emissao>06/03/2020</Emissao>
+						<Serie>DILLY</Serie>
+						<Quantidade>22000</Quantidade>
+						<Valor>21162746.19</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RBCC</Companhia>
+						<CNPJ>3559006000191</CNPJ>
+						<Emissao>31/10/2019</Emissao>
+						<Serie>SÃO JOSE II</Serie>
+						<Quantidade>10000</Quantidade>
+						<Valor>9651514.29</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>21/12/2018</Emissao>
+						<Serie>HABIT S124 BRDU</Serie>
+						<Quantidade>32542</Quantidade>
+						<Valor>27943140.93</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>21/12/2018</Emissao>
+						<Serie>HABIT S124 BRDU</Serie>
+						<Quantidade>2019</Quantidade>
+						<Valor>1734571.83</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>21/12/2018</Emissao>
+						<Serie>HABIT S124 BRDU</Serie>
+						<Quantidade>4528</Quantidade>
+						<Valor>3890601.12</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>21/12/2018</Emissao>
+						<Serie>HABIT S124 BRDU</Serie>
+						<Quantidade>512</Quantidade>
+						<Valor>439901.68</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>NOSE</Companhia>
+						<CNPJ>8903116000142</CNPJ>
+						<Emissao>26/02/2019</Emissao>
+						<Serie>RNI III 31</Serie>
+						<Quantidade>6859</Quantidade>
+						<Valor>6072010.29</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>29/03/2019</Emissao>
+						<Serie>ARACAJU S135</Serie>
+						<Quantidade>17251</Quantidade>
+						<Valor>18970295.53</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>28/10/2019</Emissao>
+						<Serie>VITACON SENIOR</Serie>
+						<Quantidade>40800</Quantidade>
+						<Valor>32611545</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HASE</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>31/05/2019</Emissao>
+						<Serie>JEQUITIBA</Serie>
+						<Quantidade>14650</Quantidade>
+						<Valor>15713781.26</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABI</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>07/11/2019</Emissao>
+						<Serie>CODEPE</Serie>
+						<Quantidade>45000</Quantidade>
+						<Valor>43888463.05</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GSEC</Companhia>
+						<CNPJ>7587384000130</CNPJ>
+						<Emissao>23/12/2019</Emissao>
+						<Serie>JG SA</Serie>
+						<Quantidade>265</Quantidade>
+						<Valor>26037326.01</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>10/06/2019</Emissao>
+						<Serie>PATRIFARM 4E32S</Serie>
+						<Quantidade>903</Quantidade>
+						<Valor>8723260.78</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RBCC</Companhia>
+						<CNPJ>3559006000191</CNPJ>
+						<Emissao>01/04/2020</Emissao>
+						<Serie>CREDIHOME</Serie>
+						<Quantidade>3000</Quantidade>
+						<Valor>3046126</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RBCC</Companhia>
+						<CNPJ>3559006000191</CNPJ>
+						<Emissao>28/05/2020</Emissao>
+						<Serie>CREDIHOME</Serie>
+						<Quantidade>6457</Quantidade>
+						<Valor>6527462.27</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>22/11/2019</Emissao>
+						<Serie>TRUE SEC 250</Serie>
+						<Quantidade>19500</Quantidade>
+						<Valor>19988831.36</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>29/11/2019</Emissao>
+						<Serie>LOCALFRIO 4E56S</Serie>
+						<Quantidade>18226</Quantidade>
+						<Valor>17860018.49</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>27/11/2019</Emissao>
+						<Serie>GRUPO CEM</Serie>
+						<Quantidade>27000</Quantidade>
+						<Valor>28472591.8</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>24/01/2020</Emissao>
+						<Serie>ISEC 254 SERIE</Serie>
+						<Quantidade>39435</Quantidade>
+						<Valor>37075027.25</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>29/01/2020</Emissao>
+						<Serie>ISEC S64</Serie>
+						<Quantidade>26979</Quantidade>
+						<Valor>26461691.09</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABI</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>11/11/2019</Emissao>
+						<Serie>CATUAI S176 E01</Serie>
+						<Quantidade>2032</Quantidade>
+						<Valor>2036102.14</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABI</Companhia>
+						<CNPJ>9304427000158</CNPJ>
+						<Emissao>11/11/2019</Emissao>
+						<Serie>CATUAI S171 E01</Serie>
+						<Quantidade>2032</Quantidade>
+						<Valor>2036102.14</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>COPS</Companhia>
+						<CNPJ>4200649000107</CNPJ>
+						<Emissao>03/01/2020</Emissao>
+						<Serie>PROVINCIA 3E 8S</Serie>
+						<Quantidade>8937</Quantidade>
+						<Valor>8139683.12</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>25/06/2019</Emissao>
+						<Serie>MULT REND 4E33S</Serie>
+						<Quantidade>41500</Quantidade>
+						<Valor>17071785.21</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>25/06/2019</Emissao>
+						<Serie>MULT REND 4E34S</Serie>
+						<Quantidade>15230</Quantidade>
+						<Valor>6189479.03</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>15/01/2016</Emissao>
+						<Serie>BRAZ SEC SER 369</Serie>
+						<Quantidade>173</Quantidade>
+						<Valor>2869128.4</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>15/12/2015</Emissao>
+						<Serie>BRAZ SEC SER 371</Serie>
+						<Quantidade>152</Quantidade>
+						<Valor>2213681.1</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>15/01/2016</Emissao>
+						<Serie>BRAZ SEC SER 369</Serie>
+						<Quantidade>87</Quantidade>
+						<Valor>1441855.25</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>15/12/2015</Emissao>
+						<Serie>BRAZ SEC SER 371</Serie>
+						<Quantidade>76</Quantidade>
+						<Valor>1106039.38</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>15/01/2016</Emissao>
+						<Serie>BRAZ SEC SER 369</Serie>
+						<Quantidade>83</Quantidade>
+						<Valor>1378342.23</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>15/12/2015</Emissao>
+						<Serie>BRAZ SEC SER 371</Serie>
+						<Quantidade>78</Quantidade>
+						<Valor>1137489.51</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>ISEC</Companhia>
+						<CNPJ>8769451000108</CNPJ>
+						<Emissao>28/08/2019</Emissao>
+						<Serie>CHB ISEC 46º SER</Serie>
+						<Quantidade>63</Quantidade>
+						<Valor>17948104.26</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRSE</Companhia>
+						<CNPJ>12130744000100</CNPJ>
+						<Emissao>12/03/2020</Emissao>
+						<Serie>GATRIA</Serie>
+						<Quantidade>8990</Quantidade>
+						<Valor>8718581.82</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>21/12/2009</Emissao>
+						<Serie>BRAZ SEC SER 130</Serie>
+						<Quantidade>1</Quantidade>
+						<Valor>42093.89</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/06/2015</Emissao>
+						<Serie>BRAZ SEC SER 361</Serie>
+						<Quantidade>18</Quantidade>
+						<Valor>1699198.68</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/06/2015</Emissao>
+						<Serie>BRAZ SEC SER 361</Serie>
+						<Quantidade>14</Quantidade>
+						<Valor>1321598.98</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/06/2015</Emissao>
+						<Serie>BRAZ SEC SER 361</Serie>
+						<Quantidade>34</Quantidade>
+						<Valor>3209597.51</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/03/2011</Emissao>
+						<Serie>BRAZ SEC SER 201</Serie>
+						<Quantidade>10</Quantidade>
+						<Valor>178125.05</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/05/2011</Emissao>
+						<Serie>BRAZ SEC SER 217</Serie>
+						<Quantidade>13</Quantidade>
+						<Valor>888359.52</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>13/07/2011</Emissao>
+						<Serie>BRAZ SEC SER 235</Serie>
+						<Quantidade>1948</Quantidade>
+						<Valor>751085.13</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>13/07/2011</Emissao>
+						<Serie>BRAZ SEC SER 235</Serie>
+						<Quantidade>2087</Quantidade>
+						<Valor>804678.98</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>13/07/2011</Emissao>
+						<Serie>BRAZ SEC SER 235</Serie>
+						<Quantidade>3928</Quantidade>
+						<Valor>1514508.41</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>13/07/2011</Emissao>
+						<Serie>BRAZ SEC SER 235</Serie>
+						<Quantidade>6404</Quantidade>
+						<Valor>2469173.08</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>13/07/2011</Emissao>
+						<Serie>BRAZ SEC SER 235</Serie>
+						<Quantidade>2009</Quantidade>
+						<Valor>774604.73</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/06/2011</Emissao>
+						<Serie>BRAZ SEC SER 233</Serie>
+						<Quantidade>4</Quantidade>
+						<Valor>115979.45</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>04/03/2013</Emissao>
+						<Serie>BRAZ SEC SER 297</Serie>
+						<Quantidade>28</Quantidade>
+						<Valor>1489717.53</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>04/03/2013</Emissao>
+						<Serie>BRAZ SEC SER 297</Serie>
+						<Quantidade>17</Quantidade>
+						<Valor>928425</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>04/03/2013</Emissao>
+						<Serie>BRAZ SEC SER 297</Serie>
+						<Quantidade>25</Quantidade>
+						<Valor>1322018.46</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>04/03/2013</Emissao>
+						<Serie>BRAZ SEC SER 297</Serie>
+						<Quantidade>16</Quantidade>
+						<Valor>845714.83</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/04/2013</Emissao>
+						<Serie>BRAZ SEC SER 300</Serie>
+						<Quantidade>8</Quantidade>
+						<Valor>720231.37</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>25/08/2016</Emissao>
+						<Serie>BRAZ SEC SER 353</Serie>
+						<Quantidade>62</Quantidade>
+						<Valor>673526.29</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>25/08/2016</Emissao>
+						<Serie>BRAZ SEC SER 353</Serie>
+						<Quantidade>31</Quantidade>
+						<Valor>339967.29</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>25/08/2016</Emissao>
+						<Serie>BRAZ SEC SER 353</Serie>
+						<Quantidade>97</Quantidade>
+						<Valor>1056057.94</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/01/2012</Emissao>
+						<Serie>BRAZ SEC SER 276</Serie>
+						<Quantidade>44</Quantidade>
+						<Valor>1129281.76</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>BRAZ</Companhia>
+						<CNPJ>3767538000114</CNPJ>
+						<Emissao>20/09/2011</Emissao>
+						<Serie>BRAZ SEC SER 255</Serie>
+						<Quantidade>45</Quantidade>
+						<Valor>2434565.2</Valor>
+					</Emissor>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+				</AcoesSocFII>
+				<CotasSocFII>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+					<Emissor>
+						<Fundo>FICFI ITAU SOBERANO RENDA FIXA SIMPLES LP</Fundo>
+						<CNPJ>6175696000173</CNPJ>
+						<Quantidade>655844.92233</Quantidade>
+						<Valor>32230659.25</Valor>
+					</Emissor>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>4099.49</Disponibilidades>
+				<TitulosPublicos xsi:nil="true"/>
+				<TitulosPrivados xsi:nil="true"/>
+				<FundosRendaFixa>32230659.25</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda/>
+					<CustoImovEstoque/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis/>
+					<DespManutencaoConservacao/>
+					<ReceitasVenda/>
+					<CustoPropriedadesVendidas/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros contabil="17704136.33" financeiro="17704136.33"/>
+					<AjusteValor contabil="-506548.95" financeiro="-506548.95"/>
+					<ResultadoVenda contabil="907.35" financeiro="907.35"/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="17198494.73" financeiro="17198494.73"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="17198494.73" financeiro="17198494.73"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="186527.28" financeiro="186527.28"/>
+				<AjusteValorAplicacoes/>
+				<ResultadoVendaAplicacoes/>
+				<OutrasRecOuDespAplicacoes/>
+				<ResultadoLiquido contabil="186527.28" financeiro="186527.28"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-312062.21" financeiro="-308341.11"/>
+				<TaxaDesempenho/>
+				<ConsultoriaEspecializada contabil="-1617559.12" financeiro="-1643089.19"/>
+				<EmpresaEspecializada/>
+				<FormadorMercado financeiro="-22157.5"/>
+				<CustodiaTitulosValores contabil="-31542.22" financeiro="-28524.95"/>
+				<AuditoriaIndependente/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="-45334.87" financeiro="-45338.85"/>
+				<ComissoesEmolumentos/>
+				<HonorariosDespesasDefesas/>
+				<GastosContratosSeguros/>
+				<DespesasAvaliacoes/>
+				<TaxasIngressoSaidaFundos/>
+				<DespesasRegistroCartorio contabil="-12.5" financeiro="-12.5"/>
+				<OutrasRecOuDesp contabil="-14056.2" financeiro="-14772.49"/>
+				<Total contabil="-2020567.12" financeiro="-2062236.59"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="15364454.89" financeiro="15322785.42"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>35090327.45</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>33335811.0775</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte xsi:nil="true"/>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil xsi:nil="true"/>
+			<ResultadoFinanceiroExcedeMinimo>121370.55</ResultadoFinanceiroExcedeMinimo>
+			<RendimentosDeclarados>33457181.6275</RendimentosDeclarados>
+			<RendimentosPagosAntec>-33457181.63</RendimentosPagosAntec>
+			<RendimentoPagar>-0.0025</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>0.953459</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

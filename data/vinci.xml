@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>VINCI OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO</NomeFundo>
+		<CNPJFundo>12516185000170</CNPJFundo>
+		<DataFuncionamento>2013-07-24</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRVINOCTF001</CodigoISIN>
+		<QtdCotasEmitidas>12673868</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Renda</Mandato>
+			<SegmentoAtuacao>Lajes Corporativas</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>31/12</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>BRL TRUST DTVM S.A.</NomeAdministrador>
+		<CNPJAdministrador>12516185000170</CNPJAdministrador>
+		<Logradouro>Rua Iguatemi</Logradouro>
+		<Numero>151</Numero>
+		<Complemento>19º andar</Complemento>
+		<Bairro>Itaim Bibi</Bairro>
+		<Cidade>São Paulo</Cidade>
+		<Estado>SP</Estado>
+		<CEP>01451-011</CEP>
+		<Telefone1>(11)31330350</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.brltrust.com.br</Site>
+		<Email>fii@brltrust.com.br</Email>
+		<Competencia>4/2020</Competencia>
+		<DataEncerTrimestre>2020-12-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+							<Imovel>
+								<Nome>BM336</Nome>
+								<Endereco>Av. Bartolomeu Mitre, 336 CEP: 22.431-002 Rio de Janeiro - RJ - Brasil</Endereco>
+								<Area>4916</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>O Fundo possui 100% do edificio comercial composto por 6 pavimentos.</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.320591669604743</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Financeiro</SetorAtuacao><PercentReceitaImovel>0.851849</PercentReceitaImovel><PercentReceitasFII>0.273096</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Seguros</SetorAtuacao><PercentReceitaImovel>0.148151</PercentReceitaImovel><PercentReceitasFII>0.047496</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Brooklyn Business Square</Nome>
+								<Endereco>Rua Jaceru, 154, Vila Gertrudes, São Paulo/SP</Endereco>
+								<Area>5379</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>O Fundo possui 100% do edificio comercial composto por 6 pavimentos.</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.0817907665339865</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Transportes e Logística</SetorAtuacao><PercentReceitaImovel>0.46943</PercentReceitaImovel><PercentReceitasFII>0.038395</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Coworking</SetorAtuacao><PercentReceitaImovel>0.387674</PercentReceitaImovel><PercentReceitasFII>0.031708</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Agências de Propaganda</SetorAtuacao><PercentReceitaImovel>0.142896</PercentReceitaImovel><PercentReceitasFII>0.011688</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Oscar Freire 585</Nome>
+								<Endereco>Rua Oscar Freire, 585, Jardim Paulista, São Paulo/SP</Endereco>
+								<Area>6145</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>O Fundo possui 100% do edificio comercial composto por 7 pavimentos.</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.177098552040219</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Coworking</SetorAtuacao><PercentReceitaImovel>0.48964</PercentReceitaImovel><PercentReceitasFII>0.086715</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Varejo</SetorAtuacao><PercentReceitaImovel>0.408169</PercentReceitaImovel><PercentReceitasFII>0.072286</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Construção e Serviços Imobiliários</SetorAtuacao><PercentReceitaImovel>0.102191</PercentReceitaImovel><PercentReceitasFII>0.018098</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Vita Corá</Nome>
+								<Endereco>Rua Corá, 2175, São Paulo/SP</Endereco>
+								<Area>6450</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>O Fundo possui 66,3% do edificio comercial composto por 5 pavimentos.</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.0638001064435485</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Coworking</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.0638</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>BMA Corporate</Nome>
+								<Endereco>Largo do Ibam, 1, Humaitá, Rio de Janeiro/RJ</Endereco>
+								<Area>8264</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>O Fundo possui 100% do edificio comercial composto por 7 pavimentos.</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.115064054558693</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Escritório de Advocacia</SetorAtuacao><PercentReceitaImovel>0.57014</PercentReceitaImovel><PercentReceitasFII>0.065603</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Saúde</SetorAtuacao><PercentReceitaImovel>0.42986</PercentReceitaImovel><PercentReceitasFII>0.049461</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Vago</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>C&amp;A - Alphaville</Nome>
+								<Endereco>Alameda Araguaia, 617, Alphaville, Barueri/SP</Endereco>
+								<Area>7910</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>O Fundo possui 70% do imóvel.</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.0746716213938715</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Varejo</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.074672</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>LAB 1404</Nome>
+								<Endereco>Rua Mourato Coelho, 1404, na Vila Madalena, São Paulo/SP.</Endereco>
+								<Area>6874</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Aquisição de 20,11%. da fração ideal do ativo.</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Vago</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Haddock  Lobo</Nome>
+								<Endereco>Rua Haddock Lobo, nº 347,  São Paulo - SP</Endereco>
+								<Area>8140</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Direito de propriedade</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.166983229424938</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Construção e Serviços Imobiliários</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.166983</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<TresAteSeisMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<SeisAteNoveMeses percentReceitaImovel="0.0116875662076449" percentReceitasFII="0.0116875662076449"/>
+							<NoveAteDozeMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<DozeAteQuinzeMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<QuinzeAteDezoitoMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<DezoitoAteVinteUmMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<VinteUmAteVinteQuatroMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<VinteQuatroAteVinteSeteMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<VinteSeteAteTrintaMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<TrintaAteTrintaTresMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<TrintaTresAteTrintaSeisMeses percentReceitaImovel="0.0317081749560201" percentReceitasFII="0.0317081749560201"/>
+							<AcimaTrintaSeisMeses percentReceitaImovel="0.956604258836335" percentReceitasFII="0.956604258836335"/>
+							<PrazoIndeterminado/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM percentReceitaImovel="0.451277629072371" percentReceitasFII="0.451277629072371"/>
+							<INPC percentReceitaImovel="0" percentReceitasFII="0"/>
+							<IPCA percentReceitaImovel="0.548722370927629" percentReceitasFII="0.548722370927629"/>
+							<INCC percentReceitaImovel="0" percentReceitasFII="0"/>
+							<OutrosIndicadores>
+								<Indicador nome="AAA"/>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns>1. Clausula de reajuste dos aluguéis (cláusula 10.1);
+2. Cláusula de Realização de Obra e data de entrega do Empreendimento (Cláusula 2);
+3. Cláusula de Obrigações (Cláusula 12);
+4. Cláusula de benfeitorias e conservação do empreendimento (Cláusula 13);
+5. Cláusula de Rescisão Antecipada (Cláusula 15)
+6. Cláusula de seguros, destruição parcial ou total do empreendimento e desapropriação (Cláusula 17).</CaractContratuaisComuns>
+						<CaractContratuaisIndividual>
+							<Imovel>
+								<NomeOuEndereco>BM336</NomeOuEndereco>
+								<CaractContratuais>Conforme item 1.1.2.1.4 deste informe.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Brooklyn Business Square</NomeOuEndereco>
+								<CaractContratuais>Conforme item 1.1.2.1.4 deste informe.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Oscar Freire 585</NomeOuEndereco>
+								<CaractContratuais>Conforme item 1.1.2.1.4 deste informe.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Vita Corá</NomeOuEndereco>
+								<CaractContratuais>Conforme item 1.1.2.1.4 deste informe.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>BMA Corporate</NomeOuEndereco>
+								<CaractContratuais>Conforme item 1.1.2.1.4 deste informe.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>C&amp;A - Alphaville</NomeOuEndereco>
+								<CaractContratuais>Conforme item 1.1.2.1.4 deste informe.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>LAB 1404</NomeOuEndereco>
+								<CaractContratuais>Conforme item 1.1.2.1.4 deste informe.</CaractContratuais>
+							</Imovel>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro>A Locatária deverá contratar seguro patrimonial para o Empreendimento junto a seguradora de primeira linha, o qual deverá prever que seja propiciada a cobertura do montante necessário para a reconstrução do Empreendimento e reposição do mesmo no estado anterior ao sinistro no prazo de 12 (doze) meses, com o valor da indenização em montante suficiente à reposição do Empreendimento no estado anterior ao sinistro, com base na avaliação do Empreendimento à época da contratação da apólice e de suas renovações.
+A apólice do Seguro Patrimonial deverá estipular a Empreendedora Locadora, como único beneficiário da indenização objeto do seguro contratado, garantindo as perdas e danos materiais decorrentes de incêndio, raio, explosão de qualquer natureza, vendaval, inundação, granizo, fumaça, impacto de veículos terrestres e queda de aeronaves.
+</PoliticaContratacaoSeguro>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+					<Emissor>
+						<Fundo>FII BC FUND</Fundo>
+						<CNPJ>8924783000101</CNPJ>
+						<Quantidade>116581</Quantidade>
+						<Valor>10345397.94</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII CAP REIT</Fundo>
+						<CNPJ>34081611000123</CNPJ>
+						<Quantidade>16270</Quantidade>
+						<Valor>1326005</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII CAPI SEC</Fundo>
+						<CNPJ>18979895000113</CNPJ>
+						<Quantidade>1634</Quantidade>
+						<Valor>170181.1</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII CSHG CRI</Fundo>
+						<CNPJ>11160521000122</CNPJ>
+						<Quantidade>16539</Quantidade>
+						<Valor>1683670.2</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII HG REAL</Fundo>
+						<CNPJ>9072017000129</CNPJ>
+						<Quantidade>493</Quantidade>
+						<Valor>77401</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII CSHG CRI</Fundo>
+						<CNPJ>9072017000129</CNPJ>
+						<Quantidade>2229</Quantidade>
+						<Valor>349953</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII HG REAL</Fundo>
+						<CNPJ>9072017000129</CNPJ>
+						<Quantidade>35</Quantidade>
+						<Valor>5495</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII JS REAL</Fundo>
+						<CNPJ>13371132000171</CNPJ>
+						<Quantidade>3480</Quantidade>
+						<Valor>346225.2</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII KINEA RI</Fundo>
+						<CNPJ>16706958000132</CNPJ>
+						<Quantidade>75873</Quantidade>
+						<Valor>6604744.65</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII KINEA IP</Fundo>
+						<CNPJ>24960430000113</CNPJ>
+						<Quantidade>26091</Quantidade>
+						<Valor>3021859.62</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII KINEA</Fundo>
+						<CNPJ>12005956000165</CNPJ>
+						<Quantidade>20456</Quantidade>
+						<Valor>3320417.92</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII MOGNO</Fundo>
+						<CNPJ>29216463000177</CNPJ>
+						<Quantidade>39061</Quantidade>
+						<Valor>3364714.54</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII RBRALPHA</Fundo>
+						<CNPJ>27529279000151</CNPJ>
+						<Quantidade>6725</Quantidade>
+						<Valor>657032.5</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII RBRALPHA</Fundo>
+						<CNPJ>27529279000151</CNPJ>
+						<Quantidade>246</Quantidade>
+						<Valor>24034.2</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII RBRHGRAD</Fundo>
+						<CNPJ>29467977000103</CNPJ>
+						<Quantidade>22205</Quantidade>
+						<Valor>2111251.4</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII RIOB VA CI</Fundo>
+						<CNPJ>15576907000170</CNPJ>
+						<Quantidade>11029</Quantidade>
+						<Valor>1301422</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII RIOB VA CI</Fundo>
+						<CNPJ>15576907000170</CNPJ>
+						<Quantidade>254238</Quantidade>
+						<Valor>30000084</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII XP PROP</Fundo>
+						<CNPJ>30654849000140</CNPJ>
+						<Quantidade>31133</Quantidade>
+						<Valor>2542320.78</Valor>
+					</Emissor>
+				</FII>
+				<CRI>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+				</AcoesSocFII>
+				<CotasSocFII>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+					<Emissor>
+						<Fundo>ITAÚ CORP FEDERAL PLUS RF CP FICFI</Fundo>
+						<CNPJ>3557198000105</CNPJ>
+						<Quantidade>204908.27412</Quantidade>
+						<Valor>20884966.72</Valor>
+					</Emissor>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>1080831.53</Disponibilidades>
+				<TitulosPublicos xsi:nil="true"/>
+				<TitulosPrivados xsi:nil="true"/>
+				<FundosRendaFixa>20884966.72</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+					<Imovel>
+						<Nome>Haddock  Lobo</Nome>
+						<Endereco>Rua Haddock Lobo, nº 347,  São Paulo - SP</Endereco>
+						<Area>8140</Area>
+						<NumUnidades>1</NumUnidades>
+						<OutrasCaractRelevantes>Direito de propriedade</OutrasCaractRelevantes>
+						<PercentTotalInvestido>0.1772</PercentTotalInvestido>
+						<Categoria>Renda</Categoria>
+					</Imovel>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda/>
+					<CustoImovEstoque/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis contabil="14539839.75" financeiro="13994120.92"/>
+					<DespManutencaoConservacao contabil="-126352.44" financeiro="-126352.44"/>
+					<ReceitasVenda contabil="19398219.82"/>
+					<CustoPropriedadesVendidas/>
+					<AjusteValor contabil="7196796.46"/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="41008503.59" financeiro="13867768.48"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros contabil="-1371144.03"/>
+					<AjusteValor/>
+					<ResultadoVenda contabil="72845.82" financeiro="71185.06"/>
+					<OutrasRecOuDesp contabil="625852.11" financeiro="625852.11"/>
+					<ResultadoLiquido contabil="-672446.1" financeiro="697037.17"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="40336057.49" financeiro="14564805.65"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="170017.06" financeiro="170017.06"/>
+				<AjusteValorAplicacoes/>
+				<ResultadoVendaAplicacoes/>
+				<OutrasRecOuDespAplicacoes/>
+				<ResultadoLiquido contabil="170017.06" financeiro="170017.06"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-1924206.46" financeiro="-1634224.28"/>
+				<TaxaDesempenho/>
+				<ConsultoriaEspecializada contabil="-216710.29" financeiro="-216710.29"/>
+				<EmpresaEspecializada/>
+				<FormadorMercado/>
+				<CustodiaTitulosValores contabil="44971.97" financeiro="-41250.27"/>
+				<AuditoriaIndependente contabil="-13191.85" financeiro="-44650.02"/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="-72772.2" financeiro="-82955.91"/>
+				<ComissoesEmolumentos/>
+				<HonorariosDespesasDefesas contabil="-61379.39" financeiro="-61379.39"/>
+				<GastosContratosSeguros/>
+				<DespesasAvaliacoes/>
+				<TaxasIngressoSaidaFundos/>
+				<DespesasRegistroCartorio contabil="-83.63" financeiro="-83.63"/>
+				<OutrasRecOuDesp contabil="-2444404.26" financeiro="-374397.36"/>
+				<Total contabil="-4687776.11" financeiro="-2455651.15"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="35818298.44" financeiro="12279171.56"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>22636415.03</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>21504594.2785</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte xsi:nil="true"/>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil xsi:nil="true"/>
+			<ResultadoFinanceiroExcedeMinimo>3230430</ResultadoFinanceiroExcedeMinimo>
+			<RendimentosDeclarados>24735024.2785</RendimentosDeclarados>
+			<RendimentosPagosAntec>-24735024.28</RendimentosPagosAntec>
+			<RendimentoPagar>-0.0015</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>1.092709</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

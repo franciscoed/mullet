@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>XP Corporate Macaé Fundo de Investimento Imobiliário</NomeFundo>
+		<CNPJFundo>16802320000103</CNPJFundo>
+		<DataFuncionamento>2013-03-11</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRXPCMCTF009</CodigoISIN>
+		<QtdCotasEmitidas>2414570</QtdCotasEmitidas>
+		<FundoExclusivo>true</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Renda</Mandato>
+			<SegmentoAtuacao>Lajes Corporativas</SegmentoAtuacao>
+			<TipoGestao>Passiva</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>31/12</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>true</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador> Rio Bravo Investimentos DTVM Ltda</NomeAdministrador>
+		<CNPJAdministrador>16802320000103</CNPJAdministrador>
+		<Logradouro>Av. Chedid Jafet</Logradouro>
+		<Numero>222</Numero>
+		<Complemento>Bloco B - CJ 32</Complemento>
+		<Bairro>Vila Olimpia</Bairro>
+		<Cidade>São Paulo</Cidade>
+		<Estado>SP</Estado>
+		<CEP>04551065</CEP>
+		<Telefone1>11 3509 6600</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>riobravo.com.br</Site>
+		<Email>fundosimobiliarios@riobravo.com.br</Email>
+		<Competencia>01/2021</Competencia>
+		<DataEncerTrimestre>2021-03-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+							<Imovel>
+								<Nome>Ed. The Corporate Macaé</Nome>
+								<Endereco>Av Pr Aristeu Ferreira da Silva,370,Cavaleiros,Macaé-RJ</Endereco>
+								<Area>19664.23</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Lajes Corporativas</OutrasCaractRelevantes>
+								<PercentVacancia>1</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.996128</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Petróleo</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.996128</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses percentReceitaImovel="1" percentReceitasFII="0.996128"/>
+							<TresAteSeisMeses/>
+							<SeisAteNoveMeses/>
+							<NoveAteDozeMeses/>
+							<DozeAteQuinzeMeses/>
+							<QuinzeAteDezoitoMeses/>
+							<DezoitoAteVinteUmMeses/>
+							<VinteUmAteVinteQuatroMeses/>
+							<VinteQuatroAteVinteSeteMeses/>
+							<VinteSeteAteTrintaMeses/>
+							<TrintaAteTrintaTresMeses/>
+							<TrintaTresAteTrintaSeisMeses/>
+							<AcimaTrintaSeisMeses/>
+							<PrazoIndeterminado/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM percentReceitaImovel="1" percentReceitasFII="0.996128"/>
+							<INPC/>
+							<IPCA/>
+							<INCC/>
+							<OutrosIndicadores>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns>Contratos Típico e atípicos, com prazos de 120 meses, 118 meses e 110 meses, corrigidos anualmente pelo IGP-M. Conforme comunicado ao Mercado divulgado em 10.07.2019 a locatária formalizou sua intenção de desocupar o único imóvel do fundo no final de dezembro de 2020.</CaractContratuaisComuns>
+						<CaractContratuaisIndividual>
+							<Imovel>
+								<NomeOuEndereco>Ed. The Corporate Macaé</NomeOuEndereco>
+								<CaractContratuais>Contratos Típico e atípicos, com prazos de 120 meses, 118 meses e 110 meses, corrigidos anualmente pelo IGP-M.</CaractContratuais>
+							</Imovel>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro>Contratação de seguro exigido do locatário.</PoliticaContratacaoSeguro>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+				</FII>
+				<CRI>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+				</AcoesSocFII>
+				<CotasSocFII>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+					<Emissor>
+						<Fundo>ITAÚ TOP RF REFERENCIADO DI FICFI</Fundo>
+						<CNPJ>5902521000158</CNPJ>
+						<Quantidade>465.31737</Quantidade>
+						<Valor>2283.13</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>Itaú Soberano RF Simples LP FICFI</Fundo>
+						<CNPJ>6175696000173</CNPJ>
+						<Quantidade>158749.16735</Quantidade>
+						<Valor>7781512.22</Valor>
+					</Emissor>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>3479.45</Disponibilidades>
+				<TitulosPublicos xsi:nil="true"/>
+				<TitulosPrivados xsi:nil="true"/>
+				<FundosRendaFixa>7783795.35</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda contabil="0" financeiro="0"/>
+					<CustoImovEstoque contabil="0" financeiro="0"/>
+					<AjusteValor contabil="0" financeiro="0"/>
+					<OutrasRecOuDesp contabil="0" financeiro="0"/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis contabil="0" financeiro="3063307.19"/>
+					<DespManutencaoConservacao contabil="-26267.07" financeiro="-25517.07"/>
+					<ReceitasVenda contabil="0" financeiro="0"/>
+					<CustoPropriedadesVendidas contabil="0" financeiro="0"/>
+					<AjusteValor contabil="0" financeiro="0"/>
+					<OutrasRecOuDesp contabil="-1592975.51" financeiro="4502991.93"/>
+					<ResultadoLiquido contabil="-1619242.58" financeiro="7540782.05"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros contabil="0" financeiro="0"/>
+					<AjusteValor contabil="0" financeiro="0"/>
+					<ResultadoVenda contabil="0" financeiro="0"/>
+					<OutrasRecOuDesp contabil="0" financeiro="0"/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="-1619242.58" financeiro="7540782.05"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="31182.3" financeiro="31182.3"/>
+				<AjusteValorAplicacoes contabil="0" financeiro="0"/>
+				<ResultadoVendaAplicacoes contabil="0" financeiro="0"/>
+				<OutrasRecOuDespAplicacoes contabil="0" financeiro="0"/>
+				<ResultadoLiquido contabil="31182.3" financeiro="31182.3"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-416147.1" financeiro="-454457.22"/>
+				<TaxaDesempenho contabil="0" financeiro="0"/>
+				<ConsultoriaEspecializada contabil="0" financeiro="0"/>
+				<EmpresaEspecializada contabil="0" financeiro="0"/>
+				<FormadorMercado contabil="0" financeiro="0"/>
+				<CustodiaTitulosValores contabil="0" financeiro="0"/>
+				<AuditoriaIndependente contabil="0" financeiro="0"/>
+				<RepresentantesCotistas contabil="0" financeiro="0"/>
+				<TaxasImpostosContribuicoes contabil="-12606.29" financeiro="-12606.29"/>
+				<ComissoesEmolumentos contabil="0" financeiro="0"/>
+				<HonorariosDespesasDefesas contabil="-24816.83" financeiro="-24816.83"/>
+				<GastosContratosSeguros contabil="0" financeiro="0"/>
+				<DespesasAvaliacoes contabil="0" financeiro="0"/>
+				<TaxasIngressoSaidaFundos contabil="0" financeiro="0"/>
+				<DespesasRegistroCartorio contabil="-368.03" financeiro="-368.03"/>
+				<OutrasRecOuDesp contabil="-117062" financeiro="-117062"/>
+				<Total contabil="-571000.25" financeiro="-609310.37"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="-2159060.53" financeiro="6962653.98"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>6962653.98</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>6614521.281</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte>-3861729.32</ParcelaDistribuidaTriSeguinte>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil>0</LucroContabil>
+			<ResultadoFinanceiroExcedeMinimo>0</ResultadoFinanceiroExcedeMinimo>
+			<RendimentosDeclarados>2752791.961</RendimentosDeclarados>
+			<RendimentosPagosAntec>-1835255.36</RendimentosPagosAntec>
+			<RendimentoPagar>917536.601</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>0.395365</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

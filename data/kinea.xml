@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>KINEA RENDA IMOBILIARIA FII</NomeFundo>
+		<CNPJFundo>12005956000165</CNPJFundo>
+		<DataFuncionamento>2010-08-11</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRKNRICTF007</CodigoISIN>
+		<QtdCotasEmitidas>24154995</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Renda</Mandato>
+			<SegmentoAtuacao>Híbrido</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>30/06</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>INTRAG DISTR DE TITULOS E VALORES MOBILIARIOS LTDA</NomeAdministrador>
+		<CNPJAdministrador>12005956000165</CNPJAdministrador>
+		<Logradouro>AV BRIGADEIRO FARIA LIMA</Logradouro>
+		<Numero>3400</Numero>
+		<Complemento>10º andar</Complemento>
+		<Bairro>ITAIM BIBI</Bairro>
+		<Cidade>SÃO PAULO</Cidade>
+		<Estado>SP</Estado>
+		<CEP>04538-132</CEP>
+		<Telefone1>55-(11)30726012</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.intrag.com.br</Site>
+		<Email>produtosestruturados@itau-unibanco.com.br</Email>
+		<Competencia>01/2021</Competencia>
+		<DataEncerTrimestre>2021-03-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+							<Imovel>
+								<Nome>Edifício Lagoa Corporate</Nome>
+								<Endereco>Rua Humaitá, 275, Humaitá, Rio de Janeiro - RJ</Endereco>
+								<Area>11686.77</Area>
+								<NumUnidades>26</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo</OutrasCaractRelevantes>
+								<PercentVacancia>0.019141</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.069295</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Serviços</SetorAtuacao><PercentReceitaImovel>0.606139</PercentReceitaImovel><PercentReceitasFII>0.042003</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Indústria</SetorAtuacao><PercentReceitaImovel>0.050879</PercentReceitaImovel><PercentReceitasFII>0.003526</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Botafogo Trade Center</Nome>
+								<Endereco>Rua Voluntários da Pátria, 113, Botafogo, Rio de Janeiro - RJ</Endereco>
+								<Area>8083</Area>
+								<NumUnidades>13</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo</OutrasCaractRelevantes>
+								<PercentVacancia>0.027037</PercentVacancia>
+								<PercentInadimplencia>0.0165487891927447</PercentInadimplencia>
+								<PercentReceitasFII>0.017568</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Serviços</SetorAtuacao><PercentReceitaImovel>0.730198</PercentReceitaImovel><PercentReceitasFII>0.012828</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Comércio</SetorAtuacao><PercentReceitaImovel>0.215775</PercentReceitaImovel><PercentReceitasFII>0.003791</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Buenos Aires Corporate</Nome>
+								<Endereco>Rua Buenos Aires, 15, Centro, Rio de Janeiro - RJ</Endereco>
+								<Area>6876.255</Area>
+								<NumUnidades>11</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo</OutrasCaractRelevantes>
+								<PercentVacancia>0.025842</PercentVacancia>
+								<PercentInadimplencia>0.0049763227212559</PercentInadimplencia>
+								<PercentReceitasFII>0.003853</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Serviços</SetorAtuacao><PercentReceitaImovel>0.9252</PercentReceitaImovel><PercentReceitasFII>0.003565</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>CD Santa Cruz</Nome>
+								<Endereco>Estrada da Lama Preta, 2.805, Santa Cruz, Rio de Janeiro - RJ</Endereco>
+								<Area>64860.17</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo (Centro de distribuição )</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.074158</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Comércio</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.074158</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Edifício Madison</Nome>
+								<Endereco>Rua Gomes de Carvalho, 1.195, Vila Olimpia, São Paulo - SP</Endereco>
+								<Area>8329.08</Area>
+								<NumUnidades>13</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo</OutrasCaractRelevantes>
+								<PercentVacancia>0.002563</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.028984</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Serviços</SetorAtuacao><PercentReceitaImovel>0.430819</PercentReceitaImovel><PercentReceitasFII>0.012487</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Indústria</SetorAtuacao><PercentReceitaImovel>0.282554</PercentReceitaImovel><PercentReceitasFII>0.00819</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Edifício Bela Paulista</Nome>
+								<Endereco>Avenida Paulista, 2.421, Bela Vista, São Paulo - SP</Endereco>
+								<Area>6520.56</Area>
+								<NumUnidades>14</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo</OutrasCaractRelevantes>
+								<PercentVacancia>0.006014</PercentVacancia>
+								<PercentInadimplencia>0.00199865188819871</PercentInadimplencia>
+								<PercentReceitasFII>0.023769</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Serviços</SetorAtuacao><PercentReceitaImovel>0.910804</PercentReceitaImovel><PercentReceitasFII>0.021649</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Edifício Athenas</Nome>
+								<Endereco>Rua Dr. Fernandes Coelho, 64, Pinheiros, São Paulo - SP</Endereco>
+								<Area>6229.6</Area>
+								<NumUnidades>25</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário de 25 conjuntos</OutrasCaractRelevantes>
+								<PercentVacancia>0.009822</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.015661</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Serviços</SetorAtuacao><PercentReceitaImovel>0.461681</PercentReceitaImovel><PercentReceitasFII>0.00723</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Indústria</SetorAtuacao><PercentReceitaImovel>0.235788</PercentReceitaImovel><PercentReceitasFII>0.003693</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Edifício Joaquim Floriano</Nome>
+								<Endereco>Rua Joaquim Floriano, 913, Itaim Bibi, São Paulo - SP</Endereco>
+								<Area>3898.63</Area>
+								<NumUnidades>16</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário de 16 conjuntos</OutrasCaractRelevantes>
+								<PercentVacancia>0.004358</PercentVacancia>
+								<PercentInadimplencia>0.145120463998469</PercentInadimplencia>
+								<PercentReceitasFII>0.014846</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Serviços</SetorAtuacao><PercentReceitaImovel>0.576314</PercentReceitaImovel><PercentReceitasFII>0.008556</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Indústria</SetorAtuacao><PercentReceitaImovel>0.163756</PercentReceitaImovel><PercentReceitasFII>0.002431</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>CD Bandeirantes</Nome>
+								<Endereco>Rodovia dos Bandeirantes, km 69, Louveira - SP</Endereco>
+								<Area>99278.63</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário de 76,7% do ativo (Centro de distribuição)</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.095264</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Indústria</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.095264</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>CD Mogi das Cruzes</Nome>
+								<Endereco>Rodovia Mogi-Dutra (SP-088), 11.100 (km 41,4), Mogi das Cruzes - SP</Endereco>
+								<Area>69113.25</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo (Centro de distribuição )</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.069768</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Indústria</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.069768</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Jundiaí Industrial Park</Nome>
+								<Endereco>Rodovia Vice Prefeito Hermenegildo Tonolli, km 2, Jundiaí - SP</Endereco>
+								<Area>75975.6</Area>
+								<NumUnidades>2</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário de 90% do ativo (Centro de distribuição)</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.063796</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Indústria</SetorAtuacao><PercentReceitaImovel>0.411921</PercentReceitaImovel><PercentReceitasFII>0.026279</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Comércio</SetorAtuacao><PercentReceitaImovel>0.588079</PercentReceitaImovel><PercentReceitasFII>0.037517</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Global Jundiaí</Nome>
+								<Endereco>Avenida Caminho de Goiás, 100, Rodovia Anhanguera, km 66, Jundiaí - SP</Endereco>
+								<Area>41468.12</Area>
+								<NumUnidades>31</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo (Centro de distribuição )</OutrasCaractRelevantes>
+								<PercentVacancia>0.013123</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.01941</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Indústria</SetorAtuacao><PercentReceitaImovel>0.861944</PercentReceitaImovel><PercentReceitasFII>0.01673</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Pib Sumaré</Nome>
+								<Endereco>Avenida Parque Industrial, 580, Sumaré - SP</Endereco>
+								<Area>13835.56</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo (Centro de distribuição )</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.005397</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Serviços</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.005397</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>CD Pouso Alegre</Nome>
+								<Endereco>Rodovia Fernão Dias, km 863, Algodão, Pouso Alegre - MG</Endereco>
+								<Area>87750</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo (Centro de distribuição )</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.082015</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Comércio</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.082015</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>CD Itaqua</Nome>
+								<Endereco>Rua do Níquel, 205, Parque Industrial, Itaquaquecetuba - SP</Endereco>
+								<Area>30698</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo (Centro de distribuição )</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.042703</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Comércio</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.042703</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Boulevard Corporate Tower</Nome>
+								<Endereco>Avenida dos Andradas, 3000, Santa Efigênia, Belo Horizonte - MG</Endereco>
+								<Area>20426.18</Area>
+								<NumUnidades>68</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário de 68 conjuntos</OutrasCaractRelevantes>
+								<PercentVacancia>0.010639</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.065882</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Serviços</SetorAtuacao><PercentReceitaImovel>0.940672</PercentReceitaImovel><PercentReceitasFII>0.061974</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Edifício Diogo Moreira</Nome>
+								<Endereco>Rua Diogo Moreira, 184, São Paulo - SP</Endereco>
+								<Area>12104.57</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário do ativo</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.092052</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Indústria</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.092052</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Edifício Condomínio São Luiz, Torre IV</Nome>
+								<Endereco>Avenida Presidente Juscelino Kubitschek, 1.830, São Paulo - SP</Endereco>
+								<Area>11354.46</Area>
+								<NumUnidades>12</NumUnidades>
+								<OutrasCaractRelevantes>Proprietário de 12 conjuntos</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.046565</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Serviços</SetorAtuacao><PercentReceitaImovel>0.429993</PercentReceitaImovel><PercentReceitasFII>0.020023</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses percentReceitaImovel="0.028074" percentReceitasFII="0.023329"/>
+							<TresAteSeisMeses percentReceitaImovel="0.019345" percentReceitasFII="0.016076"/>
+							<SeisAteNoveMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<NoveAteDozeMeses percentReceitaImovel="0.001416" percentReceitasFII="0.001176"/>
+							<DozeAteQuinzeMeses percentReceitaImovel="0.005206" percentReceitasFII="0.004326"/>
+							<QuinzeAteDezoitoMeses percentReceitaImovel="0.004872" percentReceitasFII="0.004048"/>
+							<DezoitoAteVinteUmMeses percentReceitaImovel="0.018711" percentReceitasFII="0.015549"/>
+							<VinteUmAteVinteQuatroMeses percentReceitaImovel="0.004355" percentReceitasFII="0.003619"/>
+							<VinteQuatroAteVinteSeteMeses percentReceitaImovel="0.010771" percentReceitasFII="0.008951"/>
+							<VinteSeteAteTrintaMeses percentReceitaImovel="0.057586" percentReceitasFII="0.047853"/>
+							<TrintaAteTrintaTresMeses percentReceitaImovel="0.085555" percentReceitasFII="0.071095"/>
+							<TrintaTresAteTrintaSeisMeses percentReceitaImovel="0.010658" percentReceitasFII="0.008856"/>
+							<AcimaTrintaSeisMeses percentReceitaImovel="0.747454" percentReceitasFII="0.621127"/>
+							<PrazoIndeterminado percentReceitaImovel="0.005997" percentReceitasFII="0.004984"/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM percentReceitaImovel="0.582674" percentReceitasFII="0.484196"/>
+							<INPC percentReceitaImovel="0" percentReceitasFII="0"/>
+							<IPCA percentReceitaImovel="0.417326" percentReceitasFII="0.346793"/>
+							<INCC percentReceitaImovel="0" percentReceitasFII="0"/>
+							<OutrosIndicadores>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns>Cláusula de reajuste padrão
+Tanto para contratos típicos quanto os atípicos é previsto que o valor do aluguel será corrigido monetariamente a cada período de 12 (doze) meses contatos a partir do início do contrato, ou em período menor, caso a legislação assim o permita.
+ Os reajustes previstos são de automática aplicação. Eles se referem tão somente às hipóteses de inflação, sendo que, no caso de ocorrência de deflação, o valor avençado entre as partes para o aluguel em moeda corrente nacional será mantido.
+Indexadores
+Atualmente só possuímos 2 índices de reajustes na carteira do Fundo Kinea Renda: IGPM  e IPCA e a definição do índice depende da negociação comercial entre as partes.
+Cláusula de rescisão padrão
+Para os contratos típicos de locação:
+Em caso de solicitação pelo inquilino de rescisão do contrato antes do decurso de seu prazo, deverá fazê-lo respeitando o aviso prévio,quando aplicável, e também deverá  pagar a multa por rescisão antecipada, conforme o caso. O inquilino poderá optar por não cumprir o aviso prévio estabelecido devendo neste caso efetuar o pagamento do valor equivalente a aluguel e encargos do período não cumprido. Além disso, caso aplicável, deverá devolver eventuais valores referentes aos aluguéis que foram isentos ou sofreram desconto temporários de maneira integral ou proporcional. 
+Os contratos estabelecem ainda que o andar deve ser devolvido da mesma forma como estava no início da locação.
+Para os contratos atípicos de locação:
+A cláusula de rescisão estabelece que o inquilino precisa efetuar o pagamento do saldo remanescente do contrato.
+Garantias exigidas
+A garantia do contrato de locação é definida em negociação comercial entre as partes. Exemplificativamente poderão ser aceitos: fiança bancária, seguro fiança, caução, fiador, entre outros.</CaractContratuaisComuns>
+						<CaractContratuaisIndividual>
+							<Imovel>
+								<NomeOuEndereco>-</NomeOuEndereco>
+								<CaractContratuais>-</CaractContratuais>
+							</Imovel>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro>O procedimento atual prevê que, sempre que comercialmente acordado, o inquilino fica responsável pela contratação dos seguros aplicáveis. O gestor do Fundo acompanha e valida referidas contratações.Para os demais casos, o Fundo realiza a contratação assessorado por corretora de seguros de primeira linha .</PoliticaContratacaoSeguro>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+				</FII>
+				<CRI>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>2520</Quantidade>
+						<Valor>2209668.81</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>85375</Quantidade>
+						<Valor>74861299.54</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>1112</Quantidade>
+						<Valor>975060.21</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>9009</Quantidade>
+						<Valor>7899566</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>14326</Quantidade>
+						<Valor>12561791.83</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>2737</Quantidade>
+						<Valor>2399945.85</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>7673</Quantidade>
+						<Valor>6728090.79</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>9672</Quantidade>
+						<Valor>8480919.35</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>18598</Quantidade>
+						<Valor>16307706.57</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>387</Quantidade>
+						<Valor>339342</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>2705</Quantidade>
+						<Valor>2371886.56</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>6274</Quantidade>
+						<Valor>5501373.86</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>10724</Quantidade>
+						<Valor>9403368.39</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>2701</Quantidade>
+						<Valor>2368379.15</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>8354</Quantidade>
+						<Valor>7325227.48</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>12594</Quantidade>
+						<Valor>11043082.94</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>10468</Quantidade>
+						<Valor>9178894.1</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>13199</Quantidade>
+						<Valor>11573578.83</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>13787</Quantidade>
+						<Valor>12089168.22</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>7075</Quantidade>
+						<Valor>6203732.88</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>4271</Quantidade>
+						<Valor>3745037.9</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>3411</Quantidade>
+						<Valor>2990944.57</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>10356</Quantidade>
+						<Valor>9080686.59</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>10031</Quantidade>
+						<Valor>8795709.47</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>10490</Quantidade>
+						<Valor>9198184.86</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>5218</Quantidade>
+						<Valor>4575417.41</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>8679</Quantidade>
+						<Valor>7610204.61</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>6875</Quantidade>
+						<Valor>6028362.33</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>8497</Quantidade>
+						<Valor>7450617.42</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>9434</Quantidade>
+						<Valor>8272228.4</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>9441</Quantidade>
+						<Valor>8278366.37</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>12240</Quantidade>
+						<Valor>10732677.09</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>3841</Quantidade>
+						<Valor>3367991.23</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>2778</Quantidade>
+						<Valor>2435896.81</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>2509</Quantidade>
+						<Valor>2200023.43</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>6590</Quantidade>
+						<Valor>5778459.31</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>5300</Quantidade>
+						<Valor>4647319.33</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>VERT COMPANHIA SECURITIZADORA</Companhia>
+						<CNPJ>25.005.683/0001-09</CNPJ>
+						<Emissao>9 ª Emissão</Emissao>
+						<Serie>Série nº 1</Serie>
+						<Quantidade>1631</Quantidade>
+						<Valor>1430146.76</Valor>
+					</Emissor>
+				</CRI>
+				<LCI>
+					<Emissor>
+						<Nome>CAIXA ECONOMICA FEDERAL - CEF</Nome>
+						<CNPJ>00.360.305/0001-04</CNPJ>
+						<Vencimento>2021-07-09</Vencimento>
+						<Quantidade>17</Quantidade>
+						<Valor>178721204.31</Valor>
+					</Emissor>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+					<Emissor>
+						<Sociedade>ITAQUAQ INVEST IMOBIL E PARTICIPACOES SA</Sociedade>
+						<CNPJ>16.657.308/0001-44</CNPJ>
+						<Quantidade>7949466</Quantidade>
+						<Valor>107735.42</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>N.L.P.S.P.E. EMPREENDIMENTOS E PARTICIPA</Sociedade>
+						<CNPJ>33.679.741/0001-08</CNPJ>
+						<Quantidade>27750199</Quantidade>
+						<Valor>26624326.12</Valor>
+					</Emissor>
+				</AcoesSocFII>
+				<CotasSocFII>
+					<Emissor>
+						<Sociedade>ATRIUM FARIA LIMA DESENVOL. IMOBIL. LTDA.</Sociedade>
+						<CNPJ>9077756000103</CNPJ>
+						<Quantidade>671190</Quantidade>
+						<Valor>671190</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>SHAULA EMPREENDIMENTOS E PARTICIPACOES L</Sociedade>
+						<CNPJ>09.416.417/0001-04</CNPJ>
+						<Quantidade>352480042.93</Quantidade>
+						<Valor>352480042.93</Valor>
+					</Emissor>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>62769.68</Disponibilidades>
+				<TitulosPublicos>18846730.61</TitulosPublicos>
+				<TitulosPrivados xsi:nil="true"/>
+				<FundosRendaFixa xsi:nil="true"/>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda/>
+					<CustoImovEstoque/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis contabil="54232117.9" financeiro="56346569.87"/>
+					<DespManutencaoConservacao contabil="277182.3" financeiro="-77761.7"/>
+					<ReceitasVenda/>
+					<CustoPropriedadesVendidas/>
+					<AjusteValor/>
+					<OutrasRecOuDesp contabil="849920.34" financeiro="856748.24"/>
+					<ResultadoLiquido contabil="55359220.54" financeiro="57125556.41"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros contabil="7798989.63" financeiro="7502807.62"/>
+					<AjusteValor contabil="-44631983.98"/>
+					<ResultadoVenda/>
+					<OutrasRecOuDesp contabil="-271903.24"/>
+					<ResultadoLiquido contabil="-37104897.59" financeiro="7502807.62"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="18254322.95" financeiro="64628364.03"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="292820.7" financeiro="292820.7"/>
+				<AjusteValorAplicacoes/>
+				<ResultadoVendaAplicacoes/>
+				<OutrasRecOuDespAplicacoes contabil="72969.77" financeiro="-74377.04"/>
+				<ResultadoLiquido contabil="365790.47" financeiro="218443.66"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-11364168.25" financeiro="-11327705.56"/>
+				<TaxaDesempenho/>
+				<ConsultoriaEspecializada/>
+				<EmpresaEspecializada contabil="-125067.72" financeiro="-126567.72"/>
+				<FormadorMercado/>
+				<CustodiaTitulosValores contabil="-22.89" financeiro="-22.89"/>
+				<AuditoriaIndependente contabil="-16517.39"/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="-77610.1" financeiro="-84735.26"/>
+				<ComissoesEmolumentos/>
+				<HonorariosDespesasDefesas contabil="-233437.38" financeiro="-155862.46"/>
+				<GastosContratosSeguros contabil="-310392.74" financeiro="-11108.69"/>
+				<DespesasAvaliacoes/>
+				<TaxasIngressoSaidaFundos contabil="-101.53" financeiro="-166.58"/>
+				<DespesasRegistroCartorio/>
+				<OutrasRecOuDesp contabil="-94894.8" financeiro="-35420.33"/>
+				<Total contabil="-12222212.8" financeiro="-11741589.49"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="6397900.62" financeiro="53105218.2"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>53105218.2</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>50449957.29</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte>-501109.14</ParcelaDistribuidaTriSeguinte>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil>0</LucroContabil>
+			<ResultadoFinanceiroExcedeMinimo>0</ResultadoFinanceiroExcedeMinimo>
+			<RendimentosDeclarados>49948848.15</RendimentosDeclarados>
+			<RendimentosPagosAntec>-33281900.22</RendimentosPagosAntec>
+			<RendimentoPagar>16666947.93</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>0.940564</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

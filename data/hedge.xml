@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>HEDGE BRASIL SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO</NomeFundo>
+		<CNPJFundo>08431747000106</CNPJFundo>
+		<DataFuncionamento>2006-12-28</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRHGBSCTF000</CodigoISIN>
+		<QtdCotasEmitidas>10000000</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Renda</Mandato>
+			<SegmentoAtuacao>Shoppings</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>31/12</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>HEDGE INVESTMENTS DTVM LTDA</NomeAdministrador>
+		<CNPJAdministrador>08431747000106</CNPJAdministrador>
+		<Logradouro>AVENIDA HORÁCIO LAFER</Logradouro>
+		<Numero>160</Numero>
+		<Complemento>9º ANDAR (PARTE)</Complemento>
+		<Bairro>ITAIM BIBI</Bairro>
+		<Cidade>SÃO PAULO</Cidade>
+		<Estado>SP</Estado>
+		<CEP>04538-080</CEP>
+		<Telefone1>(11) 3124-4100</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.hedgeinvest.com.br</Site>
+		<Email>dtvm@hedgeinvest.com.br</Email>
+		<Competencia>01/2021</Competencia>
+		<DataEncerTrimestre>2021-03-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+							<Imovel>
+								<Nome>Shopping Center Penha - 87,5628%</Nome>
+								<Endereco>R Dr. João Ribeiro, 304 - Penha de França, São Paulo - SP</Endereco>
+								<Area>29898.72</Area>
+								<NumUnidades>171</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.069234</PercentVacancia>
+								<PercentInadimplencia>0.106578</PercentInadimplencia>
+								<PercentReceitasFII>0.139</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Tivoli Shopping - 59%</Nome>
+								<Endereco>Av. Santa Barbara, 777 - Vila Mollon IV, Santa Bárbara D'Oeste - SP</Endereco>
+								<Area>24692.51</Area>
+								<NumUnidades>143</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.025098</PercentVacancia>
+								<PercentInadimplencia>0.215595</PercentInadimplencia>
+								<PercentReceitasFII>0.060795</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Mooca Plaza Shopping - 20%</Nome>
+								<Endereco>Rua Cap. Pacheco e Chaves, 313 - Mooca, São Paulo - SP</Endereco>
+								<Area>41990.86</Area>
+								<NumUnidades>216</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.027881</PercentVacancia>
+								<PercentInadimplencia>0.053066</PercentInadimplencia>
+								<PercentReceitasFII>0.053141</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>São Bernardo Plaza Shopping - 35%</Nome>
+								<Endereco>Av. Rotary, 624 - Centro, São Bernardo do Campo - SP</Endereco>
+								<Area>42871.69</Area>
+								<NumUnidades>189</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.079779</PercentVacancia>
+								<PercentInadimplencia>0.034389</PercentInadimplencia>
+								<PercentReceitasFII>0.065494</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>I Fashion Outlet - 49%</Nome>
+								<Endereco>BR-116, 236 - Rio Branco, Novo Hamburgo - RS</Endereco>
+								<Area>20056.3</Area>
+								<NumUnidades>92</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.043653</PercentVacancia>
+								<PercentInadimplencia>0.130676</PercentInadimplencia>
+								<PercentReceitasFII>0.050198</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Goiabeiras Shopping - 53,99%</Nome>
+								<Endereco>Av. José Monteiro Figueiredo, 500 - Duque de Caxias, Cuiabá - MT</Endereco>
+								<Area>26292</Area>
+								<NumUnidades>193</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.272834</PercentVacancia>
+								<PercentInadimplencia>0.371647</PercentInadimplencia>
+								<PercentReceitasFII>-0.024063</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Santana Parque Shopping - 15%</Nome>
+								<Endereco>Rua Conselheiro Moreira de Barros, 2.780, São Paulo - SP</Endereco>
+								<Area>26565.45</Area>
+								<NumUnidades>164</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.058478</PercentVacancia>
+								<PercentInadimplencia>0.165994</PercentInadimplencia>
+								<PercentReceitasFII>0.017328</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Suzano Shopping - 15%</Nome>
+								<Endereco>Rua Sete de Setembro, 555 - Suzano - SP</Endereco>
+								<Area>24039.67</Area>
+								<NumUnidades>134</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.046797</PercentVacancia>
+								<PercentInadimplencia>0.144924</PercentInadimplencia>
+								<PercentReceitasFII>0.031797</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Shopping West Plaza - 70%</Nome>
+								<Endereco>Av. Francisco Matarazzo s/n, Bloco B, São Paulo, SP</Endereco>
+								<Area>36780.27</Area>
+								<NumUnidades>172</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.094233</PercentVacancia>
+								<PercentInadimplencia>0.159236</PercentInadimplencia>
+								<PercentReceitasFII>0.066239</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Shopping Villa Lobos - 15%</Nome>
+								<Endereco>Av. das Nações Unidas, 4777, São Paulo - SP</Endereco>
+								<Area>28266.15</Area>
+								<NumUnidades>218</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.027982</PercentVacancia>
+								<PercentInadimplencia>0.130428</PercentInadimplencia>
+								<PercentReceitasFII>0.072948</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Franca Shopping - 0,3673897836%</Nome>
+								<Endereco>Av. Rio Negro, 1.100, Franca - SP</Endereco>
+								<Area>18651.32</Area>
+								<NumUnidades>96</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.024703</PercentVacancia>
+								<PercentInadimplencia>0.145721</PercentInadimplencia>
+								<PercentReceitasFII>0.00021</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Shopping Praça da Moça - 23,06%</Nome>
+								<Endereco>Rua Manoel da Nobrega, 712, Centro, Diadema - SP</Endereco>
+								<Area>29784.27</Area>
+								<NumUnidades>139</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.024716</PercentVacancia>
+								<PercentInadimplencia>0.102544</PercentInadimplencia>
+								<PercentReceitasFII>0.007595</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>0</PercentReceitaImovel><PercentReceitasFII>0</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses percentReceitaImovel="0.021292" percentReceitasFII="0.011512"/>
+							<TresAteSeisMeses percentReceitaImovel="0.024513" percentReceitasFII="0.013254"/>
+							<SeisAteNoveMeses percentReceitaImovel="0.04786" percentReceitasFII="0.025877"/>
+							<NoveAteDozeMeses percentReceitaImovel="0.019451" percentReceitasFII="0.010517"/>
+							<DozeAteQuinzeMeses percentReceitaImovel="0.037051" percentReceitasFII="0.020033"/>
+							<QuinzeAteDezoitoMeses percentReceitaImovel="0.032021" percentReceitasFII="0.017313"/>
+							<DezoitoAteVinteUmMeses percentReceitaImovel="0.097906" percentReceitasFII="0.052936"/>
+							<VinteUmAteVinteQuatroMeses percentReceitaImovel="0.0273" percentReceitasFII="0.014761"/>
+							<VinteQuatroAteVinteSeteMeses percentReceitaImovel="0.034706" percentReceitasFII="0.018765"/>
+							<VinteSeteAteTrintaMeses percentReceitaImovel="0.032241" percentReceitasFII="0.017432"/>
+							<TrintaAteTrintaTresMeses percentReceitaImovel="0.078589" percentReceitasFII="0.042492"/>
+							<TrintaTresAteTrintaSeisMeses percentReceitaImovel="0.023018" percentReceitasFII="0.012445"/>
+							<AcimaTrintaSeisMeses percentReceitaImovel="0.357625" percentReceitasFII="0.193361"/>
+							<PrazoIndeterminado percentReceitaImovel="0.166427" percentReceitasFII="0.089984"/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM percentReceitaImovel="0.353666" percentReceitasFII="0.191221"/>
+							<INPC percentReceitaImovel="0.00429" percentReceitasFII="0.00232"/>
+							<IPCA percentReceitaImovel="0.204162" percentReceitasFII="0.110387"/>
+							<INCC percentReceitaImovel="0" percentReceitasFII="0"/>
+							<OutrosIndicadores>
+								<Indicador nome="IPC" percentReceitaImovel="0.028376" percentReceitasFII="0.015342"/>
+								<Indicador nome="IGP-DI" percentReceitaImovel="0.409506" percentReceitasFII="0.221413"/>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns>Contratos típicos que seguem a Lei do Inquilinato, com reajuste anual por índice, aviso prévio e multa por rescisão antecipada.</CaractContratuaisComuns>
+						<CaractContratuaisIndividual>
+							<Imovel>
+								<NomeOuEndereco>-</NomeOuEndereco>
+								<CaractContratuais>-</CaractContratuais>
+							</Imovel>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro>Gerenciamento das vigências das apólices. Para cotação dos valores em risco do imóvel, é considerado o laudo de avaliação feito por empresa independente. Análise de risco para fins de cobertura.</PoliticaContratacaoSeguro>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+					<Emissor>
+						<Fundo>HEDGE SHOPPING PARQUE DOM PEDRO FII</Fundo>
+						<CNPJ>35586415000173</CNPJ>
+						<Quantidade>2580686</Quantidade>
+						<Valor>214119517.42</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>MAUÁ CAPITAL RECEBIVEIS IMOBILIARIOS FII</Fundo>
+						<CNPJ>23648935000184</CNPJ>
+						<Quantidade>914162</Quantidade>
+						<Valor>95045423.14</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FUNDO INVEST. IMOB. GRAND PLAZA SHOPPING</Fundo>
+						<CNPJ>1201140000190</CNPJ>
+						<Quantidade>887531</Quantidade>
+						<Valor>69582430.4</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>CSHG RECEBIVEIS IMOBILIARIOS FII</Fundo>
+						<CNPJ>11160521000122</CNPJ>
+						<Quantidade>619789</Quantidade>
+						<Valor>67290491.73</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FLORIPA SHOPPING FUNDO INVEST IMOBILIARI</Fundo>
+						<CNPJ>10375382000191</CNPJ>
+						<Quantidade>39223</Quantidade>
+						<Valor>50333699.21</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII VIA PARQUE SHOPPING</Fundo>
+						<CNPJ>332266000131</CNPJ>
+						<Quantidade>339387</Quantidade>
+						<Valor>47856960.87</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII SHOPPING JARDIM SUL</Fundo>
+						<CNPJ>14879856000193</CNPJ>
+						<Quantidade>648302</Quantidade>
+						<Valor>44732838</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII SHOPPING WEST PLAZA</Fundo>
+						<CNPJ>9326861000139</CNPJ>
+						<Quantidade>642070</Quantidade>
+						<Valor>41278680.3</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>KINEA RENDIMENTOS IMOBILIARIOS FII</Fundo>
+						<CNPJ>16706958000132</CNPJ>
+						<Quantidade>185854</Quantidade>
+						<Valor>17381066.08</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FDO INV IMO - FII BTG PACTUAL FDO DE CRI</Fundo>
+						<CNPJ>9552812000114</CNPJ>
+						<Quantidade>170185</Quantidade>
+						<Valor>16167575</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>GENERAL SHOPPING ATIVO RENDA FII</Fundo>
+						<CNPJ>17590518000125</CNPJ>
+						<Quantidade>145112</Quantidade>
+						<Valor>8594983.76</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>SANTANDER PAPEIS IMOBILIARIOS CDI FII</Fundo>
+						<CNPJ>32903521000145</CNPJ>
+						<Quantidade>34810</Quantidade>
+						<Valor>2843628.9</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>HEDGE ATRIUM SHOPPING SANTO ANDRE FII</Fundo>
+						<CNPJ>12809972000100</CNPJ>
+						<Quantidade>2719</Quantidade>
+						<Valor>303168.5</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>HABITAT RECEBIVEIS PULVERIZADOS FII</Fundo>
+						<CNPJ>30578417000105</CNPJ>
+						<Quantidade>1000</Quantidade>
+						<Valor>120400</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII PARQUE DOM PEDRO SHOPPING CENTER</Fundo>
+						<CNPJ>10869155000112</CNPJ>
+						<Quantidade>3</Quantidade>
+						<Valor>8235</Valor>
+					</Emissor>
+				</FII>
+				<CRI>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A.</Companhia>
+						<CNPJ>07.587.384/0001-30</CNPJ>
+						<Emissao>4ª Emissão</Emissao>
+						<Serie>Série nº 33</Serie>
+						<Quantidade>18</Quantidade>
+						<Valor>9751678.29</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>GAIA SECURITIZADORA S.A.</Companhia>
+						<CNPJ>07.587.384/0001-30</CNPJ>
+						<Emissao>4ª Emissão</Emissao>
+						<Serie>Série nº 55</Serie>
+						<Quantidade>17</Quantidade>
+						<Valor>6892308.68</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZAC</Companhia>
+						<CNPJ>02.773.542/0001-22</CNPJ>
+						<Emissao>1ª Emissão</Emissao>
+						<Serie>Série nº 262</Serie>
+						<Quantidade>4813</Quantidade>
+						<Valor>4888749.76</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZAC</Companhia>
+						<CNPJ>02.773.542/0001-22</CNPJ>
+						<Emissao>1ª Emissão</Emissao>
+						<Serie>Série nº 262</Serie>
+						<Quantidade>4813</Quantidade>
+						<Valor>4888749.76</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZAC</Companhia>
+						<CNPJ>02.773.542/0001-22</CNPJ>
+						<Emissao>1ª Emissão</Emissao>
+						<Serie>Série nº 262</Serie>
+						<Quantidade>3850</Quantidade>
+						<Valor>3910593.51</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZAC</Companhia>
+						<CNPJ>02.773.542/0001-22</CNPJ>
+						<Emissao>1ª Emissão</Emissao>
+						<Serie>Série nº 262</Serie>
+						<Quantidade>2887</Quantidade>
+						<Valor>2932437.27</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>RB CAPITAL COMPANHIA DE SECURITIZAC</Companhia>
+						<CNPJ>02.773.542/0001-22</CNPJ>
+						<Emissao>1ª Emissão</Emissao>
+						<Serie>Série nº 262</Serie>
+						<Quantidade>4812</Quantidade>
+						<Valor>4887734.02</Valor>
+					</Emissor>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+				</AcoesSocFII>
+				<CotasSocFII>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>2632.37</Disponibilidades>
+				<TitulosPublicos xsi:nil="true"/>
+				<TitulosPrivados xsi:nil="true"/>
+				<FundosRendaFixa>4097491.13</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+					<Imovel>
+						<Nome>Shopping Praça da Moça - 23,06%</Nome>
+						<Endereco>Rua Manoel da Nobrega, 712, Centro, Diadema - SP</Endereco>
+						<Area>29784.27</Area>
+						<NumUnidades>139</NumUnidades>
+						<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+						<PercentTotalInvestido>0.04</PercentTotalInvestido>
+						<Categoria>Renda</Categoria>
+					</Imovel>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda/>
+					<CustoImovEstoque/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis contabil="13385876" financeiro="15612159.62"/>
+					<DespManutencaoConservacao/>
+					<ReceitasVenda/>
+					<CustoPropriedadesVendidas/>
+					<AjusteValor contabil="1171188.67"/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="14557064.67" financeiro="15612159.62"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros contabil="59761049.32" financeiro="48004746.1"/>
+					<AjusteValor contabil="-56919372.28"/>
+					<ResultadoVenda contabil="-327850.18" financeiro="-34786941.97"/>
+					<OutrasRecOuDesp contabil="-3419345.88" financeiro="-2415.38"/>
+					<ResultadoLiquido contabil="-905519.02" financeiro="13215388.75"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="13651545.65" financeiro="28827548.37"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="65400.56" financeiro="65400.56"/>
+				<AjusteValorAplicacoes/>
+				<ResultadoVendaAplicacoes/>
+				<OutrasRecOuDespAplicacoes/>
+				<ResultadoLiquido contabil="65400.56" financeiro="65400.56"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-3054978.53" financeiro="-3071802.34"/>
+				<TaxaDesempenho/>
+				<ConsultoriaEspecializada/>
+				<EmpresaEspecializada/>
+				<FormadorMercado/>
+				<CustodiaTitulosValores contabil="-190888.23" financeiro="-188923.88"/>
+				<AuditoriaIndependente financeiro="-140800"/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="-58554.65" financeiro="-65369.42"/>
+				<ComissoesEmolumentos contabil="-15227.09" financeiro="-20441.75"/>
+				<HonorariosDespesasDefesas contabil="-222382.01" financeiro="-222382.01"/>
+				<GastosContratosSeguros/>
+				<DespesasAvaliacoes contabil="-59069.03" financeiro="-59069.03"/>
+				<TaxasIngressoSaidaFundos/>
+				<DespesasRegistroCartorio contabil="-719.04" financeiro="-663.05"/>
+				<OutrasRecOuDesp contabil="-176722.31" financeiro="-150586.29"/>
+				<Total contabil="-3778540.89" financeiro="-3920037.77"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="9938405.32" financeiro="24972911.16"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>24972911.16</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>23724265.602</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte>-3724265.6</ParcelaDistribuidaTriSeguinte>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil xsi:nil="true"/>
+			<ResultadoFinanceiroExcedeMinimo xsi:nil="true"/>
+			<RendimentosDeclarados>20000000.002</RendimentosDeclarados>
+			<RendimentosPagosAntec>-16000000</RendimentosPagosAntec>
+			<RendimentoPagar>4000000.002</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>0.800868</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

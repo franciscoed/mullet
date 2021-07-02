@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>CSHG LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII</NomeFundo>
+		<CNPJFundo>11728688000147</CNPJFundo>
+		<DataFuncionamento>2010-05-06</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRHGLGCTF004</CodigoISIN>
+		<QtdCotasEmitidas>18436967</QtdCotasEmitidas>
+		<FundoExclusivo>false</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Renda</Mandato>
+			<SegmentoAtuacao>Logística</SegmentoAtuacao>
+			<TipoGestao>Ativa</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>31/12</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>CREDIT SUISSE HEDGING - GRIFFO CORRETORA DE VALORES S.A.</NomeAdministrador>
+		<CNPJAdministrador>11728688000147</CNPJAdministrador>
+		<Logradouro>RUA LEOPOLDO COUTO DE MAGALHÃES JR</Logradouro>
+		<Numero>700</Numero>
+		<Complemento>11º andar</Complemento>
+		<Bairro>ITAIM BIBI</Bairro>
+		<Cidade>SÃO PAULO</Cidade>
+		<Estado>SP</Estado>
+		<CEP>04542-000</CEP>
+		<Telefone1>(11) 3701-8600</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.imobiliario.cshg.com.br</Site>
+		<Email>list.imobiliario@cshg.com.br</Email>
+		<Competencia>1/2021</Competencia>
+		<DataEncerTrimestre>2021-03-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+					<Terreno>
+						<Endereco>Rodovia BR 101, 5225, Cabo de Santo Agostinho - PE</Endereco>
+						<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+						<Area>17901</Area>
+						<PercentTotalInvestido>0.001275</PercentTotalInvestido>
+						<PercentReceitasFII>0</PercentReceitasFII>
+					</Terreno>
+					<Terreno>
+						<Endereco>Rodovia Fernão Dias, Km 937, Extrema - MG</Endereco>
+						<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+						<Area>1293654</Area>
+						<PercentTotalInvestido>0.019208</PercentTotalInvestido>
+						<PercentReceitasFII>0</PercentReceitasFII>
+					</Terreno>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+							<Imovel>
+								<Nome>Centro Empresarial Atibaia (Módulos 12 a 14 Ed. Safira)</Nome>
+								<Endereco>Av. Tégula, 888, Ponte Alta - Atibaia - SP</Endereco>
+								<Area>7747</Area>
+								<NumUnidades>3</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>1</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.000087</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>-</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.000087</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Condomínio Tech Town</Nome>
+								<Endereco>Rodovia SP 101, Km 9,5 - Hortolândia - SP</Endereco>
+								<Area>7905</Area>
+								<NumUnidades>3</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.516</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.007129</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Tecnologia da informação</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.007129</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Master Offices</Nome>
+								<Endereco>Av. Guido Caloi, 1.935 -  São Paulo - SP</Endereco>
+								<Area>14234</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.2083</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.030314</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Saúde</SetorAtuacao><PercentReceitaImovel>0.405974</PercentReceitaImovel><PercentReceitasFII>0.012307</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Brascabos Rio Claro</Nome>
+								<Endereco>Avenida Brasil, 3.464 - Rio Claro - SP</Endereco>
+								<Area>11491.64</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.010113</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Materiais diversos</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.010113</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Cremer Blumenau</Nome>
+								<Endereco>Rua Iguaçu, 291/383 - Blumenau - SC</Endereco>
+								<Area>65824.77</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.059918</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Saúde</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.059918</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Tetra Pak Monte Mor</Nome>
+								<Endereco>Rua Tobias Bueno de Oliveira, 701, Monte Mor, SP</Endereco>
+								<Area>24696</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.043921</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Embalagens</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.043921</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Gerdau Rio de Janeiro</Nome>
+								<Endereco>Estrada do Pedregoso, 900, Freguesia de Campo Grande, RJ</Endereco>
+								<Area>16592</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.025997</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Siderurgia</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.025998</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Lojas Americanas Uberlândia</Nome>
+								<Endereco>BR-497, Km 1480, Uberlândia, MG</Endereco>
+								<Area>88689</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.120953</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Varejo</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.120953</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Centro Logístico Cumbica</Nome>
+								<Endereco>Rua Antônio Utrilla, 1062.</Endereco>
+								<Area>18276</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.013412</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Logístico</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.013412</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Volkswagen Vinhedo</Nome>
+								<Endereco>Avenida das Indústrias, s/n, CPI 5000</Endereco>
+								<Area>132353</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.176097</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Automobilístico</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.176097</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Condomínio SJC</Nome>
+								<Endereco>Rua Ambrósio Molina, 1090/1100</Endereco>
+								<Area>69466</Area>
+								<NumUnidades>11</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.2396</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.05412</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Tecnologia da informação</SetorAtuacao><PercentReceitaImovel>0.737336</PercentReceitaImovel><PercentReceitasFII>0.039905</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Automobilístico</SetorAtuacao><PercentReceitaImovel>0.164399</PercentReceitaImovel><PercentReceitasFII>0.008897</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Extrema</Nome>
+								<Endereco>Estrada Municipal José Geraldo Aparecido e Rua Josepha Gomes de Souza, Extrema - MG</Endereco>
+								<Area>34101</Area>
+								<NumUnidades>3</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.04926</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Automobilístico</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.04926</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Itupeva</Nome>
+								<Endereco>Estrada Joaquim Bueno Neto, 9835, Itupeva - SP</Endereco>
+								<Area>58828</Area>
+								<NumUnidades>12</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.0836</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.062573</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Automobilístico</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.058047</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Betim</Nome>
+								<Endereco>Avenida Parque B, 347, Betim - MG</Endereco>
+								<Area>62587</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>1</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.086559</PercentReceitasFII>
+								<Inquilinos/></Imovel>
+							<Imovel>
+								<Nome>GR Louveira</Nome>
+								<Endereco>Rua Atílio Biscuola, 1831, Louveira - SP</Endereco>
+								<Area>55202</Area>
+								<NumUnidades>13</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.0369</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.059408</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Bebidas</SetorAtuacao><PercentReceitaImovel>0.771198</PercentReceitaImovel><PercentReceitasFII>0.045815</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Energia solar</SetorAtuacao><PercentReceitaImovel>0.180486</PercentReceitaImovel><PercentReceitasFII>0.010722</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>CONE G06</Nome>
+								<Endereco>Rodovia BR 101, 5225, Cabo de Santo Agostinho - PE</Endereco>
+								<Area>21550</Area>
+								<NumUnidades>11</NumUnidades>
+								<OutrasCaractRelevantes>-</OutrasCaractRelevantes>
+								<PercentVacancia>0.1819</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.010546</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Automobilístico</SetorAtuacao><PercentReceitaImovel>0.318025</PercentReceitaImovel><PercentReceitasFII>0.003354</PercentReceitasFII></Inquilino><Inquilino><SetorAtuacao>Logístico</SetorAtuacao><PercentReceitaImovel>0.681975</PercentReceitaImovel><PercentReceitasFII>0.007192</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses percentReceitaImovel="0.00708364549551186" percentReceitasFII="0.00574063249858608"/>
+							<TresAteSeisMeses percentReceitaImovel="0.00219469816705519" percentReceitasFII="0.00177859770514588"/>
+							<SeisAteNoveMeses percentReceitaImovel="0.00102741434900083" percentReceitasFII="0.000832623287701898"/>
+							<NoveAteDozeMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<DozeAteQuinzeMeses percentReceitaImovel="0.0562294915567535" percentReceitasFII="0.0455687466028882"/>
+							<QuinzeAteDezoitoMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<DezoitoAteVinteUmMeses percentReceitaImovel="0.005771438603765" percentReceitasFII="0.00467721147724849"/>
+							<VinteUmAteVinteQuatroMeses percentReceitaImovel="0.00708984585160915" percentReceitasFII="0.00574565730759684"/>
+							<VinteQuatroAteVinteSeteMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<VinteSeteAteTrintaMeses percentReceitaImovel="0.00725253715874409" percentReceitasFII="0.00587750340373026"/>
+							<TrintaAteTrintaTresMeses percentReceitaImovel="0.0129556830533212" percentReceitasFII="0.0104993700241492"/>
+							<TrintaTresAteTrintaSeisMeses percentReceitaImovel="0.0188146835135028" percentReceitasFII="0.0152475422007862"/>
+							<AcimaTrintaSeisMeses percentReceitaImovel="0.752279880878923" percentReceitasFII="0.609652520717223"/>
+							<PrazoIndeterminado percentReceitaImovel="0.129193674041612" percentReceitasFII="0.104699395852731"/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM percentReceitaImovel="0.450874911938634" percentReceitasFII="0.365391968572113"/>
+							<INPC percentReceitaImovel="0" percentReceitasFII="0"/>
+							<IPCA percentReceitaImovel="0.442208788393531" percentReceitasFII="0.358368885543565"/>
+							<INCC percentReceitaImovel="0" percentReceitasFII="0"/>
+							<OutrosIndicadores>
+								<Indicador nome="AAA"/>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns>Contratos típicos que seguem a lei do inquilinato, com reajuste anual por índice, aviso prévio e multa por rescisão antecipada e contratos atípicos de locação.</CaractContratuaisComuns>
+						<CaractContratuaisIndividual>
+							<Imovel>
+								<NomeOuEndereco>-</NomeOuEndereco>
+								<CaractContratuais>-</CaractContratuais>
+							</Imovel>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro>Gerenciamento das vigências das apólices. Para cotação dos valores em risco do imóvel é considerado o laudo de avaliação feito por empresa independente. Análise de risco para fins de cobertura.</PoliticaContratacaoSeguro>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+					<Emissor>
+						<Fundo>FUNDO INVEST IMOBILIARIO EUROPAR</Fundo>
+						<CNPJ>05.437.916/0001-27</CNPJ>
+						<Quantidade>6130</Quantidade>
+						<Valor>1257263</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>HSI MALLS FII</Fundo>
+						<CNPJ>32.892.018/0001-31</CNPJ>
+						<Quantidade>132265</Quantidade>
+						<Valor>11612867</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FUNDO INVEST IMOBILIARIO INDL BRASIL</Fundo>
+						<CNPJ>14.217.108/0001-45</CNPJ>
+						<Quantidade>103659</Quantidade>
+						<Valor>52223404.2</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>KINEA RENDIMENTOS IMOBILIARIOS FII</Fundo>
+						<CNPJ>16.706.958/0001-32</CNPJ>
+						<Quantidade>70639</Quantidade>
+						<Valor>6606159.28</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>RBR LOG - FUNDO DE INVESTIMENTO IMOBILIÁ</Fundo>
+						<CNPJ>35.705.463/0001-33</CNPJ>
+						<Quantidade>45934</Quantidade>
+						<Valor>4920909.42</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII SDI RIO BRAVO RENDA LOGISTICA FII</Fundo>
+						<CNPJ>16.671.412/0001-93</CNPJ>
+						<Quantidade>304658</Quantidade>
+						<Valor>30435334.2</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>SUCCESPAR VAREJO FII</Fundo>
+						<CNPJ>27.538.422/0001-71</CNPJ>
+						<Quantidade>327769</Quantidade>
+						<Valor>34755658.4</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>BRESCO FII</Fundo>
+						<CNPJ>20.748.515/0001-81</CNPJ>
+						<Quantidade>156672</Quantidade>
+						<Valor>17468928</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FII BTG PACTUAL CREDITO IMOBILIARIO</Fundo>
+						<CNPJ>29.787.928/0001-40</CNPJ>
+						<Quantidade>17800</Quantidade>
+						<Valor>1644720</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>TRX REALTY LOGISTICA RENDA I FUNDO DE IN</Fundo>
+						<CNPJ>11.839.593/0001-09</CNPJ>
+						<Quantidade>114697</Quantidade>
+						<Valor>13156892.87</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>HEDGE LOGISTICA FII</Fundo>
+						<CNPJ>27.486.542/0001-72</CNPJ>
+						<Quantidade>228691</Quantidade>
+						<Valor>26756847</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>PANORAMA DESENVOLVIMENTO LOGISTICO FII</Fundo>
+						<CNPJ>37.899.400/0001-90</CNPJ>
+						<Quantidade>2422</Quantidade>
+						<Valor>1521646.27</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>FUNDO DE INVESTIMENTO IMOBILIARIO - V2 P</Fundo>
+						<CNPJ>33.045.581/0001-37</CNPJ>
+						<Quantidade>239289</Quantidade>
+						<Valor>24144260.1</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>VINCI LOGISTICA FII</Fundo>
+						<CNPJ>24.853.044/0001-22</CNPJ>
+						<Quantidade>26322</Quantidade>
+						<Valor>3105732.78</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>VX III - FUNDO DE INVESTIMENTO IMOBILIAR</Fundo>
+						<CNPJ>28.516.325/0001-40</CNPJ>
+						<Quantidade>491118</Quantidade>
+						<Valor>54366762.6</Valor>
+					</Emissor>
+					<Emissor>
+						<Fundo>XP LOG FII</Fundo>
+						<CNPJ>26.502.794/0001-85</CNPJ>
+						<Quantidade>275968</Quantidade>
+						<Valor>32061962.24</Valor>
+					</Emissor>
+				</FII>
+				<CRI>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>09.304.427/0001-58</CNPJ>
+						<Emissao>1 ª Emissão</Emissao>
+						<Serie>Série nº 164</Serie>
+						<Quantidade>2160</Quantidade>
+						<Valor>2025243.55</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>09.304.427/0001-58</CNPJ>
+						<Emissao>1 ª Emissão</Emissao>
+						<Serie>Série nº 163</Serie>
+						<Quantidade>2130</Quantidade>
+						<Valor>2018437.25</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>09.304.427/0001-58</CNPJ>
+						<Emissao>1 ª Emissão</Emissao>
+						<Serie>Série nº 164</Serie>
+						<Quantidade>3733</Quantidade>
+						<Valor>3500108.42</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>HABITASEC SECURITIZADORA S.A.</Companhia>
+						<CNPJ>09.304.427/0001-58</CNPJ>
+						<Emissao>1 ª Emissão</Emissao>
+						<Serie>Série nº 163</Serie>
+						<Quantidade>6267</Quantidade>
+						<Valor>5938754.09</Valor>
+					</Emissor>
+					<Emissor>
+						<Companhia>TRUE SECURITIZADORA S.A.</Companhia>
+						<CNPJ>12.130.744/0001-00</CNPJ>
+						<Emissao>1 ª Emissão</Emissao>
+						<Serie>Série nº 301</Serie>
+						<Quantidade>65000</Quantidade>
+						<Valor>65077370.34</Valor>
+					</Emissor>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+					<Emissor>
+						<Sociedade>GOODMAN I EMPREENDIMENTOS IMOBILIARIOS S</Sociedade>
+						<CNPJ>20.277.107/0001-99</CNPJ>
+						<Quantidade>14649938</Quantidade>
+						<Valor>1000</Valor>
+					</Emissor>
+					<Emissor>
+						<Sociedade>GOODMAN ITUPEVA EMPREENDIMENTOS IMOBILIA</Sociedade>
+						<CNPJ>10.207.905/0001-90</CNPJ>
+						<Quantidade>87810283</Quantidade>
+						<Valor>1000</Valor>
+					</Emissor>
+				</AcoesSocFII>
+				<CotasSocFII>
+					<Emissor>
+						<Sociedade>HGLG EXTREMA I EMPREENDIMENTO IMOBILIARI</Sociedade>
+						<CNPJ>40.177.383/0001-92</CNPJ>
+						<Quantidade>44499026</Quantidade>
+						<Valor>44499025.95</Valor>
+					</Emissor>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>1174989.43</Disponibilidades>
+				<TitulosPublicos xsi:nil="true"/>
+				<TitulosPrivados xsi:nil="true"/>
+				<FundosRendaFixa>357875499.99</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda contabil="0" financeiro="0"/>
+					<CustoImovEstoque contabil="0" financeiro="0"/>
+					<AjusteValor contabil="0" financeiro="0"/>
+					<OutrasRecOuDesp contabil="0" financeiro="0"/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis contabil="34154408.03" financeiro="35442846.52"/>
+					<DespManutencaoConservacao contabil="-246861.15" financeiro="-179920.56"/>
+					<ReceitasVenda contabil="-0.48" financeiro="0"/>
+					<CustoPropriedadesVendidas contabil="0" financeiro="0"/>
+					<AjusteValor contabil="0" financeiro="0"/>
+					<OutrasRecOuDesp contabil="2306080.16" financeiro="2724359.22"/>
+					<ResultadoLiquido contabil="36213626.56" financeiro="37987285.18"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros contabil="7311357.75" financeiro="6501572"/>
+					<AjusteValor contabil="-13989775.36" financeiro="0"/>
+					<ResultadoVenda contabil="784095.47" financeiro="1122017"/>
+					<OutrasRecOuDesp contabil="-1517342.6" financeiro="-148930"/>
+					<ResultadoLiquido contabil="-7411664.74" financeiro="7474659"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="28801961.82" financeiro="45461944.18"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="1258668.54" financeiro="1258669"/>
+				<AjusteValorAplicacoes contabil="0" financeiro="0"/>
+				<ResultadoVendaAplicacoes contabil="0" financeiro="0"/>
+				<OutrasRecOuDespAplicacoes contabil="0" financeiro="0"/>
+				<ResultadoLiquido contabil="1258668.54" financeiro="1258669"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos contabil="0" financeiro="0"/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-4765236.47" financeiro="-4647656.89"/>
+				<TaxaDesempenho/>
+				<ConsultoriaEspecializada contabil="-21390.53" financeiro="-22990.53"/>
+				<EmpresaEspecializada/>
+				<FormadorMercado/>
+				<CustodiaTitulosValores contabil="-209215.83" financeiro="-206790.61"/>
+				<AuditoriaIndependente contabil="-14095.62" financeiro="0"/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="-59589.07" financeiro="-50235.36"/>
+				<ComissoesEmolumentos contabil="-297124.33" financeiro="-297487.19"/>
+				<HonorariosDespesasDefesas contabil="0" financeiro="26645.15"/>
+				<GastosContratosSeguros contabil="-56750.55" financeiro="-56750.55"/>
+				<DespesasAvaliacoes/>
+				<TaxasIngressoSaidaFundos/>
+				<DespesasRegistroCartorio contabil="-781.29" financeiro="-1040.98"/>
+				<OutrasRecOuDesp contabil="-883373.93" financeiro="-65439.29"/>
+				<Total contabil="-6307557.62" financeiro="-5321746.25"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="23753072.74" financeiro="41398866.93"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>41398867</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>39328923.65</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte>0</ParcelaDistribuidaTriSeguinte>
+			<ParcelasRendimentosRetidos>
+				<Parcela valor="0"/>
+				<Parcela valor="0"/>
+				<Parcela valor="0"/>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil>0</LucroContabil>
+			<ResultadoFinanceiroExcedeMinimo>3813579</ResultadoFinanceiroExcedeMinimo>
+			<RendimentosDeclarados>43142502.65</RendimentosDeclarados>
+			<RendimentosPagosAntec>-28761668</RendimentosPagosAntec>
+			<RendimentoPagar>14380834.65</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>1.042118</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>

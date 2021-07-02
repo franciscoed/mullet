@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DadosEconomicoFinanceiros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DadosGerais>
+		<NomeFundo>RB CAPITAL RENDA I FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII</NomeFundo>
+		<CNPJFundo>08696175000197</CNPJFundo>
+		<DataFuncionamento>2007-01-30</DataFuncionamento>
+		<PublicoAlvo>Investidores em Geral</PublicoAlvo>
+		<CodigoISIN>BRFIIPCTF001</CodigoISIN>
+		<QtdCotasEmitidas>927161.99990284</QtdCotasEmitidas>
+		<FundoExclusivo>true</FundoExclusivo>
+		<EnquadraNotaSeis>false</EnquadraNotaSeis>
+		<VinculoFamiliarCotistas>false</VinculoFamiliarCotistas>
+		<Autorregulacao>
+			<Mandato>Renda</Mandato>
+			<SegmentoAtuacao>Híbrido</SegmentoAtuacao>
+			<TipoGestao>Passiva</TipoGestao>
+		</Autorregulacao>
+		<PrazoDuracao>Indeterminado</PrazoDuracao>
+		<DataPrazoDuracao xsi:nil="true"/>
+		<EncerramentoExercicio>30/06</EncerramentoExercicio>
+		<MercadoNegociacao>
+			<Bolsa>true</Bolsa>
+			<MBO>false</MBO>
+			<MB>false</MB>
+		</MercadoNegociacao>
+		<EntidadeAdministradora>
+			<BVMF>true</BVMF>
+			<CETIP>false</CETIP>
+		</EntidadeAdministradora>
+		<NomeAdministrador>OLIVEIRA TRUST DTVM S.A.</NomeAdministrador>
+		<CNPJAdministrador>08696175000197</CNPJAdministrador>
+		<Logradouro>AVENIDA DAS AMÉRICAS</Logradouro>
+		<Numero>3434</Numero>
+		<Complemento>BLOCO 07 - SALA 201</Complemento>
+		<Bairro>BARRA DA TIJUCA</Bairro>
+		<Cidade>RIO DE JANEIRO</Cidade>
+		<Estado>RJ</Estado>
+		<CEP>22.640-102</CEP>
+		<Telefone1>(21) 3514-0000</Telefone1>
+		<Telefone2/>
+		<Telefone3 xsi:nil="true"/>
+		<Site>www.oliveiratrust.com.br</Site>
+		<Email>ger2.fundos@oliveiratrust.com.br</Email>
+		<Competencia>1/2021</Competencia>
+		<DataEncerTrimestre>2021-03-31</DataEncerTrimestre>
+	</DadosGerais>
+	<InformeTrimestral>
+		<InfoTipoAtivo>
+			<DireitosReaisImoveis>
+				<Terrenos>
+				</Terrenos>
+				<Imoveis>
+					<ImoveisRendaAcabados>
+						<LstImovRendaAcabados>
+							<Imovel>
+								<Nome>Ambev</Nome>
+								<Endereco>RUA ALFREDO PINTO Nº 91 - SÃO JOSÉ DOS PINHAIS – PR</Endereco>
+								<Area>10376.55</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Galpão </OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.1293</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Varejo de Bebibas</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.1258</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Barry</Nome>
+								<Endereco>RUA “A” , QUADRA “D” LOTES  11, 12 E 13 - ILHÉUS – BA</Endereco>
+								<Area>9917.95</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Galpão </OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.0769</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Alimentos</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.0773</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>C&amp;A</Nome>
+								<Endereco>RUA DR. MELLO FREIRE S/N - SÃO PAULO – SP</Endereco>
+								<Area>4103.94</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Loja no Shopping Metrô Tatuapé - SP</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.102</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Varejo</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.0992</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Danfoss</Nome>
+								<Endereco>RUA JOÃO FURLAN, S/Nº - OSASCO – SP</Endereco>
+								<Area>11108</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Galpão </OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.2519</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Engenharia e serviços</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.2451</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Pernambucanas</Nome>
+								<Endereco>AVENIDA NILO PEÇANHA Nº 296, ESQUINA COM A VIA LIGHT - NOVA IGUAÇU – RJ</Endereco>
+								<Area>3076.06</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Loja </OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.1361</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Varejo</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.1324</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Astuti</Nome>
+								<Endereco>AV. RONAT WALTER SODRE, Nº 2.800 - IBIPORÃ - PR</Endereco>
+								<Area>22534</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Galpão </OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.1489</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Agricola</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.1642</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+							<Imovel>
+								<Nome>Telha Norte</Nome>
+								<Endereco>AVENIDA GENERAL DAVID  -SARNOFF, Nº 4.840 - CONTAGEM – MG</Endereco>
+								<Area>7328</Area>
+								<NumUnidades>1</NumUnidades>
+								<OutrasCaractRelevantes>Misto</OutrasCaractRelevantes>
+								<PercentVacancia>0</PercentVacancia>
+								<PercentInadimplencia>0</PercentInadimplencia>
+								<PercentReceitasFII>0.1549</PercentReceitasFII>
+								<Inquilinos><Inquilino><SetorAtuacao>Varejo e Atacado de construção civil</SetorAtuacao><PercentReceitaImovel>1</PercentReceitaImovel><PercentReceitasFII>0.1508</PercentReceitasFII></Inquilino></Inquilinos></Imovel>
+						</LstImovRendaAcabados>
+						<DistrContratosPrazo>
+							<AteTresMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<TresAteSeisMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<SeisAteNoveMeses percentReceitaImovel="0.077714" percentReceitasFII="0.077307"/>
+							<NoveAteDozeMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<DozeAteQuinzeMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<QuinzeAteDezoitoMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<DezoitoAteVinteUmMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<VinteUmAteVinteQuatroMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<VinteQuatroAteVinteSeteMeses percentReceitaImovel="0.151554" percentReceitasFII="0.150761"/>
+							<VinteSeteAteTrintaMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<TrintaAteTrintaTresMeses percentReceitaImovel="0.246426" percentReceitasFII="0.245136"/>
+							<TrintaTresAteTrintaSeisMeses percentReceitaImovel="0" percentReceitasFII="0"/>
+							<AcimaTrintaSeisMeses percentReceitaImovel="0.524306" percentReceitasFII="0.521561"/>
+							<PrazoIndeterminado percentReceitaImovel="0" percentReceitasFII="0"/>
+						</DistrContratosPrazo>
+						<DistrContratosIndexador>
+							<IGPM percentReceitaImovel="0.62227" percentReceitasFII="0.619013"/>
+							<INPC percentReceitaImovel="0" percentReceitasFII="0"/>
+							<IPCA percentReceitaImovel="0.37773" percentReceitasFII="0.375752"/>
+							<INCC percentReceitaImovel="0" percentReceitasFII="0"/>
+							<OutrosIndicadores>
+							</OutrosIndicadores>
+						</DistrContratosIndexador>
+						<CaractContratuaisComuns>Os ativos do Fundo RB Capital Renda I possuem, em sua maioria, contratos atípicos de locação. As tipologias de garantia predominante nos contratos são a Fiança Bancária (Danfoss, e Astuti) Seguro Fiança (Barry Callebaut) ou Fiador (C&amp;A, Telhanorte, Ambev).</CaractContratuaisComuns>
+						<CaractContratuaisIndividual>
+							<Imovel>
+								<NomeOuEndereco>Ambev</NomeOuEndereco>
+								<CaractContratuais>Não Aplicável.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Barry</NomeOuEndereco>
+								<CaractContratuais>Não Aplicável.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>C&amp;A</NomeOuEndereco>
+								<CaractContratuais>Não Aplicável.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Danfoss</NomeOuEndereco>
+								<CaractContratuais>Não Aplicável.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Nova Iguaçu</NomeOuEndereco>
+								<CaractContratuais>Não Aplicável.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Astuti</NomeOuEndereco>
+								<CaractContratuais>Não Aplicável.</CaractContratuais>
+							</Imovel>
+							<Imovel>
+								<NomeOuEndereco>Telha Norte</NomeOuEndereco>
+								<CaractContratuais>Não Aplicável.</CaractContratuais>
+							</Imovel>
+						</CaractContratuaisIndividual>
+						<PoliticaContratacaoSeguro>Todos os contratos (atípicos ou não) possuem cláusulas que obrigam o Locatário a contratar Seguro Patrimonial do Imóvel.</PoliticaContratacaoSeguro>
+					</ImoveisRendaAcabados>
+					<ImoveisRendaConstrucao>
+						<LstImovRendaConstrucao>
+						</LstImovRendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisRendaConstrucao>
+					<ImoveisVendaAcabados>
+						<LstImovVendaAcabados>
+						</LstImovVendaAcabados>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaAcabados>
+					<ImoveisVendaConstrucao>
+						<LstImovVendaConstrucao>
+						</LstImovVendaConstrucao>
+						<JustificativaDesempenho>
+						</JustificativaDesempenho>
+						<PoliticaContratacaoSeguro xsi:nil="true"/>
+					</ImoveisVendaConstrucao>
+				</Imoveis>
+				<OutrosDireitosReais>
+				</OutrosDireitosReais>
+			</DireitosReaisImoveis>
+			<AtivosFinanceiros>
+				<FII>
+				</FII>
+				<CRI>
+				</CRI>
+				<LCI>
+				</LCI>
+				<LIG>
+				</LIG>
+				<CEPAC>
+				</CEPAC>
+				<Acoes>
+				</Acoes>
+				<AcoesSocFII>
+				</AcoesSocFII>
+				<CotasSocFII>
+				</CotasSocFII>
+				<FIA>
+				</FIA>
+				<FIP>
+				</FIP>
+				<FIDC>
+				</FIDC>
+				<OutrasCotasFI>
+				</OutrasCotasFI>
+				<OutrosAtivosFinanceiros>
+				</OutrosAtivosFinanceiros>
+			</AtivosFinanceiros>
+			<AtivosNecessidadeLiquidez>
+				<Disponibilidades>21143.87</Disponibilidades>
+				<TitulosPublicos xsi:nil="true"/>
+				<TitulosPrivados xsi:nil="true"/>
+				<FundosRendaFixa>5005912.06</FundosRendaFixa>
+			</AtivosNecessidadeLiquidez>
+		</InfoTipoAtivo>
+		<AquisicoesAlienacoes>
+			<Terrenos>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Terrenos>
+			<Imoveis>
+				<Aquisicoes>
+				</Aquisicoes>
+				<Alienacoes>
+				</Alienacoes>
+			</Imoveis>
+		</AquisicoesAlienacoes>
+		<OutrasInfo>
+			<RentabilidadeGarantida>
+				<AtivosGarantiaRent>
+				</AtivosGarantiaRent>
+				<RentEfetivaVigGarantia>
+				</RentEfetivaVigGarantia>
+			</RentabilidadeGarantida>
+		</OutrasInfo>
+		<DemonstracoesContabilFinanc>
+			<AtivosImobiliarios>
+				<Estoques>
+					<ReceitasVenda/>
+					<CustoImovEstoque/>
+					<AjusteValor/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</Estoques>
+				<PropriedadesInvest>
+					<ReceitasAlugueis contabil="3974374.65" financeiro="3791139.2"/>
+					<DespManutencaoConservacao contabil="-11119.77"/>
+					<ReceitasVenda/>
+					<CustoPropriedadesVendidas/>
+					<AjusteValor/>
+					<OutrasRecOuDesp contabil="-41.45"/>
+					<ResultadoLiquido contabil="3963213.43" financeiro="3791139.2"/>
+				</PropriedadesInvest>
+				<TVM>
+					<ReceitasJuros/>
+					<AjusteValor/>
+					<ResultadoVenda/>
+					<OutrasRecOuDesp/>
+					<ResultadoLiquido contabil="0" financeiro="0"/>
+				</TVM>
+				<ResultadoLiquidoTotal contabil="3963213.43" financeiro="3791139.2"/>
+			</AtivosImobiliarios>
+			<RecursosLiquidez>
+				<ReceitasJurosAplicacoes contabil="20606.06" financeiro="15951.48"/>
+				<AjusteValorAplicacoes/>
+				<ResultadoVendaAplicacoes/>
+				<OutrasRecOuDespAplicacoes/>
+				<ResultadoLiquido contabil="20606.06" financeiro="15951.48"/>
+			</RecursosLiquidez>
+			<ResultadoLiquidoDerivativos/>
+			<OutrasReceitasDespesas>
+				<TaxaAdministracao contabil="-57683.91" financeiro="-57683.91"/>
+				<TaxaDesempenho/>
+				<ConsultoriaEspecializada financeiro="-46043.22"/>
+				<EmpresaEspecializada/>
+				<FormadorMercado/>
+				<CustodiaTitulosValores/>
+				<AuditoriaIndependente/>
+				<RepresentantesCotistas/>
+				<TaxasImpostosContribuicoes contabil="-9022.16" financeiro="-9022.16"/>
+				<ComissoesEmolumentos/>
+				<HonorariosDespesasDefesas contabil="-6050" financeiro="-68187.87"/>
+				<GastosContratosSeguros/>
+				<DespesasAvaliacoes/>
+				<TaxasIngressoSaidaFundos/>
+				<DespesasRegistroCartorio contabil="-49281.87" financeiro="-7144"/>
+				<OutrasRecOuDesp contabil="-104806.42" financeiro="-69036.24"/>
+				<Total contabil="-226844.36" financeiro="-257117.4"/>
+			</OutrasReceitasDespesas>
+			<ResultadoTrimestralLiquido contabil="3756975.13" financeiro="3549973.28"/>
+		</DemonstracoesContabilFinanc>
+		<DistrResultadoAcumulado>
+			<ResultadoFinanLiqAcumulado>3549973.28</ResultadoFinanLiqAcumulado>
+			<PercentResultFinanLiqAcumulado>3372474.616</PercentResultFinanLiqAcumulado>
+			<ParcelaDistribuidaTriSeguinte xsi:nil="true"/>
+			<ParcelasRendimentosRetidos>
+			</ParcelasRendimentosRetidos>
+			<LucroContabil xsi:nil="true"/>
+			<ResultadoFinanceiroExcedeMinimo xsi:nil="true"/>
+			<RendimentosDeclarados>3372474.616</RendimentosDeclarados>
+			<RendimentosPagosAntec>-3372474.62</RendimentosPagosAntec>
+			<RendimentoPagar>-0.004</RendimentoPagar>
+			<ResultadoLiquidoDeclarado>0.95</ResultadoLiquidoDeclarado>
+		</DistrResultadoAcumulado>
+	</InformeTrimestral>
+</DadosEconomicoFinanceiros>
