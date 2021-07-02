@@ -67,7 +67,9 @@ st.header("Outros ativos financeiros")
 # Reiniciando as variaveis
 ativos_lista = []
 tmp_list = []
-
+# Dependendo do tipo do ativo ele pode ser de um Fundo ou de uma Sociedade
+# Tudo será transformado em "Nome" para uma melhor vizualizacao
+name_list = ['Fundo', 'Sociedade', 'Companhia']
 # esperamos que o XML nao mude, mas caso ele mude, vamos sempre pegar os tipos
 # de ativos financeiros diponiveis nele
 for elem in root.findall('.//AtivosFinanceiros'):
@@ -83,7 +85,10 @@ for ativo in ativos_lista:
         tmp_dict['Tipo'] = ativo
         # Para cada informacao de ativo que tiver no XML vamos criar um campo no dicionario
         for subelem in elem:
-            tmp_dict[subelem.tag] = subelem.text
+            if subelem.tag in name_list:
+                tmp_dict['Nome'] = subelem.text
+            else:
+                tmp_dict[subelem.tag] = subelem.text
         # assim q o dicionario estiver ok, vamos adicionar ele em uma lista para ser consumida pelo pandas
         tmp_list.append(tmp_dict)
 
@@ -91,12 +96,8 @@ for ativo in ativos_lista:
 df_af = pd.DataFrame(data=tmp_list)
 # Cosmetico: preenchedo os nan com string vazia
 df_af = df_af.fillna("")
-# Dependendo do tipo do ativo ele pode ser de um Fundo ou de uma Sociedade
 # Entao vamos juntar as duas informacoes em uma coluna e dropar as anteriores
-if "Fundo" in df_af and "Sociedade" in df_af:
-    df_af["Fundo/Sociedade"] = df_af["Fundo"] + df_af["Sociedade"]
-    del df_af["Fundo"]
-    del df_af["Sociedade"]
+
 # Plot
 st.table(df_af)
 
